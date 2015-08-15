@@ -1,0 +1,7 @@
+auto
+/etc/X11/xinit/xinputrc
+
+/etc/X11/xinit/xinput.d/none.conf
+10
+/etc/X11/xinit/xinput.d/xim.conf
+30

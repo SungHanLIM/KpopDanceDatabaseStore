@@ -1,0 +1,901 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrollKeeperContentsList>
+
+
+
+  <sect categorycode="Applications">
+    <title>Aplicaţii</title>
+    <sect categorycode="ApplicationsAmusement">
+      <title>Amuzament</title>
+      </sect>
+    <sect categorycode="ApplicationsEducation">
+      <title>Educaţie</title>
+      <sect categorycode="ApplicationsEducationArts">
+        <title>Arte</title>
+        </sect>
+      <sect categorycode="ApplicationsEducationComputer Science">
+        <title>Informatică</title>
+        </sect>
+      <sect categorycode="ApplicationsEducationEnglish">
+        <title>Engleză</title>
+        </sect>
+      <sect categorycode="ApplicationsEducationLanguage">
+        <title>Limbă</title>
+        </sect>
+      <sect categorycode="ApplicationsEducationMaths">
+        <title>Matematică</title>
+        </sect>
+      <sect categorycode="ApplicationsEducationMusic">
+        <title>Muzică</title>
+        </sect>
+      <sect categorycode="ApplicationsEducationScience">
+        <title>Ştiinţă</title>
+        </sect>
+      <sect categorycode="ApplicationsEducationTechnology">
+        <title>Tehnologie</title>
+        </sect>
+      <sect categorycode="ApplicationsEducationTesting">
+        <title>Testare</title>
+        </sect>
+      <sect categorycode="ApplicationsEducationOther">
+        <title>Altele</title>
+        </sect>
+    </sect>
+    <sect categorycode="ApplicationsGames">
+      <title>Jocuri</title>
+      <sect categorycode="ApplicationsGamesArcade">
+        <title>Arcadă</title>
+        </sect>
+      <sect categorycode="ApplicationsGamesBoard">
+        <title>Tablă</title>
+        </sect>
+      <sect categorycode="ApplicationsGamesFirst Person Shooters">
+        <title>Împuşcături</title>
+        </sect>
+      <sect categorycode="ApplicationsGamesPuzzles">
+        <title>Puzzle</title>
+        </sect>
+      <sect categorycode="ApplicationsGamesFighting">
+        <title>Luptă</title>
+        </sect>
+      <sect categorycode="ApplicationsGamesRole-Playing">
+        <title>Jucare rol</title>
+        </sect>
+      <sect categorycode="ApplicationsGamesSimulation">
+        <title>Simulare</title>
+        </sect>
+      <sect categorycode="ApplicationsGamesStrategy">
+        <title>Strategie</title>
+        </sect>
+      <sect categorycode="ApplicationsGamesOther">
+        <title>Altele</title>
+        </sect>
+    </sect>
+    <sect categorycode="ApplicationsInternet">
+      <title>Internet</title>
+      <sect categorycode="ApplicationsInternetChat">
+        <title>Discuţii</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetEmail">
+        <title>Poştă electronică</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetFax">
+        <title>Fax</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetFile Sharing">
+        <title>Partajare fişiere</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetFTP">
+        <title>FTP</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetInternet Phone">
+        <title>Telefon Internet</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetMessaging">
+        <title>Mesagerie</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetNews">
+        <title>Ştiri</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetVideo Conferencing">
+        <title>Conferinţă video</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetWeb">
+        <title>Web</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetOther">
+        <title>Altele</title>
+        </sect>
+    </sect>
+    <sect categorycode="ApplicationsMultimedia">
+      <title>Multimedia</title>
+      <sect categorycode="ApplicationsMultimediaGraphics">
+        <title>Grafică</title>
+        <sect categorycode="ApplicationsMultimediaGraphics3D Modelling">
+          <title>Modelare 3D</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaGraphics3D Rendering">
+          <title>Randare 3D</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaGraphicsCAD">
+          <title>CAD</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaGraphicsCapture">
+          <title>Capturare</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaGraphicsConversion">
+          <title>Conversie</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaGraphicsDrawing">
+          <title>Desenare</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaGraphicsEditing">
+          <title>Editare</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaGraphicsViewing">
+          <title>Vizualizare</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaGraphicsOther">
+          <title>Altele</title>
+          </sect>
+      </sect>
+      <sect categorycode="ApplicationsMultimediaSound">
+        <title>Sunet</title>
+        <sect categorycode="ApplicationsMultimediaSoundAnalysis">
+          <title>Analiză</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaSoundCD Mastering">
+          <title>Realizare CD</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaSoundConversion">
+          <title>Conversie</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaSoundEditing">
+          <title>Editare</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaSoundMIDI">
+          <title>MIDI</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaSoundMixers">
+          <title>Mixere</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaSoundPlayers">
+          <title>Playere</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaSoundRecording">
+          <title>Înregistrare</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaSoundSpeech">
+          <title>Dictare</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaSoundOther">
+          <title>Altele</title>
+          </sect>
+      </sect>
+      <sect categorycode="ApplicationsMultimediaVideo">
+        <title>Video</title>
+        <sect categorycode="ApplicationsMultimediaVideoCapture">
+          <title>Capturare</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaVideoConversion">
+          <title>Conversie</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaVideoDisplay">
+          <title>Afişaj</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaVideoEditing">
+          <title>Editare</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaVideoOther">
+          <title>Altele</title>
+          </sect>
+      </sect>
+      <sect categorycode="ApplicationsMultimediaOther">
+        <title>Altele</title>
+        </sect>
+    </sect>
+    <sect categorycode="ApplicationsOffice">
+      <title>Office</title>
+      <sect categorycode="ApplicationsOfficeCalendar">
+        <title>Calendar</title>
+        </sect>
+      <sect categorycode="ApplicationsOfficeData Processing">
+        <title>Procesare date</title>
+        </sect>
+      <sect categorycode="ApplicationsOfficeDatabase">
+        <title>Bază de date</title>
+        </sect>
+      <sect categorycode="ApplicationsOfficeEmail">
+        <title>Poştă electronică</title>
+        </sect>
+      <sect categorycode="ApplicationsOfficeFinancial">
+        <title>Financiar</title>
+        </sect>
+      <sect categorycode="ApplicationsOfficePIM">
+        <title>Administrare informaţii personale</title>
+        </sect>
+      <sect categorycode="ApplicationsOfficePlotting">
+        <title>Punctare</title>
+        </sect>
+      <sect categorycode="ApplicationsOfficePresentation">
+        <title>Prezentare</title>
+        </sect>
+      <sect categorycode="ApplicationsOfficePublishing">
+        <title>Publicare</title>
+        <sect categorycode="ApplicationsOfficePublishingWeb Publishing">
+          <title>Publicare web</title>
+          </sect>
+      </sect>
+      <sect categorycode="ApplicationsOfficeWord Processing">
+        <title>Procesare text</title>
+        </sect>
+      <sect categorycode="ApplicationsOfficeOther">
+        <title>Altele</title>
+        </sect>
+    </sect>
+    <sect categorycode="ApplicationsScientific">
+      <title>Ştiinţific</title>
+      <sect categorycode="ApplicationsScientificAstronomy">
+        <title>Astronomie</title>
+        </sect>
+      <sect categorycode="ApplicationsScientificAstrophysics">
+        <title>Astrofizică</title>
+        </sect>
+      <sect categorycode="ApplicationsScientificBiology">
+        <title>Biologie</title>
+        </sect>
+      <sect categorycode="ApplicationsScientificChemistry">
+        <title>Chimie</title>
+        </sect>
+      <sect categorycode="ApplicationsScientificEDA">
+        <title>EDA</title>
+        </sect>
+      <sect categorycode="ApplicationsScientificGenetics">
+        <title>Genetică</title>
+        </sect>
+      <sect categorycode="ApplicationsScientificMath">
+        <title>Matematică</title>
+        </sect>
+      <sect categorycode="ApplicationsScientificPhysics">
+        <title>Fizică</title>
+        </sect>
+      <sect categorycode="ApplicationsScientificVisualisation">
+        <title>Vizualizare</title>
+        </sect>
+      <sect categorycode="ApplicationsScientificOther">
+        <title>Altele</title>
+        </sect>
+    </sect>
+    <sect categorycode="ApplicationsSecurity">
+      <title>Securitate</title>
+      <sect categorycode="ApplicationsSecurityCryptography">
+        <title>Criptografie</title>
+        </sect>
+      <sect categorycode="ApplicationsSecurityOther">
+        <title>Altele</title>
+        </sect>
+    </sect>
+    <sect categorycode="ApplicationsText Editors">
+      <title>Editoare text</title>
+      <sect categorycode="ApplicationsText EditorsCLI">
+        <title>CLI</title>
+        </sect>
+      <sect categorycode="ApplicationsText EditorsGUI">
+        <title>GUI</title>
+        </sect>
+      <sect categorycode="ApplicationsText EditorsOther">
+        <title>Altele</title>
+        </sect>
+    </sect>
+    <sect categorycode="ApplicationsUtilities">
+      <title>Utilitare</title>
+      <sect categorycode="ApplicationsUtilitiesArchiving">
+        <title>Arhivare</title>
+        </sect>
+      <sect categorycode="ApplicationsUtilitiesCalculating">
+        <title>Calcul</title>
+        </sect>
+      <sect categorycode="ApplicationsUtilitiesClocks">
+        <title>Ceasuri</title>
+        </sect>
+      <sect categorycode="ApplicationsUtilitiesCompression">
+        <title>Compresie</title>
+        </sect>
+      <sect categorycode="ApplicationsUtilitiesFile Utilities">
+        <title>Utilitare fişiere</title>
+        </sect>
+      <sect categorycode="ApplicationsUtilitiesMonitors">
+        <title>Monitoare</title>
+        </sect>
+      <sect categorycode="ApplicationsUtilitiesPrinting">
+        <title>Tipărire</title>
+        </sect>
+      <sect categorycode="ApplicationsUtilitiesTerminals">
+        <title>Terminale</title>
+        </sect>
+      <sect categorycode="ApplicationsUtilitiesText Utilities">
+        <title>Utilitare text</title>
+        </sect>
+      <sect categorycode="ApplicationsUtilitiesOther">
+        <title>Altele</title>
+        </sect>
+    </sect>
+    <sect categorycode="ApplicationsX">
+      <title>X</title>
+      <sect categorycode="ApplicationsXConfiguration">
+        <title>Configurare</title>
+        </sect>
+      <sect categorycode="ApplicationsXFonts">
+        <title>Fonturi</title>
+        </sect>
+      <sect categorycode="ApplicationsXLogin Managers">
+        <title>Administratori login</title>
+        </sect>
+      <sect categorycode="ApplicationsXScreensavers">
+        <title>Screensavere</title>
+        </sect>
+      <sect categorycode="ApplicationsXWindow Managers">
+        <title>Administratori ferestre</title>
+        </sect>
+      <sect categorycode="ApplicationsXOther">
+        <title>Altele</title>
+        </sect>
+    </sect>
+  </sect>
+
+  <sect categorycode="CDE">
+    <title>CDE</title>
+    </sect>
+
+  <sect categorycode="Development">
+    <title>Dezvoltare</title>
+    <sect categorycode="DevelopmentDatabases">
+      <title>Baze de date</title>
+      </sect>
+    <sect categorycode="DevelopmentDevelopment Tools">
+      <title>Unelte de dezvoltare</title>
+      <sect categorycode="DevelopmentDevelopment ToolsBuild Tools">
+        <title>Unelte de construire</title>
+        </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsCode Generators">
+        <title>Generatoare de cod</title>
+        </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsConfiguration">
+        <title>Configurare</title>
+        </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsDebuggers">
+        <title>Debuggere</title>
+        </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsIDEs">
+        <title>IDE-uri</title>
+        </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsPackaging">
+        <title>Împachetare</title>
+        </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsProfiling">
+        <title>Profilare</title>
+        </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsRAD">
+        <title>Dezvoltare rapidă a aplicaţiilor</title>
+        </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsVersion Control">
+        <title>Controlul versiunii</title>
+        </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsOther">
+        <title>Altele</title>
+        </sect>
+    </sect>
+    <sect categorycode="DevelopmentEnvironments">
+      <title>Medii</title>
+      <sect categorycode="DevelopmentEnvironmentsADA">
+        <title>ADA</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsC">
+        <title>C</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsC++">
+        <title>C++</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsGNOME">
+        <title>GNOME</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsGTK+">
+        <title>GTK+</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsgtk++">
+        <title>gtk++</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsJava">
+        <title>Java</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsKDE">
+        <title>KDE</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsPerl">
+        <title>Perl</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsPython">
+        <title>Python</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsQt">
+        <title>Qt</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsTcl/Tk">
+        <title>Tcl/Tk</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsWebML">
+        <title>WebML</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsOther">
+        <title>Altele</title>
+        </sect>
+    </sect>
+    <sect categorycode="DevelopmentKernels">
+      <title>Kerneluri</title>
+      <sect categorycode="DevelopmentKernelsFreeBSD">
+        <title>FreeBSD</title>
+        </sect>
+      <sect categorycode="DevelopmentKernelsLinux">
+        <title>Linux</title>
+        </sect>
+      <sect categorycode="DevelopmentKernelsNetBSD">
+        <title>NetBSD</title>
+        </sect>
+      <sect categorycode="DevelopmentKernelsOther">
+        <title>Altele</title>
+        </sect>
+    </sect>
+    <sect categorycode="DevelopmentLibraries">
+      <title>Biblioteci</title>
+      </sect>
+    <sect categorycode="DevelopmentSystem Calls">
+      <title>Chemări sistem</title>
+      </sect>
+    <sect categorycode="DevelopmentOther">
+      <title>Altele</title>
+      </sect>
+  </sect>
+  <sect categorycode="General">
+    <title>General</title>
+    <sect categorycode="GeneralLicenses">
+      <title>Licenţe</title>
+      </sect>
+    <sect categorycode="GeneralLinux">
+      <title>Linux</title>
+      <sect categorycode="GeneralLinuxDistributions">
+        <title>Distribuţii</title>
+        <sect categorycode="GeneralLinuxDistributionsCaldera">
+          <title>Caldera</title>
+          </sect>
+        <sect categorycode="GeneralLinuxDistributionsDebian">
+          <title>Debian</title>
+          </sect>
+        <sect categorycode="GeneralLinuxDistributionsMandrake">
+          <title>Mandrake</title>
+          </sect>
+        <sect categorycode="GeneralLinuxDistributionsRed Flag">
+          <title>Red Flag</title>
+          </sect>
+        <sect categorycode="GeneralLinuxDistributionsRed Hat">
+          <title>Red Hat</title>
+          </sect>
+        <sect categorycode="GeneralLinuxDistributionsSlackware">
+          <title>Slackware</title>
+          </sect>
+        <sect categorycode="GeneralLinuxDistributionsSuSE">
+          <title>SuSE</title>
+          </sect>
+        <sect categorycode="GeneralLinuxDistributionsOther">
+          <title>Altele</title>
+          </sect>
+      </sect>
+      <sect categorycode="GeneralLinuxGeneral">
+        <title>General</title>
+        </sect>
+      <sect categorycode="GeneralLinuxOther">
+        <title>Altele</title>
+        </sect>
+    </sect>
+    <sect categorycode="GeneralOther">
+      <title>Altele</title>
+      </sect>
+  </sect>
+
+  <sect categorycode="GNOME">
+    <title>GNOME</title>
+    <sect categorycode="GNOMEAccessibility">
+      <title>Accesibilitate</title>
+      </sect>
+    <sect categorycode="GNOMECore Desktop">
+      <title>Desktop Fundamental</title>
+      </sect>
+    <sect categorycode="GNOMEDesktop">
+      <title>Desktop</title>
+      <sect categorycode="GNOMEDesktopUser Guides">
+        <title>Ghiduri utilizator</title>
+        </sect>
+    </sect>
+    <sect categorycode="GNOMEApplets">
+      <title>Apleturi</title>
+      <sect categorycode="GNOMEAppletsAccessories">
+        <title>Accesorii</title>
+        </sect>
+      <sect categorycode="GNOMEAppletsAmusement">
+        <title>Amuzament</title>
+        </sect>
+      <sect categorycode="GNOMEAppletsClock">
+        <title>Ceas</title>
+        </sect>
+      <sect categorycode="GNOMEAppletsInternet">
+        <title>Internet</title>
+        </sect>
+      <sect categorycode="GNOMEAppletsMonitors">
+        <title>Monitoare</title>
+        </sect>
+      <sect categorycode="GNOMEAppletsMultimedia">
+        <title>Multimedia</title>
+        </sect>
+      <sect categorycode="GNOMEAppletsNetwork">
+        <title>Reţea</title>
+        </sect>
+      <sect categorycode="GNOMEAppletsUtility">
+        <title>Utilitar</title>
+        </sect>
+    </sect>
+    <sect categorycode="GNOMEApplications">
+      <title>Aplicaţii</title>
+      <sect categorycode="GNOMEApplicationsAccessories">
+        <title>Accesorii</title>
+        <doc docid="273"><doctitle>gedit</doctitle><docomf>/usr/share/omf/gedit/gedit-ro.omf</docomf><docsource>file:/usr/share/gnome/help/gedit/ro/gedit.xml</docsource><docformat>text/xml</docformat><docseriesid>081c7e56-2acd-11d6-819f-e6a1118e62db</docseriesid><toc>
+<tocsect1 linkid="gedit-intro">Introducere
+</tocsect1>
+<tocsect1 linkid="gedit-getting-started">Primii paşi
+<tocsect2 linkid="gedit-to-start">Pentru a porni gedit
+</tocsect2>
+<tocsect2 linkid="gedit-when-you-start">După ce porniţi gedit
+</tocsect2>
+<tocsect2 linkid="gedit-open-file">Pentru a deschide un fişier
+</tocsect2>
+<tocsect2 linkid="gedit-run-from-cmd-line">Pentru a deschide mai multe fişiere din linia de comandă
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="gedit-usage">Mod de utilizare
+<tocsect2 linkid="gedit-create-new-file">Pentru a crea un nou fişier
+</tocsect2>
+<tocsect2 linkid="gedit-save-file">Pentru a salva un fişier
+</tocsect2>
+<tocsect2 linkid="gedit-edit-text">Pentru a edita textul
+</tocsect2>
+<tocsect2 linkid="gedit-undo-redo-edits">Pentru a anula sau reface editarea
+</tocsect2>
+<tocsect2 linkid="gedit-find-text">Pentru a căuta un text
+</tocsect2>
+<tocsect2 linkid="gedit-find-replace-text">Pentru a căuta şi înlocui un text
+</tocsect2>
+<tocsect2 linkid="gedit-open-from-uri">Pentru a deschide un fişier dintr-un URI
+</tocsect2>
+<tocsect2 linkid="gedit-pipe-output">Pentru a redirecta ieşirea unei comenzi către un fişier
+</tocsect2>
+<tocsect2 linkid="gedit-goto-line">Pentru a merge la o anumită linie
+</tocsect2>
+<tocsect2 linkid="gedit-input-mode">Pentru a schimba modul de intrare
+</tocsect2>
+<tocsect2 linkid="gedit-print-file">Pentru a tipări un fişier
+<tocsect3 linkid="print-dialog-job">Secţiunea tab Sarcină
+</tocsect3>
+<tocsect3 linkid="print-dialog-printer">Secţiunea tab Imprimantă
+</tocsect3>
+<tocsect3 linkid="print-dialog-paper">Secţiunea tab Pagină
+</tocsect3>
+</tocsect2>
+<tocsect2 linkid="gedit-use-plugins">Pentru a folosi modulele gedit
+</tocsect2>
+<tocsect2 linkid="gedit-install-plugins">Pentru a încărca modulele gedit
+</tocsect2>
+<tocsect2 linkid="gedit-customize-bars">Pentru a personaliza bara de unelte şi bara de status
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="gedit-prefs">Preferinţe
+<tocsect2 linkid="gedit-prefs-editor">Editor
+<tocsect3 linkid="gedit-prefs-fontsandcolors">Fonturi şi culori
+</tocsect3>
+<tocsect3 linkid="gedit-prefs-tabs">Taburi
+</tocsect3>
+<tocsect3 linkid="gedit-prefs-wrapmode">Ruperi
+</tocsect3>
+<tocsect3 linkid="gedit-prefs-linenumbers">Numerotare linii
+</tocsect3>
+<tocsect3 linkid="gedit-prefs-save">Salvează
+</tocsect3>
+<tocsect3 linkid="gedit-prefs-undo">Anulează
+</tocsect3>
+</tocsect2>
+<tocsect2 linkid="gedit-prefs-print">Tipăreşte
+<tocsect3 linkid="gedit-prefs-page">Pagină
+</tocsect3>
+<tocsect3 linkid="gedit-prefs-fonts">Fonturi
+</tocsect3>
+</tocsect2>
+</tocsect1>
+</toc></doc></sect>
+      <sect categorycode="GNOMEApplicationsDesktop Preferences">
+        <title>Preferinţe desktop</title>
+        </sect>
+      <sect categorycode="GNOMEApplicationsGames">
+        <title>Jocuri</title>
+        </sect>
+      <sect categorycode="GNOMEApplicationsGraphics">
+        <title>Grafică</title>
+        </sect>
+      <sect categorycode="GNOMEApplicationsInternet">
+        <title>Internet</title>
+        </sect>
+      <sect categorycode="GNOMEApplicationsOffice">
+        <title>Office</title>
+        </sect>
+      <sect categorycode="GNOMEApplicationsProgramming">
+        <title>Programare</title>
+        </sect>
+      <sect categorycode="GNOMEApplicationsSound and Video">
+        <title>Sunet şi video</title>
+        </sect>
+      <sect categorycode="GNOMEApplicationsSystem Tools">
+        <title>Unelte sistem</title>
+        <doc docid="253"><doctitle>Terminal</doctitle><docomf>/usr/share/omf/gnome-terminal/gnome-terminal-ro.omf</docomf><docsource>file:/usr/share/gnome/help/gnome-terminal/ro/gnome-terminal.xml</docsource><docformat>text/xml</docformat><docseriesid>d7834910-40e7-11d6-87e4-aa5f78e530ae</docseriesid><toc>
+<tocsect1 linkid="gnome-terminal-introduction">Introducere
+</tocsect1>
+<tocsect1 linkid="gnome-terminal-get-started">Primii paşi
+<tocsect2 linkid="gnome-terminal-to-start">Pentru a porni Terminalul GNOME
+</tocsect2>
+<tocsect2 linkid="gnome-terminal-first-start">Când porniţi prima dată Terminalul GNOME
+</tocsect2>
+<tocsect2 linkid="gnome-terminal-profiles">Profiluri pentru terminale
+</tocsect2>
+<tocsect2 linkid="gnome-terminal-more-windows">Lucrând cu mai multe terminale
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="gnome-terminal-usage">Mod de utilizare
+<tocsect2 linkid="gnome-terminal-windows">Pentru a deschide şi a închide terminale
+</tocsect2>
+<tocsect2 linkid="gnome-terminal-manage-profiles">Pentru a gestiona profilele
+</tocsect2>
+<tocsect2 linkid="gnome-terminal-tabs">Pentru a modifica o fereastră terminal
+</tocsect2>
+<tocsect2 linkid="gnome-terminal-contents">Pentru a lucra cu conţinutul unei ferestre terminal
+</tocsect2>
+<tocsect2 linkid="gnome-terminal-reset">Pentru a recupera terminalul
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="gnome-terminal-prefs">Preferinţe
+<tocsect2 linkid="gnome-terminal-prefs-general">General
+</tocsect2>
+<tocsect2 linkid="gnome-terminal-prefs-title">Titlu şi comandă
+</tocsect2>
+<tocsect2 linkid="gnome-terminal-prefs-colors">Culori
+</tocsect2>
+<tocsect2 linkid="gnome-terminal-prefs-effects">Efecte
+</tocsect2>
+<tocsect2 linkid="gnome-terminal-prefs-compatibility">Compatibilitate
+</tocsect2>
+<tocsect2 linkid="gnome-terminal-prefs-keybindings">Combinaţii de taste
+</tocsect2>
+</tocsect1>
+</toc></doc></sect>
+    </sect>
+    <sect categorycode="GNOMEPreferences">
+      <title>Preferinţe</title>
+      </sect>
+    <sect categorycode="GNOMESystem Administration">
+      <title>Administrare sistem</title>
+      </sect>
+    <sect categorycode="GNOMEUtilities">
+      <title>Utilitare</title>
+      </sect>
+    <sect categorycode="GNOMEDevelopment">
+      <title>Dezvoltare</title>
+      <sect categorycode="GNOMEDevelopmentApplications">
+        <title>Aplicaţii</title>
+        </sect>
+      <sect categorycode="GNOMEDevelopmentIntroductory">
+        <title>Introduceri</title>
+        </sect>
+      <sect categorycode="GNOMEDevelopmentTutorials">
+        <title>Tutoriale</title>
+        </sect>
+      <sect categorycode="GNOMEDevelopmentWhite Papers">
+        <title>Cărţi albe</title>
+        </sect>
+    </sect>
+    <sect categorycode="GNOMEGames">
+      <title>Jocuri</title>
+      </sect>
+    <sect categorycode="GNOMEGraphics">
+      <title>Grafică</title>
+      </sect>
+    <sect categorycode="GNOMEInternet">
+      <title>Internet</title>
+      </sect>
+    <sect categorycode="GNOMEMultimedia">
+      <title>Multimedia</title>
+      </sect>
+    <sect categorycode="GNOMESettings">
+      <title>Setări</title>
+      </sect>
+    <sect categorycode="GNOMESystem">
+      <title>Sistem</title>
+      </sect>
+    <sect categorycode="GNOMEOther">
+      <title>Altele</title>
+      </sect>
+  </sect>
+
+  <sect categorycode="KDE">
+    <title>KDE</title>
+    <sect categorycode="KDEUtilities">
+      <title>Utilitare</title>
+      </sect>
+    <sect categorycode="KDEApplications">
+      <title>Aplicaţii</title>
+      </sect>
+    <sect categorycode="KDEGames">
+      <title>Jocuri</title>
+      </sect>
+    <sect categorycode="KDEGraphics">
+      <title>Grafică</title>
+      </sect>
+    <sect categorycode="KDEInternet">
+      <title>Internet</title>
+      </sect>
+    <sect categorycode="KDEMultimedia">
+      <title>Multimedia</title>
+      </sect>
+    <sect categorycode="KDESettings">
+      <title>Setări</title>
+      </sect>
+    <sect categorycode="KDESystem">
+      <title>Sistem</title>
+      </sect>
+    <sect categorycode="KDEPrograms">
+      <title>Programe</title>
+      </sect>
+    <sect categorycode="KDEDevelopment">
+      <title>Dezvoltare</title>
+      </sect>
+    <sect categorycode="KDEOther">
+      <title>Altele</title>
+      </sect>
+  </sect>
+
+  <sect categorycode="System">
+    <title>Sistem</title>
+    <sect categorycode="SystemAdministration">
+      <title>Administrare</title>
+      <sect categorycode="SystemAdministrationBackups">
+        <title>Copii de siguranţă</title>
+        <sect categorycode="SystemAdministrationBackupsLocal">
+          <title>Local</title>
+          </sect>
+        <sect categorycode="SystemAdministrationBackupsRemote">
+          <title>La distanţă</title>
+          </sect>
+      </sect>
+      <sect categorycode="SystemAdministrationFilesystems">
+        <title>Sisteme de fişiere</title>
+        </sect>
+      <sect categorycode="SystemAdministrationNetworking">
+        <title>Reţea</title>
+        <sect categorycode="SystemAdministrationNetworkingAppleTalk">
+          <title>AppleTalk</title>
+          </sect>
+        <sect categorycode="SystemAdministrationNetworkingPPP">
+          <title>PPP</title>
+          </sect>
+        <sect categorycode="SystemAdministrationNetworkingSMB">
+          <title>SMB</title>
+          </sect>
+        <sect categorycode="SystemAdministrationNetworkingTCP/IP">
+          <title>TCP/IP</title>
+          </sect>
+        <sect categorycode="SystemAdministrationNetworkingDNS">
+          <title>DNS</title>
+          </sect>
+        <sect categorycode="SystemAdministrationNetworkingOther">
+          <title>Altele</title>
+          </sect>
+      </sect>
+      <sect categorycode="SystemAdministrationUsers">
+        <title>Utilizatori</title>
+        </sect>
+      <sect categorycode="SystemAdministrationOther">
+        <title>Altele</title>
+        </sect>
+    </sect>
+    <sect categorycode="SystemConfiguration">
+      <title>Configurare</title>
+      <sect categorycode="SystemConfigurationConfig Files">
+        <title>Fişiere de configurare</title>
+        </sect>
+      <sect categorycode="SystemConfigurationConfiguration Tools">
+        <title>Unelte de configurare</title>
+        </sect>
+      <sect categorycode="SystemConfigurationOther">
+        <title>Altele</title>
+        </sect>
+    </sect>
+    <sect categorycode="SystemHardware">
+      <title>Hardware</title>
+      <sect categorycode="SystemHardwareProcessor">
+        <title>Procesare</title>
+        </sect>
+      <sect categorycode="SystemHardwareStorage">
+        <title>Stocare</title>
+        </sect>
+      <sect categorycode="SystemHardwareVideo">
+        <title>Video</title>
+        </sect>
+      <sect categorycode="SystemHardwareInput Devices">
+        <title>Dispozitive de intrare</title>
+        </sect>
+      <sect categorycode="SystemHardwareNetworking">
+        <title>Reţea</title>
+        </sect>
+      <sect categorycode="SystemHardwarePCI/ISA/PCMCIA">
+        <title>PCI/ISA/PCMCIA</title>
+        </sect>
+      <sect categorycode="SystemHardwareOther">
+        <title>Altele</title>
+        </sect>
+    </sect>
+    <sect categorycode="SystemPackage Management">
+      <title>Administrare pachete</title>
+      </sect>
+    <sect categorycode="SystemSecurity">
+      <title>Securitate</title>
+      <sect categorycode="SystemSecurityFirewall">
+        <title>Firewall</title>
+        </sect>
+      <sect categorycode="SystemSecurityIntrusion Detection">
+        <title>Detecţie intruşi</title>
+        </sect>
+      <sect categorycode="SystemSecurityVirus">
+        <title>Virus</title>
+        </sect>
+      <sect categorycode="SystemSecurityOther">
+        <title>Altele</title>
+        </sect>
+    </sect>
+    <sect categorycode="SystemServices">
+      <title>Servicii</title>
+      <sect categorycode="SystemServicesHTTP">
+        <title>HTTP</title>
+        </sect>
+      <sect categorycode="SystemServicesFTP">
+        <title>FTP</title>
+        </sect>
+      <sect categorycode="SystemServicesSMB">
+        <title>SMB</title>
+        </sect>
+      <sect categorycode="SystemServicesSSH">
+        <title>SSH</title>
+        </sect>
+      <sect categorycode="SystemServicesTelnet">
+        <title>Telnet</title>
+        </sect>
+      <sect categorycode="SystemServicesSyslog">
+        <title>Syslog</title>
+        </sect>
+      <sect categorycode="SystemServicesBIND">
+        <title>BIND</title>
+        </sect>
+      <sect categorycode="SystemServicesPrinting">
+        <title>Tipărire</title>
+        </sect>
+      <sect categorycode="SystemServicesOther">
+        <title>Altele</title>
+        </sect>
+    </sect>
+    <sect categorycode="SystemOther">
+      <title>Altele</title>
+      </sect>
+  </sect>
+</ScrollKeeperContentsList>

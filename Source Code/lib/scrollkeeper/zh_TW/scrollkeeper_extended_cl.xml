@@ -1,0 +1,1022 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrollKeeperContentsList>
+
+
+
+  <sect categorycode="Applications">
+    <title>應用程式</title>
+    <sect categorycode="ApplicationsAmusement">
+      <title>娛樂</title>
+    </sect>
+    <sect categorycode="ApplicationsEducation">
+      <title>教育</title>
+      <sect categorycode="ApplicationsEducationArts">
+        <title>藝術</title>
+      </sect>
+      <sect categorycode="ApplicationsEducationComputer Science">
+        <title>電腦科學</title>
+      </sect>
+      <sect categorycode="ApplicationsEducationEnglish">
+        <title>英語</title>
+      </sect>
+      <sect categorycode="ApplicationsEducationLanguage">
+        <title>語言</title>
+      </sect>
+      <sect categorycode="ApplicationsEducationMaths">
+        <title>數學</title>
+      </sect>
+      <sect categorycode="ApplicationsEducationMusic">
+        <title>音樂</title>
+      </sect>
+      <sect categorycode="ApplicationsEducationScience">
+        <title>科學</title>
+      </sect>
+      <sect categorycode="ApplicationsEducationTechnology">
+        <title>科技</title>
+      </sect>
+      <sect categorycode="ApplicationsEducationTesting">
+        <title>測驗</title>
+      </sect>
+      <sect categorycode="ApplicationsEducationOther">
+        <title>其它</title>
+      </sect>
+    </sect>
+    <sect categorycode="ApplicationsGames">
+      <title>遊戲</title>
+      <sect categorycode="ApplicationsGamesArcade">
+        <title>電子遊戲</title>
+      </sect>
+      <sect categorycode="ApplicationsGamesBoard">
+        <title>棋類</title>
+      </sect>
+      <sect categorycode="ApplicationsGamesFirst Person Shooters">
+        <title>第一身射擊遊戲</title>
+      </sect>
+      <sect categorycode="ApplicationsGamesPuzzles">
+        <title>智力遊戲</title>
+      </sect>
+      <sect categorycode="ApplicationsGamesFighting">
+        <title>格鬥</title>
+      </sect>
+      <sect categorycode="ApplicationsGamesRole-Playing">
+        <title>角色扮演</title>
+      </sect>
+      <sect categorycode="ApplicationsGamesSimulation">
+        <title>模擬</title>
+      </sect>
+      <sect categorycode="ApplicationsGamesStrategy">
+        <title>策略</title>
+      </sect>
+      <sect categorycode="ApplicationsGamesOther">
+        <title>其它</title>
+      </sect>
+    </sect>
+    <sect categorycode="ApplicationsInternet">
+      <title>網際網路</title>
+      <sect categorycode="ApplicationsInternetChat">
+        <title>交談</title>
+      </sect>
+      <sect categorycode="ApplicationsInternetEmail">
+        <title>電郵</title>
+      </sect>
+      <sect categorycode="ApplicationsInternetFax">
+        <title>傳真</title>
+      </sect>
+      <sect categorycode="ApplicationsInternetFile Sharing">
+        <title>檔案分享</title>
+      </sect>
+      <sect categorycode="ApplicationsInternetFTP">
+        <title>FTP</title>
+      </sect>
+      <sect categorycode="ApplicationsInternetInternet Phone">
+        <title>網路電話</title>
+      </sect>
+      <sect categorycode="ApplicationsInternetMessaging">
+        <title>即時通訊</title>
+      </sect>
+      <sect categorycode="ApplicationsInternetNews">
+        <title>新聞</title>
+      </sect>
+      <sect categorycode="ApplicationsInternetVideo Conferencing">
+        <title>視像會議</title>
+      </sect>
+      <sect categorycode="ApplicationsInternetWeb">
+        <title>網頁</title>
+      </sect>
+      <sect categorycode="ApplicationsInternetOther">
+        <title>其它</title>
+      </sect>
+    </sect>
+    <sect categorycode="ApplicationsMultimedia">
+      <title>多媒體</title>
+      <sect categorycode="ApplicationsMultimediaGraphics">
+        <title>圖形</title>
+        <sect categorycode="ApplicationsMultimediaGraphics3D Modelling">
+          <title>3D 模型製作</title>
+        </sect>
+        <sect categorycode="ApplicationsMultimediaGraphics3D Rendering">
+          <title>3D Rendering</title>
+        </sect>
+        <sect categorycode="ApplicationsMultimediaGraphicsCAD">
+          <title>CAD</title>
+        </sect>
+        <sect categorycode="ApplicationsMultimediaGraphicsCapture">
+          <title>擷取</title>
+        </sect>
+        <sect categorycode="ApplicationsMultimediaGraphicsConversion">
+          <title>轉換</title>
+        </sect>
+        <sect categorycode="ApplicationsMultimediaGraphicsDrawing">
+          <title>繪畫</title>
+        </sect>
+        <sect categorycode="ApplicationsMultimediaGraphicsEditing">
+          <title>編輯</title>
+        </sect>
+        <sect categorycode="ApplicationsMultimediaGraphicsViewing">
+          <title>瀏覽</title>
+        </sect>
+        <sect categorycode="ApplicationsMultimediaGraphicsOther">
+          <title>其它</title>
+        </sect>
+      </sect>
+      <sect categorycode="ApplicationsMultimediaSound">
+        <title>音效</title>
+        <sect categorycode="ApplicationsMultimediaSoundAnalysis">
+          <title>分析</title>
+        </sect>
+        <sect categorycode="ApplicationsMultimediaSoundCD Mastering">
+          <title>CD 母帶後期處理</title>
+        </sect>
+        <sect categorycode="ApplicationsMultimediaSoundConversion">
+          <title>轉換</title>
+        </sect>
+        <sect categorycode="ApplicationsMultimediaSoundEditing">
+          <title>編輯</title>
+        </sect>
+        <sect categorycode="ApplicationsMultimediaSoundMIDI">
+          <title>MIDI</title>
+        </sect>
+        <sect categorycode="ApplicationsMultimediaSoundMixers">
+          <title>混音程式</title>
+        </sect>
+        <sect categorycode="ApplicationsMultimediaSoundPlayers">
+          <title>播放程式</title>
+        </sect>
+        <sect categorycode="ApplicationsMultimediaSoundRecording">
+          <title>錄音</title>
+        </sect>
+        <sect categorycode="ApplicationsMultimediaSoundSpeech">
+          <title>語音</title>
+        </sect>
+        <sect categorycode="ApplicationsMultimediaSoundOther">
+          <title>其它</title>
+        </sect>
+      </sect>
+      <sect categorycode="ApplicationsMultimediaVideo">
+        <title>視像</title>
+        <sect categorycode="ApplicationsMultimediaVideoCapture">
+          <title>擷取</title>
+        </sect>
+        <sect categorycode="ApplicationsMultimediaVideoConversion">
+          <title>轉換</title>
+        </sect>
+        <sect categorycode="ApplicationsMultimediaVideoDisplay">
+          <title>顯示</title>
+        </sect>
+        <sect categorycode="ApplicationsMultimediaVideoEditing">
+          <title>編輯</title>
+        </sect>
+        <sect categorycode="ApplicationsMultimediaVideoOther">
+          <title>其它</title>
+        </sect>
+      </sect>
+      <sect categorycode="ApplicationsMultimediaOther">
+        <title>其它</title>
+      </sect>
+    </sect>
+    <sect categorycode="ApplicationsOffice">
+      <title>辦公</title>
+      <sect categorycode="ApplicationsOfficeCalendar">
+        <title>日程表</title>
+      </sect>
+      <sect categorycode="ApplicationsOfficeData Processing">
+        <title>資料處理</title>
+      </sect>
+      <sect categorycode="ApplicationsOfficeDatabase">
+        <title>資料庫</title>
+      </sect>
+      <sect categorycode="ApplicationsOfficeEmail">
+        <title>電郵</title>
+      </sect>
+      <sect categorycode="ApplicationsOfficeFinancial">
+        <title>財務</title>
+      </sect>
+      <sect categorycode="ApplicationsOfficePIM">
+        <title>個人資料管理</title>
+      </sect>
+      <sect categorycode="ApplicationsOfficePlotting">
+        <title>座標繪圖</title>
+      </sect>
+      <sect categorycode="ApplicationsOfficePresentation">
+        <title>簡報程式</title>
+      </sect>
+      <sect categorycode="ApplicationsOfficePublishing">
+        <title>出版</title>
+        <sect categorycode="ApplicationsOfficePublishingWeb Publishing">
+          <title>網頁出版</title>
+        </sect>
+      </sect>
+      <sect categorycode="ApplicationsOfficeWord Processing">
+        <title>文字處理</title>
+      </sect>
+      <sect categorycode="ApplicationsOfficeOther">
+        <title>其它</title>
+      </sect>
+    </sect>
+    <sect categorycode="ApplicationsScientific">
+      <title>科學</title>
+      <sect categorycode="ApplicationsScientificAstronomy">
+        <title>天文學</title>
+      </sect>
+      <sect categorycode="ApplicationsScientificAstrophysics">
+        <title>天文物理學</title>
+      </sect>
+      <sect categorycode="ApplicationsScientificBiology">
+        <title>生物學</title>
+      </sect>
+      <sect categorycode="ApplicationsScientificChemistry">
+        <title>化學</title>
+      </sect>
+      <sect categorycode="ApplicationsScientificEDA">
+        <title>EDA</title>
+      </sect>
+      <sect categorycode="ApplicationsScientificGenetics">
+        <title>遺傳學</title>
+      </sect>
+      <sect categorycode="ApplicationsScientificMath">
+        <title>數學</title>
+      </sect>
+      <sect categorycode="ApplicationsScientificPhysics">
+        <title>物理學</title>
+      </sect>
+      <sect categorycode="ApplicationsScientificVisualisation">
+        <title>資料呈現系統</title>
+      </sect>
+      <sect categorycode="ApplicationsScientificOther">
+        <title>其它</title>
+      </sect>
+    </sect>
+    <sect categorycode="ApplicationsSecurity">
+      <title>保安</title>
+      <sect categorycode="ApplicationsSecurityCryptography">
+        <title>密碼學</title>
+      </sect>
+      <sect categorycode="ApplicationsSecurityOther">
+        <title>其它</title>
+      </sect>
+    </sect>
+    <sect categorycode="ApplicationsText Editors">
+      <title>文字編輯器</title>
+      <sect categorycode="ApplicationsText EditorsCLI">
+        <title>文本模式</title>
+      </sect>
+      <sect categorycode="ApplicationsText EditorsGUI">
+        <title>圖形界面</title>
+      </sect>
+      <sect categorycode="ApplicationsText EditorsOther">
+        <title>其它</title>
+      </sect>
+    </sect>
+    <sect categorycode="ApplicationsUtilities">
+      <title>公用程式</title>
+      <sect categorycode="ApplicationsUtilitiesArchiving">
+        <title>歸檔</title>
+      </sect>
+      <sect categorycode="ApplicationsUtilitiesCalculating">
+        <title>計算</title>
+      </sect>
+      <sect categorycode="ApplicationsUtilitiesClocks">
+        <title>時鐘</title>
+      </sect>
+      <sect categorycode="ApplicationsUtilitiesCompression">
+        <title>壓縮</title>
+      </sect>
+      <sect categorycode="ApplicationsUtilitiesFile Utilities">
+        <title>檔案公用程式</title>
+      </sect>
+      <sect categorycode="ApplicationsUtilitiesMonitors">
+        <title>監控</title>
+      </sect>
+      <sect categorycode="ApplicationsUtilitiesPrinting">
+        <title>列印</title>
+      </sect>
+      <sect categorycode="ApplicationsUtilitiesTerminals">
+        <title>終端機</title>
+      </sect>
+      <sect categorycode="ApplicationsUtilitiesText Utilities">
+        <title>文字公用程式</title>
+      </sect>
+      <sect categorycode="ApplicationsUtilitiesOther">
+        <title>其它</title>
+      </sect>
+    </sect>
+    <sect categorycode="ApplicationsX">
+      <title>X</title>
+      <sect categorycode="ApplicationsXConfiguration">
+        <title>設定</title>
+      </sect>
+      <sect categorycode="ApplicationsXFonts">
+        <title>字型</title>
+      </sect>
+      <sect categorycode="ApplicationsXLogin Managers">
+        <title>登入管理程式</title>
+      </sect>
+      <sect categorycode="ApplicationsXScreensavers">
+        <title>螢幕保護程式</title>
+      </sect>
+      <sect categorycode="ApplicationsXWindow Managers">
+        <title>視窗管理程式</title>
+      </sect>
+      <sect categorycode="ApplicationsXOther">
+        <title>其它</title>
+      </sect>
+    </sect>
+  </sect>
+
+  <sect categorycode="CDE">
+    <title>CDE</title>
+  </sect>
+
+  <sect categorycode="Development">
+    <title>程式開發</title>
+    <sect categorycode="DevelopmentDatabases">
+      <title>資料庫</title>
+    </sect>
+    <sect categorycode="DevelopmentDevelopment Tools">
+      <title>程式開發工具</title>
+      <sect categorycode="DevelopmentDevelopment ToolsBuild Tools">
+        <title>編譯工具</title>
+      </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsCode Generators">
+        <title>源代碼產生程式</title>
+      </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsConfiguration">
+        <title>設定</title>
+      </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsDebuggers">
+        <title>偵錯程式</title>
+      </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsIDEs">
+        <title>整合開發環境</title>
+      </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsPackaging">
+        <title>軟件包裝</title>
+      </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsProfiling">
+        <title>效率測試</title>
+      </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsRAD">
+        <title>快速軟件開發</title>
+      </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsVersion Control">
+        <title>版本控制</title>
+      </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsOther">
+        <title>其它</title>
+      </sect>
+    </sect>
+    <sect categorycode="DevelopmentEnvironments">
+      <title>開發環境</title>
+      <sect categorycode="DevelopmentEnvironmentsADA">
+        <title>ADA</title>
+      </sect>
+      <sect categorycode="DevelopmentEnvironmentsC">
+        <title>C</title>
+      </sect>
+      <sect categorycode="DevelopmentEnvironmentsC++">
+        <title>C++</title>
+      </sect>
+      <sect categorycode="DevelopmentEnvironmentsGNOME">
+        <title>GNOME</title>
+      </sect>
+      <sect categorycode="DevelopmentEnvironmentsGTK+">
+        <title>GTK+</title>
+      </sect>
+      <sect categorycode="DevelopmentEnvironmentsgtk++">
+        <title>gtk++</title>
+      </sect>
+      <sect categorycode="DevelopmentEnvironmentsJava">
+        <title>Java</title>
+      </sect>
+      <sect categorycode="DevelopmentEnvironmentsKDE">
+        <title>KDE</title>
+      </sect>
+      <sect categorycode="DevelopmentEnvironmentsPerl">
+        <title>Perl</title>
+      </sect>
+      <sect categorycode="DevelopmentEnvironmentsPython">
+        <title>Python</title>
+      </sect>
+      <sect categorycode="DevelopmentEnvironmentsQt">
+        <title>Qt</title>
+      </sect>
+      <sect categorycode="DevelopmentEnvironmentsTcl/Tk">
+        <title>Tcl/Tk</title>
+      </sect>
+      <sect categorycode="DevelopmentEnvironmentsWebML">
+        <title>WebML</title>
+      </sect>
+      <sect categorycode="DevelopmentEnvironmentsOther">
+        <title>其它</title>
+      </sect>
+    </sect>
+    <sect categorycode="DevelopmentKernels">
+      <title>核心</title>
+      <sect categorycode="DevelopmentKernelsFreeBSD">
+        <title>FreeBSD</title>
+      </sect>
+      <sect categorycode="DevelopmentKernelsLinux">
+        <title>Linux</title>
+      </sect>
+      <sect categorycode="DevelopmentKernelsNetBSD">
+        <title>NetBSD</title>
+      </sect>
+      <sect categorycode="DevelopmentKernelsOther">
+        <title>其它</title>
+      </sect>
+    </sect>
+    <sect categorycode="DevelopmentLibraries">
+      <title>函式庫</title>
+    </sect>
+    <sect categorycode="DevelopmentSystem Calls">
+      <title>系統呼叫函式</title>
+    </sect>
+    <sect categorycode="DevelopmentOther">
+      <title>其它</title>
+    </sect>
+  </sect>
+  <sect categorycode="General">
+    <title>一般</title>
+    <sect categorycode="GeneralLicenses">
+      <title>使用條款</title>
+    </sect>
+    <sect categorycode="GeneralLinux">
+      <title>Linux</title>
+      <sect categorycode="GeneralLinuxDistributions">
+        <title>發行套件</title>
+        <sect categorycode="GeneralLinuxDistributionsCaldera">
+          <title>Caldera</title>
+        </sect>
+        <sect categorycode="GeneralLinuxDistributionsDebian">
+          <title>Debian</title>
+        </sect>
+        <sect categorycode="GeneralLinuxDistributionsMandrake">
+          <title>Mandrake</title>
+        </sect>
+        <sect categorycode="GeneralLinuxDistributionsRed Flag">
+          <title>紅旗</title>
+        </sect>
+        <sect categorycode="GeneralLinuxDistributionsRed Hat">
+          <title>Red Hat</title>
+        </sect>
+        <sect categorycode="GeneralLinuxDistributionsSlackware">
+          <title>Slackware</title>
+        </sect>
+        <sect categorycode="GeneralLinuxDistributionsSuSE">
+          <title>SuSE</title>
+        </sect>
+        <sect categorycode="GeneralLinuxDistributionsOther">
+          <title>其它</title>
+        </sect>
+      </sect>
+      <sect categorycode="GeneralLinuxGeneral">
+        <title>一般</title>
+      </sect>
+      <sect categorycode="GeneralLinuxOther">
+        <title>其它</title>
+      </sect>
+    </sect>
+    <sect categorycode="GeneralOther">
+      <title>其它</title>
+    </sect>
+  </sect>
+
+  <sect categorycode="GNOME">
+    <title>GNOME</title>
+    <sect categorycode="GNOMEAccessibility">
+      <title>輔助功能</title>
+    </sect>
+    <sect categorycode="GNOMECore Desktop">
+      <title>主桌面</title>
+    </sect>
+    <sect categorycode="GNOMEDesktop">
+      <title>桌面</title>
+      <sect categorycode="GNOMEDesktopUser Guides">
+        <title>使用指南</title>
+      </sect>
+    </sect>
+    <sect categorycode="GNOMEApplets">
+      <title>面板程式</title>
+      <sect categorycode="GNOMEAppletsAccessories">
+        <title>附屬應用程式</title>
+      <doc docid="47"><doctitle>Clock Manual</doctitle><docomf>/usr/share/omf/clock/clock-zh_TW.omf</docomf><docsource>file:///usr/share/gnome/help/clock/zh_TW/clock.xml</docsource><docformat/><docseriesid>dc1bc4d4-40e7-11d6-8b82-b4eda00d7b63</docseriesid></doc></sect>
+      <sect categorycode="GNOMEAppletsAmusement">
+        <title>娛樂</title>
+      <doc docid="35"><doctitle>Fish</doctitle><docomf>/usr/share/omf/fish/fish-applet-2-zh_TW.omf</docomf><docsource>file:/usr/share/gnome/help/fish-applet-2/zh_TW/fish-applet-2.xml</docsource><docformat>text/xml</docformat><docseriesid>e9efbc8c-40e7-11d6-815d-e721de25f633</docseriesid><toc>
+<tocsect1 linkid="fish-introduction">介紹
+</tocsect1>
+<tocsect1 linkid="fish-usage">使用
+</tocsect1>
+<tocsect1 linkid="fish-settings">個人喜好
+</tocsect1>
+</toc></doc></sect>
+      <sect categorycode="GNOMEAppletsClock">
+        <title>時鐘</title>
+      </sect>
+      <sect categorycode="GNOMEAppletsInternet">
+        <title>網際網路</title>
+      <doc docid="128"><doctitle>網路監控 Applet V2.0.1</doctitle><docomf>/usr/share/omf/gnome-netstatus/gnome-netstatus-zh_TW.omf</docomf><docsource>file:/usr/share/gnome/help/gnome-netstatus/zh_TW/gnome-netstatus.xml</docsource><docformat>text/xml</docformat><docseriesid>5ce2819c-2422-11d8-855f-bb98965120a1</docseriesid><toc>
+<tocsect1 linkid="gnome-netstatus-intro">介紹
+<tocsect2 linkid="gnome-netstatus-intro-add">將 網路監控 加入面板 
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="gnome-netstatus-usage">用途 
+</tocsect1>
+<tocsect1 linkid="gnome-netstatus-props">屬性 
+<tocsect2 linkid="gnome-netstatus-props-gen">一般 
+</tocsect2>
+<tocsect2 linkid="gnome-netstatus-props-supp">支援 
+</tocsect2>
+</tocsect1>
+</toc></doc></sect>
+      <sect categorycode="GNOMEAppletsMonitors">
+        <title>監控</title>
+      </sect>
+      <sect categorycode="GNOMEAppletsMultimedia">
+        <title>多媒體</title>
+      </sect>
+      <sect categorycode="GNOMEAppletsNetwork">
+        <title>網路</title>
+      </sect>
+      <sect categorycode="GNOMEAppletsUtility">
+        <title>公用程式</title>
+      <doc docid="80"><doctitle>Window List</doctitle><docomf>/usr/share/omf/window-list/window-list-zh_TW.omf</docomf><docsource>file:/usr/share/gnome/help/window-list/zh_TW/window-list.xml</docsource><docformat>text/xml</docformat><docseriesid>11f2815a-2d11-11d6-8a88-bd96c340430a</docseriesid><toc>
+<tocsect1 linkid="windowlist-introduction">介紹
+<tocsect2 linkid="window-groups">將按鈕集合成群組
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="windowlist-usage">使用
+</tocsect1>
+<tocsect1 linkid="windowlist-prefs">個人喜好
+</tocsect1>
+</toc></doc><doc docid="97"><doctitle>Workspace Switcher</doctitle><docomf>/usr/share/omf/workspace-switcher/workspace-switcher-zh_TW.omf</docomf><docsource>file:/usr/share/gnome/help/workspace-switcher/zh_TW/workspace-switcher.xml</docsource><docformat>text/xml</docformat><docseriesid>f6ab0110-2d10-11d6-984f-a7559fbbe0e2</docseriesid><toc>
+<tocsect1 linkid="workspacelist-introduction">介紹
+</tocsect1>
+<tocsect1 linkid="workspacelist-usage">使用
+<tocsect2 linkid="workspacelist-navigate">導覽工作區
+</tocsect2>
+<tocsect2 linkid="workspacelist-move-window">將視窗從一個工作區移動到另一個工作區
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="workspacelist-prefs">個人喜好
+</tocsect1>
+</toc></doc></sect>
+    </sect>
+    <sect categorycode="GNOMEApplications">
+      <title>應用程式</title>
+      <sect categorycode="GNOMEApplicationsAccessories">
+        <title>附屬應用程式</title>
+      <doc docid="71"><doctitle>統一碼字元對映 V2.0.1</doctitle><docomf>/usr/share/omf/gucharmap/gucharmap-zh_TW.omf</docomf><docsource>file:/usr/share/gnome/help/gucharmap/zh_TW/gucharmap.xml</docsource><docformat>text/xml</docformat><docseriesid>054930fe-ff13-11d7-927b-c1ece0bc6c90</docseriesid><toc>
+<tocsect1 linkid="gucharmap-introduction">介紹
+</tocsect1>
+<tocsect1 linkid="gucharmap-getting-started">入門
+<tocsect2 linkid="gucharmap-start">啟動 Unicode Character Map
+</tocsect2>
+<tocsect2 linkid="gucharmap-when-start">當您啟動 Unicode Character Map
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="gucharmap-usage">用法
+<tocsect2 linkid="gucharmap-create-textstring">建立文字字串
+</tocsect2>
+<tocsect2 linkid="gucharmap-copy-textstring">將文字字串複製並貼入應用程式
+</tocsect2>
+<tocsect2 linkid="gucharmap-change-charset">變更輸入模式
+</tocsect2>
+<tocsect2 linkid="usage-find-character">搜尋字元
+<tocsect3 linkid="usage-find-character-name">依統一碼名稱搜尋字元
+</tocsect3>
+<tocsect3 linkid="usage-find-character-code">依統一碼代碼點搜尋字元
+</tocsect3>
+<tocsect3 linkid="usage-find-character-clipboard">搜尋剪貼簿中的第一個字元
+</tocsect3>
+<tocsect3 linkid="usage-find-character-otherapp">搜尋來自其他應用程式的字元
+</tocsect3>
+</tocsect2>
+<tocsect2 linkid="usage-browse-characters">瀏覽所有字元
+</tocsect2>
+<tocsect2 linkid="usage-display-details">顯示字元的相關詳細資訊
+</tocsect2>
+<tocsect2 linkid="usage-format-character">變更字元的格式
+</tocsect2>
+<tocsect2 linkid="usage-format-chartable">變更字元表的格式
+</tocsect2>
+</tocsect1>
+</toc></doc><doc docid="139"><doctitle>gcalctool 手冊 V2.5.1</doctitle><docomf>/usr/share/omf/gcalctool/gcalctool-zh_TW.omf</docomf><docsource>file:/usr/share/gnome/help/gcalctool/zh_TW/gcalctool.xml</docsource><docformat>text/xml</docformat><docseriesid>52191642-4f23-11d7-95c8-9792b4e62685</docseriesid><toc>
+<tocsect1 linkid="gcalctool-intro">介紹
+</tocsect1>
+<tocsect1 linkid="gcalctool-get-start">入門
+</tocsect1>
+<tocsect1 linkid="gcalctool-usage">使用
+<tocsect2 linkid="gcalctool-calc-functions">使用計算機函數
+</tocsect2>
+<tocsect2 linkid="gcalctool-basic-mode">執行基本計算
+<tocsect3 linkid="gcalctool-simple-calc">執行簡單的計算
+</tocsect3>
+<tocsect3 linkid="gcalctool-erase-char">消除字元
+</tocsect3>
+<tocsect3 linkid="gcalctool-arith-calc">執行算術計算
+</tocsect3>
+<tocsect3 linkid="gcalctool-mem-reg">使用計算機記憶體註冊
+</tocsect3>
+<tocsect3 linkid="gcalctool-ins-ascii">顯示 ASCII 值
+</tocsect3>
+</tocsect2>
+<tocsect2 linkid="gcalctool-financial-mode">執行財務計算
+</tocsect2>
+<tocsect2 linkid="gcalctool-scientific-mode">執行科學計算
+<tocsect3 linkid="gcalctool-set-acc">設定精確度
+</tocsect3>
+<tocsect3 linkid="gcalctool-num-base">設定數值基礎
+</tocsect3>
+<tocsect3 linkid="gcalctool-display-type">設定顯示類型
+</tocsect3>
+<tocsect3 linkid="gcalctool-trig-type">設定三角類型
+</tocsect3>
+<tocsect3 linkid="gcalctool-trig-options">設定三角選項
+</tocsect3>
+<tocsect3 linkid="gcalctool-trig-calc">計算三角值
+</tocsect3>
+<tocsect3 linkid="gcalctool-logs-calc">計算對數
+</tocsect3>
+<tocsect3 linkid="gcalctool-logic-calc">執行邏輯計算
+</tocsect3>
+<tocsect3 linkid="gcalctool-enter-exp">輸入指數
+</tocsect3>
+<tocsect3 linkid="gcalctool-edit-const">使用定值
+</tocsect3>
+<tocsect3 linkid="gcalctool-edit-func">使用函數
+</tocsect3>
+<tocsect3 linkid="gcalctool-num-manip">處理二進制數字
+</tocsect3>
+<tocsect3 linkid="gcalctool-misc-calc">執行其他的科學計算
+</tocsect3>
+</tocsect2>
+<tocsect2 linkid="gcalctool-quit">結束
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="gcalctool-tech-info">技術資訊
+<tocsect2 linkid="gcalctool-manage-order">運算順序
+</tocsect2>
+<tocsect2 linkid="gcalctool-recognize-error">錯誤狀況
+</tocsect2>
+<tocsect2 linkid="gcalctool-input-mode">變更輸入模式
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="gcalctool-keyboard-shortcut">快速參考：鍵盤捷徑
+</tocsect1>
+</toc></doc><doc docid="237"><doctitle>Archive Manager Manual</doctitle><docomf>/usr/share/omf/file-roller/file-roller-zh_TW.omf</docomf><docsource>file:///usr/share/gnome/help/file-roller/zh_TW/file-roller.xml</docsource><docformat/><docseriesid>dffe1822-789b-11d6-842e-812e852e3415</docseriesid></doc><doc docid="276"><doctitle>Gedit Manual</doctitle><docomf>/usr/share/omf/gedit/gedit-zh_TW.omf</docomf><docsource>file:///usr/share/gnome/help/gedit/zh_TW/gedit.xml</docsource><docformat></docformat><docseriesid>081c7e56-2acd-11d6-819f-e6a1118e62db</docseriesid></doc></sect>
+      <sect categorycode="GNOMEApplicationsDesktop Preferences">
+        <title>桌面偏好設定</title>
+      </sect>
+      <sect categorycode="GNOMEApplicationsGames">
+        <title>遊戲</title>
+      </sect>
+      <sect categorycode="GNOMEApplicationsGraphics">
+        <title>圖形</title>
+      </sect>
+      <sect categorycode="GNOMEApplicationsInternet">
+        <title>網際網路</title>
+      </sect>
+      <sect categorycode="GNOMEApplicationsOffice">
+        <title>辦公</title>
+      </sect>
+      <sect categorycode="GNOMEApplicationsProgramming">
+        <title>程式編寫</title>
+      </sect>
+      <sect categorycode="GNOMEApplicationsSound and Video">
+        <title>影音</title>
+      <doc docid="110"><doctitle>CD Player (CD 播放機)</doctitle><docomf>/usr/share/omf/gnome-media/gnome-cd-zh_TW.omf</docomf><docsource>file:/usr/share/gnome/help/gnome-cd/zh_TW/gnome-cd.xml</docsource><docformat>text/xml</docformat><docseriesid>b9e5caae-6437-11d6-9e62-8b945ed9d489</docseriesid><toc>
+<tocsect1 linkid="gtcd-introduction">介紹
+</tocsect1>
+<tocsect1 linkid="gtcd-getting-started">入門
+<tocsect2 linkid="gtcd-to-start">啟動 CD 播放機
+</tocsect2>
+<tocsect2 linkid="gtcd-when-start">當您啟動 CD 播放機
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="gtcd-usage">使用
+<tocsect2 linkid="gtcd_play">播放 CD
+</tocsect2>
+<tocsect2 linkid="gtcd_pause">暫停 CD 播放
+</tocsect2>
+<tocsect2 linkid="gtcd_movetracks">在音軌間移動
+</tocsect2>
+<tocsect2 linkid="gtcd_forward">音軌快速前進
+</tocsect2>
+<tocsect2 linkid="gtcd_rewind">音軌倒退
+</tocsect2>
+<tocsect2 linkid="gtcd_stop">停止 CD 播放
+</tocsect2>
+<tocsect2 linkid="gtcd_adjust_vol">調整音量
+</tocsect2>
+<tocsect2 linkid="gtcd_edit_info">編輯 CD 資訊
+</tocsect2>
+<tocsect2 linkid="gtcd_eject">彈出 CD
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="gtcd-prefs">個人喜好
+</tocsect1>
+</toc></doc></sect>
+      <sect categorycode="GNOMEApplicationsSystem Tools">
+        <title>系統工具</title>
+      <doc docid="208"><doctitle>登入畫面設定手冊 V2.0.1</doctitle><docomf>/usr/share/omf/gdm/gdm-zh_TW.omf</docomf><docsource>file:/usr/share/gnome/help/gdm/zh_TW/gdm.xml</docsource><docformat>text/xml</docformat><docseriesid>be6a0524-46d3-11d8-983d-e135363498a8</docseriesid><toc>
+<tocsect1 linkid="gdm-introduction">介紹 
+</tocsect1>
+<tocsect1 linkid="gdm-getting-started">入門
+<tocsect2 linkid="gdm-to-start">啟動 登入畫面設定
+</tocsect2>
+<tocsect2 linkid="gdm-when-you-start">當您啟動 登入畫面設定
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="gdm-preferences">個人喜好
+<tocsect2 linkid="gdm-prefs-general">一般
+</tocsect2>
+<tocsect2 linkid="gdm-prefs-standard">標準問候程式
+</tocsect2>
+<tocsect2 linkid="gdm-prefs-graphical">圖形式問候程式
+</tocsect2>
+<tocsect2 linkid="gdm-prefs-security">安全性
+</tocsect2>
+<tocsect2 linkid="gdm-prefs-xdmcp">XDMCP
+</tocsect2>
+</tocsect1>
+</toc></doc><doc docid="252"><doctitle>終端機</doctitle><docomf>/usr/share/omf/gnome-terminal/gnome-terminal-zh_TW.omf</docomf><docsource>file:/usr/share/gnome/help/gnome-terminal/zh_TW/gnome-terminal.xml</docsource><docformat>text/xml</docformat><docseriesid>d7834910-40e7-11d6-87e4-aa5f78e530ae</docseriesid><toc>
+<tocsect1 linkid="gnome-terminal-introduction">介紹
+</tocsect1>
+<tocsect1 linkid="gnome-terminal-get-started">入門
+<tocsect2 linkid="gnome-terminal-to-start">啟動 GNOME Terminal
+</tocsect2>
+<tocsect2 linkid="gnome-terminal-first-start">首次啟動 GNOME Terminal
+</tocsect2>
+<tocsect2 linkid="gnome-terminal-profiles">終端機設定檔
+</tocsect2>
+<tocsect2 linkid="gnome-terminal-more-windows">使用多部終端機
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="gnome-terminal-usage">使用
+<tocsect2 linkid="gnome-terminal-windows">開啟及關閉終端機
+</tocsect2>
+<tocsect2 linkid="gnome-terminal-manage-profiles">管理設定檔
+</tocsect2>
+<tocsect2 linkid="gnome-terminal-tabs">修改終端機視窗
+</tocsect2>
+<tocsect2 linkid="gnome-terminal-contents">使用終端機視窗的內容
+</tocsect2>
+<tocsect2 linkid="gnome-terminal-shortcuts">檢視鍵盤捷徑鍵設定
+</tocsect2>
+<tocsect2 linkid="gnome-terminal-reset">回復您的終端機
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="gnome-terminal-prefs">個人喜好
+<tocsect2 linkid="gnome-terminal-prefs-general">一般
+</tocsect2>
+<tocsect2 linkid="gnome-terminal-prefs-title">標題及指令
+</tocsect2>
+<tocsect2 linkid="gnome-terminal-prefs-colors">色彩
+</tocsect2>
+<tocsect2 linkid="gnome-terminal-prefs-effects">效果
+</tocsect2>
+<tocsect2 linkid="gnome-terminal-prefs-scrolling">捲動
+</tocsect2>
+<tocsect2 linkid="gnome-terminal-prefs-compatibility">相容性
+</tocsect2>
+</tocsect1>
+</toc></doc></sect>
+    </sect>
+    <sect categorycode="GNOMEPreferences">
+      <title>偏好設定</title>
+    </sect>
+    <sect categorycode="GNOMESystem Administration">
+      <title>系統管理</title>
+    </sect>
+    <sect categorycode="GNOMEUtilities">
+      <title>公用程式</title>
+    </sect>
+    <sect categorycode="GNOMEDevelopment">
+      <title>程式開發</title>
+      <sect categorycode="GNOMEDevelopmentApplications">
+        <title>應用程式</title>
+      </sect>
+      <sect categorycode="GNOMEDevelopmentIntroductory">
+        <title>入門</title>
+      </sect>
+      <sect categorycode="GNOMEDevelopmentTutorials">
+        <title>指導</title>
+      </sect>
+      <sect categorycode="GNOMEDevelopmentWhite Papers">
+        <title>白皮書</title>
+      </sect>
+    </sect>
+    <sect categorycode="GNOMEGames">
+      <title>遊戲</title>
+    </sect>
+    <sect categorycode="GNOMEGraphics">
+      <title>圖形</title>
+    </sect>
+    <sect categorycode="GNOMEInternet">
+      <title>網際網路</title>
+    </sect>
+    <sect categorycode="GNOMEMultimedia">
+      <title>多媒體</title>
+    </sect>
+    <sect categorycode="GNOMESettings">
+      <title>設定</title>
+    </sect>
+    <sect categorycode="GNOMESystem">
+      <title>系統</title>
+    </sect>
+    <sect categorycode="GNOMEOther">
+      <title>其它</title>
+    </sect>
+  </sect>
+
+  <sect categorycode="KDE">
+    <title>KDE</title>
+    <sect categorycode="KDEUtilities">
+      <title>公用程式</title>
+    </sect>
+    <sect categorycode="KDEApplications">
+      <title>應用程式</title>
+    </sect>
+    <sect categorycode="KDEGames">
+      <title>遊戲</title>
+    </sect>
+    <sect categorycode="KDEGraphics">
+      <title>圖形</title>
+    </sect>
+    <sect categorycode="KDEInternet">
+      <title>網際網路</title>
+    </sect>
+    <sect categorycode="KDEMultimedia">
+      <title>多媒體</title>
+    </sect>
+    <sect categorycode="KDESettings">
+      <title>設定</title>
+    </sect>
+    <sect categorycode="KDESystem">
+      <title>系統</title>
+    </sect>
+    <sect categorycode="KDEPrograms">
+      <title>程式</title>
+    </sect>
+    <sect categorycode="KDEDevelopment">
+      <title>程式開發</title>
+    </sect>
+    <sect categorycode="KDEOther">
+      <title>其它</title>
+    </sect>
+  </sect>
+
+  <sect categorycode="System">
+    <title>系統</title>
+    <sect categorycode="SystemAdministration">
+      <title>管理</title>
+      <sect categorycode="SystemAdministrationBackups">
+        <title>備份</title>
+        <sect categorycode="SystemAdministrationBackupsLocal">
+          <title>本機</title>
+        </sect>
+        <sect categorycode="SystemAdministrationBackupsRemote">
+          <title>遠端</title>
+        </sect>
+      </sect>
+      <sect categorycode="SystemAdministrationFilesystems">
+        <title>檔案系統</title>
+      </sect>
+      <sect categorycode="SystemAdministrationNetworking">
+        <title>網路</title>
+        <sect categorycode="SystemAdministrationNetworkingAppleTalk">
+          <title>AppleTalk</title>
+        </sect>
+        <sect categorycode="SystemAdministrationNetworkingPPP">
+          <title>PPP</title>
+        </sect>
+        <sect categorycode="SystemAdministrationNetworkingSMB">
+          <title>SMB</title>
+        </sect>
+        <sect categorycode="SystemAdministrationNetworkingTCP/IP">
+          <title>TCP/IP</title>
+        </sect>
+        <sect categorycode="SystemAdministrationNetworkingDNS">
+          <title>DNS</title>
+        </sect>
+        <sect categorycode="SystemAdministrationNetworkingOther">
+          <title>其它</title>
+        </sect>
+      </sect>
+      <sect categorycode="SystemAdministrationUsers">
+        <title>使用者</title>
+      </sect>
+      <sect categorycode="SystemAdministrationOther">
+        <title>其它</title>
+      </sect>
+    </sect>
+    <sect categorycode="SystemConfiguration">
+      <title>設定</title>
+      <sect categorycode="SystemConfigurationConfig Files">
+        <title>組態檔</title>
+      </sect>
+      <sect categorycode="SystemConfigurationConfiguration Tools">
+        <title>設定工具</title>
+      </sect>
+      <sect categorycode="SystemConfigurationOther">
+        <title>其它</title>
+      </sect>
+    </sect>
+    <sect categorycode="SystemHardware">
+      <title>硬體</title>
+      <sect categorycode="SystemHardwareProcessor">
+        <title>處理器</title>
+      </sect>
+      <sect categorycode="SystemHardwareStorage">
+        <title>儲存裝置</title>
+      </sect>
+      <sect categorycode="SystemHardwareVideo">
+        <title>視像</title>
+      </sect>
+      <sect categorycode="SystemHardwareInput Devices">
+        <title>輸入裝置</title>
+      </sect>
+      <sect categorycode="SystemHardwareNetworking">
+        <title>網路</title>
+      </sect>
+      <sect categorycode="SystemHardwarePCI/ISA/PCMCIA">
+        <title>PCI/ISA/PCMCIA</title>
+      </sect>
+      <sect categorycode="SystemHardwareOther">
+        <title>其它</title>
+      </sect>
+    </sect>
+    <sect categorycode="SystemPackage Management">
+      <title>套件管理</title>
+    </sect>
+    <sect categorycode="SystemSecurity">
+      <title>保安</title>
+      <sect categorycode="SystemSecurityFirewall">
+        <title>防火牆</title>
+      </sect>
+      <sect categorycode="SystemSecurityIntrusion Detection">
+        <title>入侵偵測系統</title>
+      </sect>
+      <sect categorycode="SystemSecurityVirus">
+        <title>病毒</title>
+      </sect>
+      <sect categorycode="SystemSecurityOther">
+        <title>其它</title>
+      </sect>
+    </sect>
+    <sect categorycode="SystemServices">
+      <title>服務</title>
+      <sect categorycode="SystemServicesHTTP">
+        <title>HTTP</title>
+      </sect>
+      <sect categorycode="SystemServicesFTP">
+        <title>FTP</title>
+      </sect>
+      <sect categorycode="SystemServicesSMB">
+        <title>SMB</title>
+      </sect>
+      <sect categorycode="SystemServicesSSH">
+        <title>SSH</title>
+      </sect>
+      <sect categorycode="SystemServicesTelnet">
+        <title>Telnet</title>
+      </sect>
+      <sect categorycode="SystemServicesSyslog">
+        <title>系統紀錄</title>
+      </sect>
+      <sect categorycode="SystemServicesBIND">
+        <title>BIND</title>
+      </sect>
+      <sect categorycode="SystemServicesPrinting">
+        <title>列印</title>
+      </sect>
+      <sect categorycode="SystemServicesOther">
+        <title>其它</title>
+      </sect>
+    </sect>
+    <sect categorycode="SystemOther">
+      <title>其它</title>
+    </sect>
+  </sect>
+</ScrollKeeperContentsList>

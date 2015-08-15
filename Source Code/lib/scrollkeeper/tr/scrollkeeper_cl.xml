@@ -1,0 +1,791 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrollKeeperContentsList>
+
+
+
+  <sect categorycode="Applications">
+    <title>Uygulamalar</title>
+    <sect categorycode="ApplicationsAmusement">
+      <title>Eğlence</title>
+      </sect>
+    <sect categorycode="ApplicationsEducation">
+      <title>Eğitim</title>
+      <sect categorycode="ApplicationsEducationArts">
+        <title>Sanat</title>
+        </sect>
+      <sect categorycode="ApplicationsEducationComputer Science">
+        <title>Bilgisayar</title>
+        </sect>
+      <sect categorycode="ApplicationsEducationEnglish">
+        <title>İngilizce</title>
+        </sect>
+      <sect categorycode="ApplicationsEducationLanguage">
+        <title>Dil</title>
+        </sect>
+      <sect categorycode="ApplicationsEducationMaths">
+        <title>Matematik</title>
+        </sect>
+      <sect categorycode="ApplicationsEducationMusic">
+        <title>Müzik</title>
+        </sect>
+      <sect categorycode="ApplicationsEducationScience">
+        <title>Bilim</title>
+        </sect>
+      <sect categorycode="ApplicationsEducationTechnology">
+        <title>Teknoloji</title>
+        </sect>
+      <sect categorycode="ApplicationsEducationTesting">
+        <title>Deneme</title>
+        </sect>
+      <sect categorycode="ApplicationsEducationOther">
+        <title>Diğerleri</title>
+        </sect>
+    </sect>
+    <sect categorycode="ApplicationsGames">
+      <title>Oyunlar</title>
+      <sect categorycode="ApplicationsGamesArcade">
+        <title>Savaş</title>
+        </sect>
+      <sect categorycode="ApplicationsGamesBoard">
+        <title>Tahta</title>
+        </sect>
+      <sect categorycode="ApplicationsGamesFirst Person Shooters">
+        <title>First Person Shooters</title>
+        </sect>
+      <sect categorycode="ApplicationsGamesPuzzles">
+        <title>Yap-Boz</title>
+        </sect>
+      <sect categorycode="ApplicationsGamesFighting">
+        <title>Döğüş</title>
+        </sect>
+      <sect categorycode="ApplicationsGamesRole-Playing">
+        <title>Oyunculuk</title>
+        </sect>
+      <sect categorycode="ApplicationsGamesSimulation">
+        <title>Simülasyon</title>
+        </sect>
+      <sect categorycode="ApplicationsGamesStrategy">
+        <title>Strateji</title>
+        </sect>
+      <sect categorycode="ApplicationsGamesOther">
+        <title>Diğerleri</title>
+        </sect>
+    </sect>
+    <sect categorycode="ApplicationsInternet">
+      <title>Internet</title>
+      <sect categorycode="ApplicationsInternetChat">
+        <title>Sohbet</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetEmail">
+        <title>Eposta</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetFax">
+        <title>Faks</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetFile Sharing">
+        <title>Dosya paylaşımı</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetFTP">
+        <title>FTP</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetInternet Phone">
+        <title>Internet telefonculuğu</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetMessaging">
+        <title>Haberleşme</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetNews">
+        <title>Haberler</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetVideo Conferencing">
+        <title>Video konferans</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetWeb">
+        <title>Web</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetOther">
+        <title>Diğerleri</title>
+        </sect>
+    </sect>
+    <sect categorycode="ApplicationsMultimedia">
+      <title>Multimedia</title>
+      <sect categorycode="ApplicationsMultimediaGraphics">
+        <title>Graphics</title>
+        <sect categorycode="ApplicationsMultimediaGraphics3D Modelling">
+          <title>3D Modelleme</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaGraphics3D Rendering">
+          <title>3D Canlandırma</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaGraphicsCAD">
+          <title>CAD</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaGraphicsCapture">
+          <title>Resim yakalama</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaGraphicsConversion">
+          <title>Dönüşüm</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaGraphicsDrawing">
+          <title>Çizim</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaGraphicsEditing">
+          <title>Düzenleme</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaGraphicsViewing">
+          <title>Gösterim</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaGraphicsOther">
+          <title>Diğerleri</title>
+          </sect>
+      </sect>
+      <sect categorycode="ApplicationsMultimediaSound">
+        <title>Ses</title>
+        <sect categorycode="ApplicationsMultimediaSoundAnalysis">
+          <title>Analiz</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaSoundCD Mastering">
+          <title>CD Uzmanlık</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaSoundConversion">
+          <title>Dönüşüm</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaSoundEditing">
+          <title>Düzenleme</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaSoundMIDI">
+          <title>MIDI</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaSoundMixers">
+          <title>Karıştırıcılar</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaSoundPlayers">
+          <title>Çalarlar</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaSoundRecording">
+          <title>Kayıt</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaSoundSpeech">
+          <title>Konuşma</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaSoundOther">
+          <title>Diğerleri</title>
+          </sect>
+      </sect>
+      <sect categorycode="ApplicationsMultimediaVideo">
+        <title>Video</title>
+        <sect categorycode="ApplicationsMultimediaVideoCapture">
+          <title>Resim yakalama</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaVideoConversion">
+          <title>Dönüşüm</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaVideoDisplay">
+          <title>Gösterme</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaVideoEditing">
+          <title>Düzenleme</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaVideoOther">
+          <title>Diğerleri</title>
+          </sect>
+      </sect>
+      <sect categorycode="ApplicationsMultimediaOther">
+        <title>Diğerleri</title>
+        </sect>
+    </sect>
+    <sect categorycode="ApplicationsOffice">
+      <title>Ofis</title>
+      <sect categorycode="ApplicationsOfficeCalendar">
+        <title>Takvim</title>
+        </sect>
+      <sect categorycode="ApplicationsOfficeData Processing">
+        <title>Bilgi işlemleri</title>
+        </sect>
+      <sect categorycode="ApplicationsOfficeDatabase">
+        <title>Bilgi tabanı</title>
+        </sect>
+      <sect categorycode="ApplicationsOfficeEmail">
+        <title>Eposta</title>
+        </sect>
+      <sect categorycode="ApplicationsOfficeFinancial">
+        <title>Mali</title>
+        </sect>
+      <sect categorycode="ApplicationsOfficePIM">
+        <title>Kişisel Bilgi</title>
+        </sect>
+      <sect categorycode="ApplicationsOfficePlotting">
+        <title>Çizdirme</title>
+        </sect>
+      <sect categorycode="ApplicationsOfficePresentation">
+        <title>Gösterim</title>
+        </sect>
+      <sect categorycode="ApplicationsOfficePublishing">
+        <title>Yayıncılık</title>
+        <sect categorycode="ApplicationsOfficePublishingWeb Publishing">
+          <title>Web Yayıncılığı</title>
+          </sect>
+      </sect>
+      <sect categorycode="ApplicationsOfficeWord Processing">
+        <title>Kelime-işlem</title>
+        </sect>
+      <sect categorycode="ApplicationsOfficeOther">
+        <title>Diğerleri</title>
+        </sect>
+    </sect>
+    <sect categorycode="ApplicationsScientific">
+      <title>Bilimsel</title>
+      <sect categorycode="ApplicationsScientificAstronomy">
+        <title>Astronomi</title>
+        </sect>
+      <sect categorycode="ApplicationsScientificAstrophysics">
+        <title>Astrofizik</title>
+        </sect>
+      <sect categorycode="ApplicationsScientificBiology">
+        <title>Biyoloji</title>
+        </sect>
+      <sect categorycode="ApplicationsScientificChemistry">
+        <title>Kimya</title>
+        </sect>
+      <sect categorycode="ApplicationsScientificEDA">
+        <title>EDA</title>
+        </sect>
+      <sect categorycode="ApplicationsScientificGenetics">
+        <title>Genetik</title>
+        </sect>
+      <sect categorycode="ApplicationsScientificMath">
+        <title>Matematik</title>
+        </sect>
+      <sect categorycode="ApplicationsScientificPhysics">
+        <title>Fizik</title>
+        </sect>
+      <sect categorycode="ApplicationsScientificVisualisation">
+        <title>Görselleştirme</title>
+        </sect>
+      <sect categorycode="ApplicationsScientificOther">
+        <title>Diğerleri</title>
+        </sect>
+    </sect>
+    <sect categorycode="ApplicationsSecurity">
+      <title>Güvenlik</title>
+      <sect categorycode="ApplicationsSecurityCryptography">
+        <title>Şifreleme</title>
+        </sect>
+      <sect categorycode="ApplicationsSecurityOther">
+        <title>Diğerleri</title>
+        </sect>
+    </sect>
+    <sect categorycode="ApplicationsText Editors">
+      <title>Metin Düzenleyiciler</title>
+      <sect categorycode="ApplicationsText EditorsCLI">
+        <title>CLI</title>
+        </sect>
+      <sect categorycode="ApplicationsText EditorsGUI">
+        <title>Grafik Kullanıcı Arayüzü</title>
+        </sect>
+      <sect categorycode="ApplicationsText EditorsOther">
+        <title>Diğerleri</title>
+        </sect>
+    </sect>
+    <sect categorycode="ApplicationsUtilities">
+      <title>Araçlar</title>
+      <sect categorycode="ApplicationsUtilitiesArchiving">
+        <title>Arşivcilik</title>
+        </sect>
+      <sect categorycode="ApplicationsUtilitiesCalculating">
+        <title>Hesaplama</title>
+        </sect>
+      <sect categorycode="ApplicationsUtilitiesClocks">
+        <title>Saatler</title>
+        </sect>
+      <sect categorycode="ApplicationsUtilitiesCompression">
+        <title>Sıkıştırma</title>
+        </sect>
+      <sect categorycode="ApplicationsUtilitiesFile Utilities">
+        <title>Dosya Araçları</title>
+        </sect>
+      <sect categorycode="ApplicationsUtilitiesMonitors">
+        <title>Monitörler</title>
+        </sect>
+      <sect categorycode="ApplicationsUtilitiesPrinting">
+        <title>Yazdırma</title>
+        </sect>
+      <sect categorycode="ApplicationsUtilitiesTerminals">
+        <title>Terminaller</title>
+        </sect>
+      <sect categorycode="ApplicationsUtilitiesText Utilities">
+        <title>Metin Araçları</title>
+        </sect>
+      <sect categorycode="ApplicationsUtilitiesOther">
+        <title>Diğerleri</title>
+        </sect>
+    </sect>
+    <sect categorycode="ApplicationsX">
+      <title>X</title>
+      <sect categorycode="ApplicationsXConfiguration">
+        <title>Yapılandırma</title>
+        </sect>
+      <sect categorycode="ApplicationsXFonts">
+        <title>Yazı Tipleri</title>
+        </sect>
+      <sect categorycode="ApplicationsXLogin Managers">
+        <title>Giriş Yöneticileri</title>
+        </sect>
+      <sect categorycode="ApplicationsXScreensavers">
+        <title>Ekran Koruyucuları</title>
+        </sect>
+      <sect categorycode="ApplicationsXWindow Managers">
+        <title>Pencere Yöneticileri</title>
+        </sect>
+      <sect categorycode="ApplicationsXOther">
+        <title>Diğerleri</title>
+        </sect>
+    </sect>
+  </sect>
+
+  <sect categorycode="CDE">
+    <title>CDE</title>
+    </sect>
+
+  <sect categorycode="Development">
+    <title>Geliştirme</title>
+    <sect categorycode="DevelopmentDatabases">
+      <title>Veritabanları</title>
+      </sect>
+    <sect categorycode="DevelopmentDevelopment Tools">
+      <title>Geliştirme Araçları</title>
+      <sect categorycode="DevelopmentDevelopment ToolsBuild Tools">
+        <title>Kurgulama Araçları</title>
+        </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsCode Generators">
+        <title>Kod Üreticiler</title>
+        </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsConfiguration">
+        <title>Yapılandırma</title>
+        </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsDebuggers">
+        <title>Hata Ayıklayıcılar</title>
+        </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsIDEs">
+        <title>IDEs</title>
+        </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsPackaging">
+        <title>Paketleme</title>
+        </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsProfiling">
+        <title>Profiling</title>
+        </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsRAD">
+        <title>RAD</title>
+        </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsVersion Control">
+        <title>Sürüm Kontrol</title>
+        </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsOther">
+        <title>Diğerleri</title>
+        </sect>
+    </sect>
+    <sect categorycode="DevelopmentEnvironments">
+      <title>Çevre Birimleri</title>
+      <sect categorycode="DevelopmentEnvironmentsADA">
+        <title>ADA</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsC">
+        <title>C</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsC++">
+        <title>C++</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsGNOME">
+        <title>GNOME</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsGTK+">
+        <title>GTK+</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsgtk++">
+        <title>gtk++</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsJava">
+        <title>Java</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsKDE">
+        <title>KDE</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsPerl">
+        <title>Perl</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsPython">
+        <title>Python</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsQt">
+        <title>Qt</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsTcl/Tk">
+        <title>Tcl/Tk</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsWebML">
+        <title>WebML</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsOther">
+        <title>Diğerleri</title>
+        </sect>
+    </sect>
+    <sect categorycode="DevelopmentKernels">
+      <title>Çekirdekler</title>
+      <sect categorycode="DevelopmentKernelsFreeBSD">
+        <title>FreeBSD</title>
+        </sect>
+      <sect categorycode="DevelopmentKernelsLinux">
+        <title>Linux</title>
+        </sect>
+      <sect categorycode="DevelopmentKernelsNetBSD">
+        <title>NetBSD</title>
+        </sect>
+      <sect categorycode="DevelopmentKernelsOther">
+        <title>Diğerleri</title>
+        </sect>
+    </sect>
+    <sect categorycode="DevelopmentLibraries">
+      <title>Kitaplıklar</title>
+      </sect>
+    <sect categorycode="DevelopmentSystem Calls">
+      <title>Sistem Çağrıları</title>
+      </sect>
+    <sect categorycode="DevelopmentOther">
+      <title>Diğerleri</title>
+      </sect>
+  </sect>
+  <sect categorycode="General">
+    <title>Genel</title>
+    <sect categorycode="GeneralLicenses">
+      <title>Lisanslar</title>
+      </sect>
+    <sect categorycode="GeneralLinux">
+      <title>Linux</title>
+      <sect categorycode="GeneralLinuxDistributions">
+        <title>Dağıtımlar</title>
+        <sect categorycode="GeneralLinuxDistributionsCaldera">
+          <title>Caldera</title>
+          </sect>
+        <sect categorycode="GeneralLinuxDistributionsDebian">
+          <title>Debian</title>
+          </sect>
+        <sect categorycode="GeneralLinuxDistributionsMandrake">
+          <title>Mandrake</title>
+          </sect>
+        <sect categorycode="GeneralLinuxDistributionsRed Flag">
+          <title>Red Flag</title>
+          </sect>
+        <sect categorycode="GeneralLinuxDistributionsRed Hat">
+          <title>Red Hat</title>
+          </sect>
+        <sect categorycode="GeneralLinuxDistributionsSlackware">
+          <title>Slackware</title>
+          </sect>
+        <sect categorycode="GeneralLinuxDistributionsSuSE">
+          <title>SuSE</title>
+          </sect>
+        <sect categorycode="GeneralLinuxDistributionsOther">
+          <title>Diğerleri</title>
+          </sect>
+      </sect>
+      <sect categorycode="GeneralLinuxGeneral">
+        <title>Genel</title>
+        </sect>
+      <sect categorycode="GeneralLinuxOther">
+        <title>Diğerleri</title>
+        </sect>
+    </sect>
+    <sect categorycode="GeneralOther">
+      <title>Diğerleri</title>
+      </sect>
+  </sect>
+
+  <sect categorycode="GNOME">
+    <title>GNOME</title>
+    <sect categorycode="GNOMEAccessibility">
+      <title>Erişilebilirlik</title>
+      </sect>
+    <sect categorycode="GNOMECore Desktop">
+      <title>Masaüstü Çekirdeği</title>
+      </sect>
+    <sect categorycode="GNOMEDesktop">
+      <title>Masaüstü</title>
+      <sect categorycode="GNOMEDesktopUser Guides">
+        <title>Kullanıcı Kılavuzları</title>
+        </sect>
+    </sect>
+    <sect categorycode="GNOMEApplets">
+      <title>Apletler</title>
+      <sect categorycode="GNOMEAppletsAccessories">
+        <title>Donatılar</title>
+        </sect>
+      <sect categorycode="GNOMEAppletsAmusement">
+        <title>Eğlence</title>
+        </sect>
+      <sect categorycode="GNOMEAppletsClock">
+        <title>Saat</title>
+        </sect>
+      <sect categorycode="GNOMEAppletsInternet">
+        <title>Internet</title>
+        </sect>
+      <sect categorycode="GNOMEAppletsMonitors">
+        <title>Monitörler</title>
+        </sect>
+      <sect categorycode="GNOMEAppletsMultimedia">
+        <title>Multimedia</title>
+        </sect>
+      <sect categorycode="GNOMEAppletsNetwork">
+        <title>Ağ</title>
+        </sect>
+      <sect categorycode="GNOMEAppletsUtility">
+        <title>Araçlar</title>
+        </sect>
+    </sect>
+    <sect categorycode="GNOMEApplications">
+      <title>Uygulamalar</title>
+      <sect categorycode="GNOMEApplicationsAccessories">
+        <title>Donatılar</title>
+        </sect>
+      <sect categorycode="GNOMEApplicationsDesktop Preferences">
+        <title>Masaüstü Tercihleri</title>
+        </sect>
+      <sect categorycode="GNOMEApplicationsGames">
+        <title>Oyunlar</title>
+        </sect>
+      <sect categorycode="GNOMEApplicationsGraphics">
+        <title>Graphics</title>
+        </sect>
+      <sect categorycode="GNOMEApplicationsInternet">
+        <title>Internet</title>
+        </sect>
+      <sect categorycode="GNOMEApplicationsOffice">
+        <title>Ofis</title>
+        </sect>
+      <sect categorycode="GNOMEApplicationsProgramming">
+        <title>Programlama</title>
+        </sect>
+      <sect categorycode="GNOMEApplicationsSound and Video">
+        <title>Ses ve Görüntü</title>
+        </sect>
+      <sect categorycode="GNOMEApplicationsSystem Tools">
+        <title>Sistem Araçları</title>
+        </sect>
+    </sect>
+    <sect categorycode="GNOMEPreferences">
+      <title>Tercihler</title>
+      </sect>
+    <sect categorycode="GNOMESystem Administration">
+      <title>Sistem Yönetimi</title>
+      </sect>
+    <sect categorycode="GNOMEUtilities">
+      <title>Araçlar</title>
+      </sect>
+    <sect categorycode="GNOMEDevelopment">
+      <title>Geliştirme</title>
+      <sect categorycode="GNOMEDevelopmentApplications">
+        <title>Uygulamalar</title>
+        </sect>
+      <sect categorycode="GNOMEDevelopmentIntroductory">
+        <title>Tanıtım</title>
+        </sect>
+      <sect categorycode="GNOMEDevelopmentTutorials">
+        <title>Öğreticiler</title>
+        </sect>
+      <sect categorycode="GNOMEDevelopmentWhite Papers">
+        <title>Beyaz Sayfalar</title>
+        </sect>
+    </sect>
+    <sect categorycode="GNOMEGames">
+      <title>Oyunlar</title>
+      </sect>
+    <sect categorycode="GNOMEGraphics">
+      <title>Graphics</title>
+      </sect>
+    <sect categorycode="GNOMEInternet">
+      <title>Internet</title>
+      </sect>
+    <sect categorycode="GNOMEMultimedia">
+      <title>Multimedia</title>
+      </sect>
+    <sect categorycode="GNOMESettings">
+      <title>Ayarlar</title>
+      </sect>
+    <sect categorycode="GNOMESystem">
+      <title>Sistem</title>
+      </sect>
+    <sect categorycode="GNOMEOther">
+      <title>Diğerleri</title>
+      </sect>
+  </sect>
+
+  <sect categorycode="KDE">
+    <title>KDE</title>
+    <sect categorycode="KDEUtilities">
+      <title>Araçlar</title>
+      </sect>
+    <sect categorycode="KDEApplications">
+      <title>Uygulamalar</title>
+      </sect>
+    <sect categorycode="KDEGames">
+      <title>Oyunlar</title>
+      </sect>
+    <sect categorycode="KDEGraphics">
+      <title>Graphics</title>
+      </sect>
+    <sect categorycode="KDEInternet">
+      <title>Internet</title>
+      </sect>
+    <sect categorycode="KDEMultimedia">
+      <title>Multimedia</title>
+      </sect>
+    <sect categorycode="KDESettings">
+      <title>Ayarlar</title>
+      </sect>
+    <sect categorycode="KDESystem">
+      <title>Sistem</title>
+      </sect>
+    <sect categorycode="KDEPrograms">
+      <title>Programlar</title>
+      </sect>
+    <sect categorycode="KDEDevelopment">
+      <title>Geliştirme</title>
+      </sect>
+    <sect categorycode="KDEOther">
+      <title>Diğerleri</title>
+      </sect>
+  </sect>
+
+  <sect categorycode="System">
+    <title>Sistem</title>
+    <sect categorycode="SystemAdministration">
+      <title>Yönetim</title>
+      <sect categorycode="SystemAdministrationBackups">
+        <title>Yedekler</title>
+        <sect categorycode="SystemAdministrationBackupsLocal">
+          <title>Yerel</title>
+          </sect>
+        <sect categorycode="SystemAdministrationBackupsRemote">
+          <title>Uzak</title>
+          </sect>
+      </sect>
+      <sect categorycode="SystemAdministrationFilesystems">
+        <title>DosyaSistemleri</title>
+        </sect>
+      <sect categorycode="SystemAdministrationNetworking">
+        <title>Ağ</title>
+        <sect categorycode="SystemAdministrationNetworkingAppleTalk">
+          <title>AppleTalk</title>
+          </sect>
+        <sect categorycode="SystemAdministrationNetworkingPPP">
+          <title>PPP</title>
+          </sect>
+        <sect categorycode="SystemAdministrationNetworkingSMB">
+          <title>SMB</title>
+          </sect>
+        <sect categorycode="SystemAdministrationNetworkingTCP/IP">
+          <title>TCP/IP</title>
+          </sect>
+        <sect categorycode="SystemAdministrationNetworkingDNS">
+          <title>DNS</title>
+          </sect>
+        <sect categorycode="SystemAdministrationNetworkingOther">
+          <title>Diğerleri</title>
+          </sect>
+      </sect>
+      <sect categorycode="SystemAdministrationUsers">
+        <title>Kullanıcılar</title>
+        </sect>
+      <sect categorycode="SystemAdministrationOther">
+        <title>Diğerleri</title>
+        </sect>
+    </sect>
+    <sect categorycode="SystemConfiguration">
+      <title>Yapılandırma</title>
+      <sect categorycode="SystemConfigurationConfig Files">
+        <title>Yapılandırma Dosyaları</title>
+        </sect>
+      <sect categorycode="SystemConfigurationConfiguration Tools">
+        <title>Yapılandırma Araçları</title>
+        </sect>
+      <sect categorycode="SystemConfigurationOther">
+        <title>Diğerleri</title>
+        </sect>
+    </sect>
+    <sect categorycode="SystemHardware">
+      <title>Donanım</title>
+      <sect categorycode="SystemHardwareProcessor">
+        <title>İşlemci</title>
+        </sect>
+      <sect categorycode="SystemHardwareStorage">
+        <title>Bellek Ortamları</title>
+        </sect>
+      <sect categorycode="SystemHardwareVideo">
+        <title>Video</title>
+        </sect>
+      <sect categorycode="SystemHardwareInput Devices">
+        <title>Girdi Aygıtları</title>
+        </sect>
+      <sect categorycode="SystemHardwareNetworking">
+        <title>Ağ</title>
+        </sect>
+      <sect categorycode="SystemHardwarePCI/ISA/PCMCIA">
+        <title>PCI/ISA/PCMCIA</title>
+        </sect>
+      <sect categorycode="SystemHardwareOther">
+        <title>Diğerleri</title>
+        </sect>
+    </sect>
+    <sect categorycode="SystemPackage Management">
+      <title>Paket Yönetimi</title>
+      </sect>
+    <sect categorycode="SystemSecurity">
+      <title>Güvenlik</title>
+      <sect categorycode="SystemSecurityFirewall">
+        <title>Güvenlik Engeli</title>
+        </sect>
+      <sect categorycode="SystemSecurityIntrusion Detection">
+        <title>Tecavüz Saptama</title>
+        </sect>
+      <sect categorycode="SystemSecurityVirus">
+        <title>Virüs</title>
+        </sect>
+      <sect categorycode="SystemSecurityOther">
+        <title>Diğerleri</title>
+        </sect>
+    </sect>
+    <sect categorycode="SystemServices">
+      <title>Servisler</title>
+      <sect categorycode="SystemServicesHTTP">
+        <title>HTTP</title>
+        </sect>
+      <sect categorycode="SystemServicesFTP">
+        <title>FTP</title>
+        </sect>
+      <sect categorycode="SystemServicesSMB">
+        <title>SMB</title>
+        </sect>
+      <sect categorycode="SystemServicesSSH">
+        <title>SSH</title>
+        </sect>
+      <sect categorycode="SystemServicesTelnet">
+        <title>Telnet</title>
+        </sect>
+      <sect categorycode="SystemServicesSyslog">
+        <title>Syslog</title>
+        </sect>
+      <sect categorycode="SystemServicesBIND">
+        <title>BIND</title>
+        </sect>
+      <sect categorycode="SystemServicesPrinting">
+        <title>Yazdırma</title>
+        </sect>
+      <sect categorycode="SystemServicesOther">
+        <title>Diğerleri</title>
+        </sect>
+    </sect>
+    <sect categorycode="SystemOther">
+      <title>Diğerleri</title>
+      </sect>
+  </sect>
+</ScrollKeeperContentsList>

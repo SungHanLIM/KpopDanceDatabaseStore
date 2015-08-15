@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<toc>
+<tocsect1 linkid="conftool">GNOME Pilot Configuration Tool
+<tocsect2 linkid="assistant">The GNOME Pilot Setup Assistant
+</tocsect2>
+<tocsect2 linkid="conftool-pilots">Adding or Editing a Handheld Entry: The "Pilots" Tab
+</tocsect2>
+<tocsect2 linkid="setup-conftool-devices">Adding or Editing an entry under the Device Settings Tab
+</tocsect2>
+<tocsect2 linkid="setup-conduits">Conduit Settings
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="pilot-applet">The Pilot Applet
+</tocsect1>
+</toc>

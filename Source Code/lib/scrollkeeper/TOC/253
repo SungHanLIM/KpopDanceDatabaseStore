@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<toc>
+<tocsect1 linkid="gnome-terminal-introduction">Introducere
+</tocsect1>
+<tocsect1 linkid="gnome-terminal-get-started">Primii paşi
+<tocsect2 linkid="gnome-terminal-to-start">Pentru a porni Terminalul GNOME
+</tocsect2>
+<tocsect2 linkid="gnome-terminal-first-start">Când porniţi prima dată Terminalul GNOME
+</tocsect2>
+<tocsect2 linkid="gnome-terminal-profiles">Profiluri pentru terminale
+</tocsect2>
+<tocsect2 linkid="gnome-terminal-more-windows">Lucrând cu mai multe terminale
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="gnome-terminal-usage">Mod de utilizare
+<tocsect2 linkid="gnome-terminal-windows">Pentru a deschide şi a închide terminale
+</tocsect2>
+<tocsect2 linkid="gnome-terminal-manage-profiles">Pentru a gestiona profilele
+</tocsect2>
+<tocsect2 linkid="gnome-terminal-tabs">Pentru a modifica o fereastră terminal
+</tocsect2>
+<tocsect2 linkid="gnome-terminal-contents">Pentru a lucra cu conţinutul unei ferestre terminal
+</tocsect2>
+<tocsect2 linkid="gnome-terminal-reset">Pentru a recupera terminalul
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="gnome-terminal-prefs">Preferinţe
+<tocsect2 linkid="gnome-terminal-prefs-general">General
+</tocsect2>
+<tocsect2 linkid="gnome-terminal-prefs-title">Titlu şi comandă
+</tocsect2>
+<tocsect2 linkid="gnome-terminal-prefs-colors">Culori
+</tocsect2>
+<tocsect2 linkid="gnome-terminal-prefs-effects">Efecte
+</tocsect2>
+<tocsect2 linkid="gnome-terminal-prefs-compatibility">Compatibilitate
+</tocsect2>
+<tocsect2 linkid="gnome-terminal-prefs-keybindings">Combinaţii de taste
+</tocsect2>
+</tocsect1>
+</toc>

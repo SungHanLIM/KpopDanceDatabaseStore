@@ -1,0 +1,11 @@
+auto
+/bin/ksh
+ksh-usrbin
+/usr/bin/ksh
+ksh-man
+/usr/share/man/man1/ksh.1.gz
+
+/bin/ksh93
+50
+/bin/ksh93
+/usr/share/man/man1/ksh93.1.gz

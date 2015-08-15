@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<toc>
+<tocsect1 linkid="gucharmap-introduction">简介
+</tocsect1>
+<tocsect1 linkid="gucharmap-getting-started">入门
+<tocsect2 linkid="gucharmap-start">启动 Unicode Character Map
+</tocsect2>
+<tocsect2 linkid="gucharmap-when-start">在启动 Unicode Character Map 时
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="gucharmap-usage">用法
+<tocsect2 linkid="gucharmap-create-textstring">创建文本字符串
+</tocsect2>
+<tocsect2 linkid="gucharmap-copy-textstring">复制文本字符串并将其粘贴到应用程序中
+</tocsect2>
+<tocsect2 linkid="gucharmap-change-charset">更改输入模式
+</tocsect2>
+<tocsect2 linkid="usage-find-character">搜索字符
+<tocsect3 linkid="usage-find-character-name">按照 Unicode 名称搜索字符
+</tocsect3>
+<tocsect3 linkid="usage-find-character-code">按照 Unicode 代码点搜索字符
+</tocsect3>
+<tocsect3 linkid="usage-find-character-clipboard">搜索剪贴板中的第一个字符
+</tocsect3>
+<tocsect3 linkid="usage-find-character-otherapp">搜索其他应用程序中的字符
+</tocsect3>
+</tocsect2>
+<tocsect2 linkid="usage-browse-characters">浏览所有字符
+</tocsect2>
+<tocsect2 linkid="usage-display-details">显示关于字符的详细信息
+</tocsect2>
+<tocsect2 linkid="usage-format-character">更改字符格式
+</tocsect2>
+<tocsect2 linkid="usage-format-chartable">更改字符表的格式
+</tocsect2>
+</tocsect1>
+</toc>

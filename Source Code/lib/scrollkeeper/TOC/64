@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<toc>
+<tocsect1 linkid="gucharmap-introduction">Introduzione
+</tocsect1>
+<tocsect1 linkid="gucharmap-getting-started">Per iniziare
+<tocsect2 linkid="gucharmap-start">Avviare la Mappa caratteri unicode
+</tocsect2>
+<tocsect2 linkid="gucharmap-when-start">Primo avvio della Mappa caratteri unicode
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="gucharmap-usage">Utilizzo
+<tocsect2 linkid="gucharmap-create-textstring">Creare una stringa di testo
+</tocsect2>
+<tocsect2 linkid="gucharmap-copy-textstring">Copiare e incollare la stringa di testo in un'applicazione
+</tocsect2>
+<tocsect2 linkid="gucharmap-change-charset">Modificare il metodo di input
+</tocsect2>
+<tocsect2 linkid="usage-find-character">Ricercare un carattere
+<tocsect3 linkid="usage-find-character-name">Ricercare un carattere in base al nome Unicode
+</tocsect3>
+<tocsect3 linkid="usage-find-character-code">Ricercare un carattere in base al punto codice Unicode
+</tocsect3>
+<tocsect3 linkid="usage-find-character-clipboard">Ricercare il primo carattere presente negli Appunti
+</tocsect3>
+<tocsect3 linkid="usage-find-character-otherapp">Ricercare un carattere presente in un'altra applicazione
+</tocsect3>
+</tocsect2>
+<tocsect2 linkid="usage-browse-characters">Sfogliare tutti i caratteri disponibili
+</tocsect2>
+<tocsect2 linkid="usage-display-details">Visualizzare informazioni dettagliate su un carattere
+</tocsect2>
+<tocsect2 linkid="usage-format-character">Modificare il formato di un carattere
+</tocsect2>
+<tocsect2 linkid="usage-format-chartable">Modificare il formato della mappa caratteri
+</tocsect2>
+</tocsect1>
+</toc>

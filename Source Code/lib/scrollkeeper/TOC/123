@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<toc>
+<tocsect1 linkid="gnome-netstatus-intro">Introduction
+<tocsect2 linkid="gnome-netstatus-intro-add">Ajout du Network Monitor à un tableau de bord 
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="gnome-netstatus-usage">Syntaxe 
+</tocsect1>
+<tocsect1 linkid="gnome-netstatus-props">Propriétés 
+<tocsect2 linkid="gnome-netstatus-props-gen">General 
+</tocsect2>
+<tocsect2 linkid="gnome-netstatus-props-supp">Prise en charge 
+</tocsect2>
+</tocsect1>
+</toc>

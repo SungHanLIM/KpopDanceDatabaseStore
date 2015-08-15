@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<toc>
+<tocsect1 linkid="gdm-introduction">介紹 
+</tocsect1>
+<tocsect1 linkid="gdm-getting-started">入門
+<tocsect2 linkid="gdm-to-start">啟動 登入畫面設定
+</tocsect2>
+<tocsect2 linkid="gdm-when-you-start">當您啟動 登入畫面設定
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="gdm-preferences">個人喜好
+<tocsect2 linkid="gdm-prefs-general">一般
+</tocsect2>
+<tocsect2 linkid="gdm-prefs-standard">標準問候程式
+</tocsect2>
+<tocsect2 linkid="gdm-prefs-graphical">圖形式問候程式
+</tocsect2>
+<tocsect2 linkid="gdm-prefs-security">安全性
+</tocsect2>
+<tocsect2 linkid="gdm-prefs-xdmcp">XDMCP
+</tocsect2>
+</tocsect1>
+</toc>

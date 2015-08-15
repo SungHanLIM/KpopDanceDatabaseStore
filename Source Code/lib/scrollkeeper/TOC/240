@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<toc>
+<tocsect1 linkid="totem-introduction">Introduction
+</tocsect1>
+<tocsect1 linkid="totem-getting-started">Getting Started
+<tocsect2 linkid="totem-start">To Start Totem Movie Player
+</tocsect2>
+<tocsect2 linkid="totem-when-start">When You Start Totem Movie Player
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="totem-usage">Usage
+<tocsect2 linkid="totem-open-file">To Open a File
+</tocsect2>
+<tocsect2 linkid="totem-usage-open-location">To Open a Location
+</tocsect2>
+<tocsect2 linkid="totem-usage-play">To Play a DVD, VCD or CD
+</tocsect2>
+<tocsect2 linkid="totem-usage-eject">To Eject a DVD, VCD or CD
+</tocsect2>
+<tocsect2 linkid="totem-usage-pause">To Pause a Movie or Song
+</tocsect2>
+<tocsect2 linkid="totem-usage-view-properties">To View Properties of a Movie or Song
+</tocsect2>
+<tocsect2 linkid="totem-usage-seek">To Seek Through Movies or Songs
+</tocsect2>
+<tocsect2 linkid="totem-usage-change-zoom">To Change the Zoom Factor
+</tocsect2>
+<tocsect2 linkid="totem-usage-adjust-volume">To Adjust the Volume
+</tocsect2>
+<tocsect2 linkid="totem-usage-on-top">To Make Window Always On Top
+</tocsect2>
+<tocsect2 linkid="totem-usage-show-control">To Show or Hide Controls
+</tocsect2>
+<tocsect2 linkid="totem-usage-playlist">To Manage Playlist
+<tocsect3 linkid="totem-usage-playlist-show-hide">To Show or Hide Playlist
+</tocsect3>
+<tocsect3 linkid="totem-usage-playlist-manage">Manage a PlayList
+</tocsect3>
+<tocsect3 linkid="totem-usage-playlist-repeat">To Select or Unselect Repeat Mode
+</tocsect3>
+<tocsect3 linkid="totem-usage-playlist-shuffle">To Select or Unselect Shuffle Mode
+</tocsect3>
+</tocsect2>
+<tocsect2 linkid="totem-usage-take-screenshot">To Take Screenshot
+</tocsect2>
+<tocsect2 linkid="totem-usage-quit">To Quit Totem Movie Player
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="totem-prefs">Preferences
+<tocsect2 linkid="totem-prefs-general">General
+</tocsect2>
+<tocsect2 linkid="totem-prefs-display">Display
+</tocsect2>
+<tocsect2 linkid="totem-prefs-audio">Audio
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="totem-about">About Totem Movie Player
+</tocsect1>
+</toc>

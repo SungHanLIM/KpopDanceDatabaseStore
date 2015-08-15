@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<indexdoc>
+  <indexitem>
+    <title>Unicode Character Map</title>
+    <link linkid="index"/>
+  </indexitem>
+  <indexitem>
+    <title>gucharmap</title>
+    <link linkid="index"/>
+  </indexitem>
+  <indexitem>
+    <title>字符映射</title>
+    <link linkid="index"/>
+  </indexitem>
+</indexdoc>

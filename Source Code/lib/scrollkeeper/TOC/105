@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<toc>
+<tocsect1 linkid="gnome-volume-control-intro">Вступ
+</tocsect1>
+<tocsect1 linkid="gnome-volume-control-getting-started">Початок роботи
+<tocsect2 linkid="gnome-volume-control-to-start">Запуск регулятора гучності
+</tocsect2>
+<tocsect2 linkid="gnome-volume-control-when-you-start">Після запуску програми Регулятор гучності
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="gnome-volume-control-usage">Використання
+<tocsect2 linkid="gnome-volume-control-usage-vol">Зміна рівня гучності
+</tocsect2>
+<tocsect2 linkid="gnome-volume-control-usage-lock">Блокування каналів мікшера
+</tocsect2>
+<tocsect2 linkid="gnome-volume-control-usage-mute">Вимикання мікшера
+</tocsect2>
+<tocsect2 linkid="gnome-volume-control-usage-rec">Визначення джерела запису
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="prefs">Параметри
+</tocsect1>
+</toc>

@@ -1,0 +1,791 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrollKeeperContentsList>
+
+
+
+  <sect categorycode="Applications">
+    <title>应用</title>
+    <sect categorycode="ApplicationsAmusement">
+      <title>娱乐</title>
+      </sect>
+    <sect categorycode="ApplicationsEducation">
+      <title>教育</title>
+      <sect categorycode="ApplicationsEducationArts">
+        <title>艺术</title>
+        </sect>
+      <sect categorycode="ApplicationsEducationComputer Science">
+        <title>计算机科学</title>
+        </sect>
+      <sect categorycode="ApplicationsEducationEnglish">
+        <title>英语</title>
+        </sect>
+      <sect categorycode="ApplicationsEducationLanguage">
+        <title>语言</title>
+        </sect>
+      <sect categorycode="ApplicationsEducationMaths">
+        <title>数学</title>
+        </sect>
+      <sect categorycode="ApplicationsEducationMusic">
+        <title>音乐</title>
+        </sect>
+      <sect categorycode="ApplicationsEducationScience">
+        <title>科学</title>
+        </sect>
+      <sect categorycode="ApplicationsEducationTechnology">
+        <title>技术</title>
+        </sect>
+      <sect categorycode="ApplicationsEducationTesting">
+        <title>正在试验</title>
+        </sect>
+      <sect categorycode="ApplicationsEducationOther">
+        <title>其它</title>
+        </sect>
+    </sect>
+    <sect categorycode="ApplicationsGames">
+      <title>游戏</title>
+      <sect categorycode="ApplicationsGamesArcade">
+        <title>Arcade</title>
+        </sect>
+      <sect categorycode="ApplicationsGamesBoard">
+        <title>Board</title>
+        </sect>
+      <sect categorycode="ApplicationsGamesFirst Person Shooters">
+        <title>First Person Shooters</title>
+        </sect>
+      <sect categorycode="ApplicationsGamesPuzzles">
+        <title>谜</title>
+        </sect>
+      <sect categorycode="ApplicationsGamesFighting">
+        <title>Fighting</title>
+        </sect>
+      <sect categorycode="ApplicationsGamesRole-Playing">
+        <title>正在进行角色扮演</title>
+        </sect>
+      <sect categorycode="ApplicationsGamesSimulation">
+        <title>模拟</title>
+        </sect>
+      <sect categorycode="ApplicationsGamesStrategy">
+        <title>策略</title>
+        </sect>
+      <sect categorycode="ApplicationsGamesOther">
+        <title>其它</title>
+        </sect>
+    </sect>
+    <sect categorycode="ApplicationsInternet">
+      <title>互联网</title>
+      <sect categorycode="ApplicationsInternetChat">
+        <title>聊天</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetEmail">
+        <title>电子邮件</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetFax">
+        <title>传真</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetFile Sharing">
+        <title>正在进行文件共享</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetFTP">
+        <title>FTP</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetInternet Phone">
+        <title>互联网电话</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetMessaging">
+        <title>正在发送消息</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetNews">
+        <title>新闻</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetVideo Conferencing">
+        <title>正在进行视频回忆</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetWeb">
+        <title>Web</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetOther">
+        <title>其它</title>
+        </sect>
+    </sect>
+    <sect categorycode="ApplicationsMultimedia">
+      <title>多媒体</title>
+      <sect categorycode="ApplicationsMultimediaGraphics">
+        <title>制图学</title>
+        <sect categorycode="ApplicationsMultimediaGraphics3D Modelling">
+          <title>正在进行3D造型</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaGraphics3D Rendering">
+          <title>正在进行3D渲染</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaGraphicsCAD">
+          <title>CAD</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaGraphicsCapture">
+          <title>捕捉</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaGraphicsConversion">
+          <title>变换</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaGraphicsDrawing">
+          <title>正在绘图</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaGraphicsEditing">
+          <title>正在编辑</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaGraphicsViewing">
+          <title>正在观察</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaGraphicsOther">
+          <title>其它</title>
+          </sect>
+      </sect>
+      <sect categorycode="ApplicationsMultimediaSound">
+        <title>声音</title>
+        <sect categorycode="ApplicationsMultimediaSoundAnalysis">
+          <title>分析</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaSoundCD Mastering">
+          <title>CD Mastering</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaSoundConversion">
+          <title>变换</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaSoundEditing">
+          <title>正在编辑</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaSoundMIDI">
+          <title>MIDI</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaSoundMixers">
+          <title>Mixers</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaSoundPlayers">
+          <title>播放器</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaSoundRecording">
+          <title>正在记录</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaSoundSpeech">
+          <title>语音</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaSoundOther">
+          <title>其它</title>
+          </sect>
+      </sect>
+      <sect categorycode="ApplicationsMultimediaVideo">
+        <title>视频</title>
+        <sect categorycode="ApplicationsMultimediaVideoCapture">
+          <title>捕捉</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaVideoConversion">
+          <title>变换</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaVideoDisplay">
+          <title>显示</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaVideoEditing">
+          <title>正在编辑</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaVideoOther">
+          <title>其它</title>
+          </sect>
+      </sect>
+      <sect categorycode="ApplicationsMultimediaOther">
+        <title>其它</title>
+        </sect>
+    </sect>
+    <sect categorycode="ApplicationsOffice">
+      <title>办公</title>
+      <sect categorycode="ApplicationsOfficeCalendar">
+        <title>日历</title>
+        </sect>
+      <sect categorycode="ApplicationsOfficeData Processing">
+        <title>正在处理数据</title>
+        </sect>
+      <sect categorycode="ApplicationsOfficeDatabase">
+        <title>数据库</title>
+        </sect>
+      <sect categorycode="ApplicationsOfficeEmail">
+        <title>电子邮件</title>
+        </sect>
+      <sect categorycode="ApplicationsOfficeFinancial">
+        <title>Financial</title>
+        </sect>
+      <sect categorycode="ApplicationsOfficePIM">
+        <title>PIM</title>
+        </sect>
+      <sect categorycode="ApplicationsOfficePlotting">
+        <title>正在绘图</title>
+        </sect>
+      <sect categorycode="ApplicationsOfficePresentation">
+        <title>演示</title>
+        </sect>
+      <sect categorycode="ApplicationsOfficePublishing">
+        <title>Publishing</title>
+        <sect categorycode="ApplicationsOfficePublishingWeb Publishing">
+          <title>Web Publishing</title>
+          </sect>
+      </sect>
+      <sect categorycode="ApplicationsOfficeWord Processing">
+        <title>正在进行文字处理</title>
+        </sect>
+      <sect categorycode="ApplicationsOfficeOther">
+        <title>其它</title>
+        </sect>
+    </sect>
+    <sect categorycode="ApplicationsScientific">
+      <title>Scientific</title>
+      <sect categorycode="ApplicationsScientificAstronomy">
+        <title>天文学</title>
+        </sect>
+      <sect categorycode="ApplicationsScientificAstrophysics">
+        <title>天体物理学</title>
+        </sect>
+      <sect categorycode="ApplicationsScientificBiology">
+        <title>生物学</title>
+        </sect>
+      <sect categorycode="ApplicationsScientificChemistry">
+        <title>化学</title>
+        </sect>
+      <sect categorycode="ApplicationsScientificEDA">
+        <title>EDA</title>
+        </sect>
+      <sect categorycode="ApplicationsScientificGenetics">
+        <title>遗传学</title>
+        </sect>
+      <sect categorycode="ApplicationsScientificMath">
+        <title>数学</title>
+        </sect>
+      <sect categorycode="ApplicationsScientificPhysics">
+        <title>物理学</title>
+        </sect>
+      <sect categorycode="ApplicationsScientificVisualisation">
+        <title>可视化</title>
+        </sect>
+      <sect categorycode="ApplicationsScientificOther">
+        <title>其它</title>
+        </sect>
+    </sect>
+    <sect categorycode="ApplicationsSecurity">
+      <title>安全</title>
+      <sect categorycode="ApplicationsSecurityCryptography">
+        <title>密码术</title>
+        </sect>
+      <sect categorycode="ApplicationsSecurityOther">
+        <title>其它</title>
+        </sect>
+    </sect>
+    <sect categorycode="ApplicationsText Editors">
+      <title>文本编辑器</title>
+      <sect categorycode="ApplicationsText EditorsCLI">
+        <title>CLI</title>
+        </sect>
+      <sect categorycode="ApplicationsText EditorsGUI">
+        <title>GUI</title>
+        </sect>
+      <sect categorycode="ApplicationsText EditorsOther">
+        <title>其它</title>
+        </sect>
+    </sect>
+    <sect categorycode="ApplicationsUtilities">
+      <title>工具</title>
+      <sect categorycode="ApplicationsUtilitiesArchiving">
+        <title>归档</title>
+        </sect>
+      <sect categorycode="ApplicationsUtilitiesCalculating">
+        <title>正在计算</title>
+        </sect>
+      <sect categorycode="ApplicationsUtilitiesClocks">
+        <title>时钟</title>
+        </sect>
+      <sect categorycode="ApplicationsUtilitiesCompression">
+        <title>压缩</title>
+        </sect>
+      <sect categorycode="ApplicationsUtilitiesFile Utilities">
+        <title>文件工具</title>
+        </sect>
+      <sect categorycode="ApplicationsUtilitiesMonitors">
+        <title>监视器</title>
+        </sect>
+      <sect categorycode="ApplicationsUtilitiesPrinting">
+        <title>正在打印</title>
+        </sect>
+      <sect categorycode="ApplicationsUtilitiesTerminals">
+        <title>终端</title>
+        </sect>
+      <sect categorycode="ApplicationsUtilitiesText Utilities">
+        <title>文本工具</title>
+        </sect>
+      <sect categorycode="ApplicationsUtilitiesOther">
+        <title>其它</title>
+        </sect>
+    </sect>
+    <sect categorycode="ApplicationsX">
+      <title>X</title>
+      <sect categorycode="ApplicationsXConfiguration">
+        <title>恭喜</title>
+        </sect>
+      <sect categorycode="ApplicationsXFonts">
+        <title>字体</title>
+        </sect>
+      <sect categorycode="ApplicationsXLogin Managers">
+        <title>登录管理器</title>
+        </sect>
+      <sect categorycode="ApplicationsXScreensavers">
+        <title>屏幕保护器</title>
+        </sect>
+      <sect categorycode="ApplicationsXWindow Managers">
+        <title>窗口管理器</title>
+        </sect>
+      <sect categorycode="ApplicationsXOther">
+        <title>其它</title>
+        </sect>
+    </sect>
+  </sect>
+
+  <sect categorycode="CDE">
+    <title>CDE</title>
+    </sect>
+
+  <sect categorycode="Development">
+    <title>开发</title>
+    <sect categorycode="DevelopmentDatabases">
+      <title>数据库</title>
+      </sect>
+    <sect categorycode="DevelopmentDevelopment Tools">
+      <title>开发工具</title>
+      <sect categorycode="DevelopmentDevelopment ToolsBuild Tools">
+        <title>Build Tools</title>
+        </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsCode Generators">
+        <title>代码生成器</title>
+        </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsConfiguration">
+        <title>恭喜</title>
+        </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsDebuggers">
+        <title>调试器</title>
+        </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsIDEs">
+        <title>IDEs</title>
+        </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsPackaging">
+        <title>正在打包</title>
+        </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsProfiling">
+        <title>Profiling</title>
+        </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsRAD">
+        <title>RAD</title>
+        </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsVersion Control">
+        <title>版本控制</title>
+        </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsOther">
+        <title>其它</title>
+        </sect>
+    </sect>
+    <sect categorycode="DevelopmentEnvironments">
+      <title>环境</title>
+      <sect categorycode="DevelopmentEnvironmentsADA">
+        <title>ADA</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsC">
+        <title>C</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsC++">
+        <title>C++</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsGNOME">
+        <title>GNOME</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsGTK+">
+        <title>GTK+</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsgtk++">
+        <title>gtk++</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsJava">
+        <title>Java</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsKDE">
+        <title>KDE</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsPerl">
+        <title>Perl</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsPython">
+        <title>Python</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsQt">
+        <title>Qt</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsTcl/Tk">
+        <title>Tcl/Tk</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsWebML">
+        <title>WebML</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsOther">
+        <title>其它</title>
+        </sect>
+    </sect>
+    <sect categorycode="DevelopmentKernels">
+      <title>核心</title>
+      <sect categorycode="DevelopmentKernelsFreeBSD">
+        <title>FreeBSD</title>
+        </sect>
+      <sect categorycode="DevelopmentKernelsLinux">
+        <title>Linux</title>
+        </sect>
+      <sect categorycode="DevelopmentKernelsNetBSD">
+        <title>NetBSD</title>
+        </sect>
+      <sect categorycode="DevelopmentKernelsOther">
+        <title>其它</title>
+        </sect>
+    </sect>
+    <sect categorycode="DevelopmentLibraries">
+      <title>库</title>
+      </sect>
+    <sect categorycode="DevelopmentSystem Calls">
+      <title>系统调用</title>
+      </sect>
+    <sect categorycode="DevelopmentOther">
+      <title>其它</title>
+      </sect>
+  </sect>
+  <sect categorycode="General">
+    <title>常规</title>
+    <sect categorycode="GeneralLicenses">
+      <title>许可证</title>
+      <doc docid="25"><doctitle>GNU 通用公共许可证</doctitle><docomf>/usr/share/omf/gpl/gpl-zh_CN.omf</docomf><docsource>file:///usr/share/gnome/help/gpl/zh_CN/gpl.xml</docsource><docformat/><docseriesid/></doc><doc docid="75"><doctitle>GNU 较宽松公共许可证</doctitle><docomf>/usr/share/omf/lgpl/lgpl-zh_CN.omf</docomf><docsource>file:///usr/share/gnome/help/lgpl/zh_CN/lgpl.xml</docsource><docformat/><docseriesid/></doc></sect>
+    <sect categorycode="GeneralLinux">
+      <title>Linux</title>
+      <sect categorycode="GeneralLinuxDistributions">
+        <title>分发</title>
+        <sect categorycode="GeneralLinuxDistributionsCaldera">
+          <title>Caldera</title>
+          </sect>
+        <sect categorycode="GeneralLinuxDistributionsDebian">
+          <title>Debian</title>
+          </sect>
+        <sect categorycode="GeneralLinuxDistributionsMandrake">
+          <title>Mandrake</title>
+          </sect>
+        <sect categorycode="GeneralLinuxDistributionsRed Flag">
+          <title>红旗</title>
+          </sect>
+        <sect categorycode="GeneralLinuxDistributionsRed Hat">
+          <title>红帽子</title>
+          </sect>
+        <sect categorycode="GeneralLinuxDistributionsSlackware">
+          <title>Slackware</title>
+          </sect>
+        <sect categorycode="GeneralLinuxDistributionsSuSE">
+          <title>SuSE</title>
+          </sect>
+        <sect categorycode="GeneralLinuxDistributionsOther">
+          <title>其它</title>
+          </sect>
+      </sect>
+      <sect categorycode="GeneralLinuxGeneral">
+        <title>常规</title>
+        </sect>
+      <sect categorycode="GeneralLinuxOther">
+        <title>其它</title>
+        </sect>
+    </sect>
+    <sect categorycode="GeneralOther">
+      <title>其它</title>
+      </sect>
+  </sect>
+
+  <sect categorycode="GNOME">
+    <title>GNOME</title>
+    <sect categorycode="GNOMEAccessibility">
+      <title>Accessibility</title>
+      </sect>
+    <sect categorycode="GNOMECore Desktop">
+      <title>核心桌面</title>
+      <doc docid="59"><doctitle>报告 GNOME 错误和其它反馈</doctitle><docomf>/usr/share/omf/gnome-feedback/gnome-feedback-zh_CN.omf</docomf><docsource>file:///usr/share/gnome/help/gnome-feedback/zh_CN/gnome-feedback.xml</docsource><docformat/><docseriesid>cdf9a652-9c44-11da-9e95-f59cbdd55bc8</docseriesid></doc></sect>
+    <sect categorycode="GNOMEDesktop">
+      <title>Desktop</title>
+      <sect categorycode="GNOMEDesktopUser Guides">
+        <title>User Guides</title>
+        </sect>
+    <doc docid="12"><doctitle>Desktop User Guide</doctitle><docomf>/usr/share/omf/user-guide/user-guide-zh_CN.omf</docomf><docsource>file:///usr/share/gnome/help/user-guide/zh_CN/user-guide.xml</docsource><docformat/><docseriesid>6a60980a-7315-11d6-9cf7-fdf5569be9f8</docseriesid></doc></sect>
+    <sect categorycode="GNOMEApplets">
+      <title>Applets</title>
+      <sect categorycode="GNOMEAppletsAccessories">
+        <title>Accessories</title>
+        <doc docid="49"><doctitle>时钟手册</doctitle><docomf>/usr/share/omf/clock/clock-zh_CN.omf</docomf><docsource>file:///usr/share/gnome/help/clock/zh_CN/clock.xml</docsource><docformat/><docseriesid>dc1bc4d4-40e7-11d6-8b82-b4eda00d7b63</docseriesid></doc></sect>
+      <sect categorycode="GNOMEAppletsAmusement">
+        <title>娱乐</title>
+        <doc docid="26"><doctitle>Fish</doctitle><docomf>/usr/share/omf/fish/fish-applet-2-zh_CN.omf</docomf><docsource>file:/usr/share/gnome/help/fish-applet-2/zh_CN/fish-applet-2.xml</docsource><docformat>text/xml</docformat><docseriesid>e9efbc8c-40e7-11d6-815d-e721de25f633</docseriesid></doc></sect>
+      <sect categorycode="GNOMEAppletsClock">
+        <title>时钟</title>
+        </sect>
+      <sect categorycode="GNOMEAppletsInternet">
+        <title>互联网</title>
+        <doc docid="120"><doctitle>网络监视器小程序 2.0.1 版</doctitle><docomf>/usr/share/omf/gnome-netstatus/gnome-netstatus-zh_CN.omf</docomf><docsource>file:/usr/share/gnome/help/gnome-netstatus/zh_CN/gnome-netstatus.xml</docsource><docformat>text/xml</docformat><docseriesid>5ce2819c-2422-11d8-855f-bb98965120a1</docseriesid></doc></sect>
+      <sect categorycode="GNOMEAppletsMonitors">
+        <title>监视器</title>
+        </sect>
+      <sect categorycode="GNOMEAppletsMultimedia">
+        <title>多媒体</title>
+        </sect>
+      <sect categorycode="GNOMEAppletsNetwork">
+        <title>网络</title>
+        </sect>
+      <sect categorycode="GNOMEAppletsUtility">
+        <title>工具</title>
+        <doc docid="89"><doctitle>窗口列表手册</doctitle><docomf>/usr/share/omf/window-list/window-list-zh_CN.omf</docomf><docsource>file:///usr/share/gnome/help/window-list/zh_CN/window-list.xml</docsource><docformat/><docseriesid>11f2815a-2d11-11d6-8a88-bd96c340430a</docseriesid></doc><doc docid="102"><doctitle>Workspace Switcher</doctitle><docomf>/usr/share/omf/workspace-switcher/workspace-switcher-zh_CN.omf</docomf><docsource>file:/usr/share/gnome/help/workspace-switcher/zh_CN/workspace-switcher.xml</docsource><docformat>text/xml</docformat><docseriesid>f6ab0110-2d10-11d6-984f-a7559fbbe0e2</docseriesid></doc><doc docid="280"><doctitle>CPU 频率调节监视器手册</doctitle><docomf>/usr/share/omf/cpufreq-applet/cpufreq-applet-zh_CN.omf</docomf><docsource>file:///usr/share/gnome/help/cpufreq-applet/zh_CN/cpufreq-applet.xml</docsource><docformat/><docseriesid>cf7c4832-5d89-11d8-859c-c3668c0ad7d6</docseriesid></doc><doc docid="291"><doctitle>磁盘挂载器手册</doctitle><docomf>/usr/share/omf/drivemount/drivemount-zh_CN.omf</docomf><docsource>file:///usr/share/gnome/help/drivemount/zh_CN/drivemount.xml</docsource><docformat></docformat><docseriesid>e9162e90-01bc-11d7-9b3b-c253a7006472</docseriesid></doc></sect>
+    </sect>
+    <sect categorycode="GNOMEApplications">
+      <title>应用</title>
+      <sect categorycode="GNOMEApplicationsAccessories">
+        <title>Accessories</title>
+        <doc docid="66"><doctitle>Unicode 字符映射 V2.0.1</doctitle><docomf>/usr/share/omf/gucharmap/gucharmap-zh_CN.omf</docomf><docsource>file:/usr/share/gnome/help/gucharmap/zh_CN/gucharmap.xml</docsource><docformat>text/xml</docformat><docseriesid>054930fe-ff13-11d7-927b-c1ece0bc6c90</docseriesid></doc><doc docid="135"><doctitle>gcalctool 手册 V2.5.1</doctitle><docomf>/usr/share/omf/gcalctool/gcalctool-zh_CN.omf</docomf><docsource>file:/usr/share/gnome/help/gcalctool/zh_CN/gcalctool.xml</docsource><docformat>text/xml</docformat><docseriesid>52191642-4f23-11d7-95c8-9792b4e62685</docseriesid></doc><doc docid="228"><doctitle>Archive Manager Manual</doctitle><docomf>/usr/share/omf/file-roller/file-roller-zh_CN.omf</docomf><docsource>file:///usr/share/gnome/help/file-roller/zh_CN/file-roller.xml</docsource><docformat/><docseriesid>dffe1822-789b-11d6-842e-812e852e3415</docseriesid></doc><doc docid="272"><doctitle>Gedit Manual</doctitle><docomf>/usr/share/omf/gedit/gedit-zh_CN.omf</docomf><docsource>file:///usr/share/gnome/help/gedit/zh_CN/gedit.xml</docsource><docformat/><docseriesid>081c7e56-2acd-11d6-819f-e6a1118e62db</docseriesid></doc></sect>
+      <sect categorycode="GNOMEApplicationsDesktop Preferences">
+        <title>Desktop Preferences</title>
+        </sect>
+      <sect categorycode="GNOMEApplicationsGames">
+        <title>游戏</title>
+        </sect>
+      <sect categorycode="GNOMEApplicationsGraphics">
+        <title>制图学</title>
+        </sect>
+      <sect categorycode="GNOMEApplicationsInternet">
+        <title>互联网</title>
+        </sect>
+      <sect categorycode="GNOMEApplicationsOffice">
+        <title>办公</title>
+        </sect>
+      <sect categorycode="GNOMEApplicationsProgramming">
+        <title>Programming</title>
+        </sect>
+      <sect categorycode="GNOMEApplicationsSound and Video">
+        <title>Sound and Video</title>
+        <doc docid="113"><doctitle>CD Player</doctitle><docomf>/usr/share/omf/gnome-media/gnome-cd-zh_CN.omf</docomf><docsource>file:/usr/share/gnome/help/gnome-cd/zh_CN/gnome-cd.xml</docsource><docformat>text/xml</docformat><docseriesid>b9e5caae-6437-11d6-9e62-8b945ed9d489</docseriesid></doc><doc docid="182"><doctitle>Rhythmbox 音乐播放器手册 V2.0.2</doctitle><docomf>/usr/share/omf/rhythmbox/rhythmbox-zh_CN.omf</docomf><docsource>file:///usr/share/gnome/help/rhythmbox/zh_CN/rhythmbox.xml</docsource><docformat/><docseriesid>cf2bed6a-3e28-11d6-88f3-c2f7a14f1d6d</docseriesid></doc></sect>
+      <sect categorycode="GNOMEApplicationsSystem Tools">
+        <title>System Tools</title>
+        <doc docid="210"><doctitle>登录屏幕设置手册 2.0.1 版</doctitle><docomf>/usr/share/omf/gdm/gdm-zh_CN.omf</docomf><docsource>file:/usr/share/gnome/help/gdm/zh_CN/gdm.xml</docsource><docformat>text/xml</docformat><docseriesid>be6a0524-46d3-11d8-983d-e135363498a8</docseriesid></doc><doc docid="257"><doctitle>Terminal</doctitle><docomf>/usr/share/omf/gnome-terminal/gnome-terminal-zh_CN.omf</docomf><docsource>file:/usr/share/gnome/help/gnome-terminal/zh_CN/gnome-terminal.xml</docsource><docformat>text/xml</docformat><docseriesid>d7834910-40e7-11d6-87e4-aa5f78e530ae</docseriesid></doc></sect>
+    </sect>
+    <sect categorycode="GNOMEPreferences">
+      <title>Preferences</title>
+      </sect>
+    <sect categorycode="GNOMESystem Administration">
+      <title>System Administration</title>
+      </sect>
+    <sect categorycode="GNOMEUtilities">
+      <title>工具</title>
+      <doc docid="146"><doctitle>控制中心</doctitle><docomf>/usr/share/omf/control-center/control-center-zh_CN.omf</docomf><docsource>file:///usr/share/gnome/help/control-center/zh_CN/control-center.xml</docsource><docformat/><docseriesid>e9bfb3ba-fe90-11d9-9eb2-8beabbd95e64</docseriesid></doc></sect>
+    <sect categorycode="GNOMEDevelopment">
+      <title>开发</title>
+      <sect categorycode="GNOMEDevelopmentApplications">
+        <title>应用</title>
+        </sect>
+      <sect categorycode="GNOMEDevelopmentIntroductory">
+        <title>简介</title>
+        </sect>
+      <sect categorycode="GNOMEDevelopmentTutorials">
+        <title>教程</title>
+        </sect>
+      <sect categorycode="GNOMEDevelopmentWhite Papers">
+        <title>白皮书</title>
+        </sect>
+    </sect>
+    <sect categorycode="GNOMEGames">
+      <title>游戏</title>
+      </sect>
+    <sect categorycode="GNOMEGraphics">
+      <title>制图学</title>
+      </sect>
+    <sect categorycode="GNOMEInternet">
+      <title>互联网</title>
+      </sect>
+    <sect categorycode="GNOMEMultimedia">
+      <title>多媒体</title>
+      </sect>
+    <sect categorycode="GNOMESettings">
+      <title>设置</title>
+      </sect>
+    <sect categorycode="GNOMESystem">
+      <title>系统</title>
+      </sect>
+    <sect categorycode="GNOMEOther">
+      <title>其它</title>
+      </sect>
+  </sect>
+
+  <sect categorycode="KDE">
+    <title>KDE</title>
+    <sect categorycode="KDEUtilities">
+      <title>工具</title>
+      </sect>
+    <sect categorycode="KDEApplications">
+      <title>应用</title>
+      </sect>
+    <sect categorycode="KDEGames">
+      <title>游戏</title>
+      </sect>
+    <sect categorycode="KDEGraphics">
+      <title>制图学</title>
+      </sect>
+    <sect categorycode="KDEInternet">
+      <title>互联网</title>
+      </sect>
+    <sect categorycode="KDEMultimedia">
+      <title>多媒体</title>
+      </sect>
+    <sect categorycode="KDESettings">
+      <title>设置</title>
+      </sect>
+    <sect categorycode="KDESystem">
+      <title>系统</title>
+      </sect>
+    <sect categorycode="KDEPrograms">
+      <title>程序</title>
+      </sect>
+    <sect categorycode="KDEDevelopment">
+      <title>开发</title>
+      </sect>
+    <sect categorycode="KDEOther">
+      <title>其它</title>
+      </sect>
+  </sect>
+
+  <sect categorycode="System">
+    <title>系统</title>
+    <sect categorycode="SystemAdministration">
+      <title>管理</title>
+      <sect categorycode="SystemAdministrationBackups">
+        <title>备份</title>
+        <sect categorycode="SystemAdministrationBackupsLocal">
+          <title>Local</title>
+          </sect>
+        <sect categorycode="SystemAdministrationBackupsRemote">
+          <title>远端</title>
+          </sect>
+      </sect>
+      <sect categorycode="SystemAdministrationFilesystems">
+        <title>文件系统</title>
+        </sect>
+      <sect categorycode="SystemAdministrationNetworking">
+        <title>Networking</title>
+        <sect categorycode="SystemAdministrationNetworkingAppleTalk">
+          <title>AppleTalk</title>
+          </sect>
+        <sect categorycode="SystemAdministrationNetworkingPPP">
+          <title>PPP</title>
+          </sect>
+        <sect categorycode="SystemAdministrationNetworkingSMB">
+          <title>SMB</title>
+          </sect>
+        <sect categorycode="SystemAdministrationNetworkingTCP/IP">
+          <title>TCP/IP</title>
+          </sect>
+        <sect categorycode="SystemAdministrationNetworkingDNS">
+          <title>DNS</title>
+          </sect>
+        <sect categorycode="SystemAdministrationNetworkingOther">
+          <title>其它</title>
+          </sect>
+      </sect>
+      <sect categorycode="SystemAdministrationUsers">
+        <title>用户</title>
+        </sect>
+      <sect categorycode="SystemAdministrationOther">
+        <title>其它</title>
+        </sect>
+    </sect>
+    <sect categorycode="SystemConfiguration">
+      <title>恭喜</title>
+      <sect categorycode="SystemConfigurationConfig Files">
+        <title>配置文件</title>
+        </sect>
+      <sect categorycode="SystemConfigurationConfiguration Tools">
+        <title>配置工具</title>
+        </sect>
+      <sect categorycode="SystemConfigurationOther">
+        <title>其它</title>
+        </sect>
+    </sect>
+    <sect categorycode="SystemHardware">
+      <title>硬件</title>
+      <sect categorycode="SystemHardwareProcessor">
+        <title>处理器</title>
+        </sect>
+      <sect categorycode="SystemHardwareStorage">
+        <title>存储</title>
+        </sect>
+      <sect categorycode="SystemHardwareVideo">
+        <title>视频</title>
+        </sect>
+      <sect categorycode="SystemHardwareInput Devices">
+        <title>输入设备</title>
+        </sect>
+      <sect categorycode="SystemHardwareNetworking">
+        <title>Networking</title>
+        </sect>
+      <sect categorycode="SystemHardwarePCI/ISA/PCMCIA">
+        <title>PCI/ISA/PCMCIA</title>
+        </sect>
+      <sect categorycode="SystemHardwareOther">
+        <title>其它</title>
+        </sect>
+    </sect>
+    <sect categorycode="SystemPackage Management">
+      <title>打包管理器</title>
+      </sect>
+    <sect categorycode="SystemSecurity">
+      <title>安全</title>
+      <sect categorycode="SystemSecurityFirewall">
+        <title>防火墙</title>
+        </sect>
+      <sect categorycode="SystemSecurityIntrusion Detection">
+        <title>入侵检测</title>
+        </sect>
+      <sect categorycode="SystemSecurityVirus">
+        <title>病毒</title>
+        </sect>
+      <sect categorycode="SystemSecurityOther">
+        <title>其它</title>
+        </sect>
+    </sect>
+    <sect categorycode="SystemServices">
+      <title>服务</title>
+      <sect categorycode="SystemServicesHTTP">
+        <title>HTTP</title>
+        </sect>
+      <sect categorycode="SystemServicesFTP">
+        <title>FTP</title>
+        </sect>
+      <sect categorycode="SystemServicesSMB">
+        <title>SMB</title>
+        </sect>
+      <sect categorycode="SystemServicesSSH">
+        <title>SSH</title>
+        </sect>
+      <sect categorycode="SystemServicesTelnet">
+        <title>Telnet</title>
+        </sect>
+      <sect categorycode="SystemServicesSyslog">
+        <title>Syslog</title>
+        </sect>
+      <sect categorycode="SystemServicesBIND">
+        <title>BIND</title>
+        </sect>
+      <sect categorycode="SystemServicesPrinting">
+        <title>正在打印</title>
+        </sect>
+      <sect categorycode="SystemServicesOther">
+        <title>其它</title>
+        </sect>
+    </sect>
+    <sect categorycode="SystemOther">
+      <title>其它</title>
+      </sect>
+  </sect>
+</ScrollKeeperContentsList>

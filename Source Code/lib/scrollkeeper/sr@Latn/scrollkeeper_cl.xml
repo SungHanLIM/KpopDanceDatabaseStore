@@ -1,0 +1,791 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrollKeeperContentsList>
+
+
+
+  <sect categorycode="Applications">
+    <title>Programi</title>
+    <sect categorycode="ApplicationsAmusement">
+      <title>Zabava</title>
+      </sect>
+    <sect categorycode="ApplicationsEducation">
+      <title>Obrazovanje</title>
+      <sect categorycode="ApplicationsEducationArts">
+        <title>Umetnost</title>
+        </sect>
+      <sect categorycode="ApplicationsEducationComputer Science">
+        <title>Računarstvo</title>
+        </sect>
+      <sect categorycode="ApplicationsEducationEnglish">
+        <title>Engleski</title>
+        </sect>
+      <sect categorycode="ApplicationsEducationLanguage">
+        <title>Jezik</title>
+        </sect>
+      <sect categorycode="ApplicationsEducationMaths">
+        <title>Matematički</title>
+        </sect>
+      <sect categorycode="ApplicationsEducationMusic">
+        <title>Muzika</title>
+        </sect>
+      <sect categorycode="ApplicationsEducationScience">
+        <title>Nauka</title>
+        </sect>
+      <sect categorycode="ApplicationsEducationTechnology">
+        <title>Tehnologija</title>
+        </sect>
+      <sect categorycode="ApplicationsEducationTesting">
+        <title>Isprobavanje</title>
+        </sect>
+      <sect categorycode="ApplicationsEducationOther">
+        <title>Ostalo</title>
+        </sect>
+    </sect>
+    <sect categorycode="ApplicationsGames">
+      <title>Igre</title>
+      <sect categorycode="ApplicationsGamesArcade">
+        <title>Arkade</title>
+        </sect>
+      <sect categorycode="ApplicationsGamesBoard">
+        <title>Tabla</title>
+        </sect>
+      <sect categorycode="ApplicationsGamesFirst Person Shooters">
+        <title>Pucačina u prvom licu</title>
+        </sect>
+      <sect categorycode="ApplicationsGamesPuzzles">
+        <title>Slagalice</title>
+        </sect>
+      <sect categorycode="ApplicationsGamesFighting">
+        <title>Borbe</title>
+        </sect>
+      <sect categorycode="ApplicationsGamesRole-Playing">
+        <title>Igranje-uloge</title>
+        </sect>
+      <sect categorycode="ApplicationsGamesSimulation">
+        <title>Simulacija</title>
+        </sect>
+      <sect categorycode="ApplicationsGamesStrategy">
+        <title>Strategija</title>
+        </sect>
+      <sect categorycode="ApplicationsGamesOther">
+        <title>Ostalo</title>
+        </sect>
+    </sect>
+    <sect categorycode="ApplicationsInternet">
+      <title>Internet</title>
+      <sect categorycode="ApplicationsInternetChat">
+        <title>Ćaskanje</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetEmail">
+        <title>Epošta</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetFax">
+        <title>Faks</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetFile Sharing">
+        <title>Deljenje datoteka</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetFTP">
+        <title>FTP</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetInternet Phone">
+        <title>Internet telefon</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetMessaging">
+        <title>Slanje poruka</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetNews">
+        <title>Vesti</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetVideo Conferencing">
+        <title>Video razgovori</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetWeb">
+        <title>Veb</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetOther">
+        <title>Ostalo</title>
+        </sect>
+    </sect>
+    <sect categorycode="ApplicationsMultimedia">
+      <title>Multimedija</title>
+      <sect categorycode="ApplicationsMultimediaGraphics">
+        <title>Grafika</title>
+        <sect categorycode="ApplicationsMultimediaGraphics3D Modelling">
+          <title>3D modeliranje</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaGraphics3D Rendering">
+          <title>3D iscrtavanje</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaGraphicsCAD">
+          <title>CAD</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaGraphicsCapture">
+          <title>Snimi</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaGraphicsConversion">
+          <title>Pretvaranje</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaGraphicsDrawing">
+          <title>Crtanje</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaGraphicsEditing">
+          <title>Uređivanje</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaGraphicsViewing">
+          <title>Gledanje</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaGraphicsOther">
+          <title>Ostalo</title>
+          </sect>
+      </sect>
+      <sect categorycode="ApplicationsMultimediaSound">
+        <title>Zvuk</title>
+        <sect categorycode="ApplicationsMultimediaSoundAnalysis">
+          <title>Analiza</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaSoundCD Mastering">
+          <title>Priprema CD-a</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaSoundConversion">
+          <title>Pretvaranje</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaSoundEditing">
+          <title>Uređivanje</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaSoundMIDI">
+          <title>MIDI</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaSoundMixers">
+          <title>Mikseri</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaSoundPlayers">
+          <title>Igrači</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaSoundRecording">
+          <title>Snimanje</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaSoundSpeech">
+          <title>Govor</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaSoundOther">
+          <title>Ostalo</title>
+          </sect>
+      </sect>
+      <sect categorycode="ApplicationsMultimediaVideo">
+        <title>Video</title>
+        <sect categorycode="ApplicationsMultimediaVideoCapture">
+          <title>Snimi</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaVideoConversion">
+          <title>Pretvaranje</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaVideoDisplay">
+          <title>Ekran</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaVideoEditing">
+          <title>Uređivanje</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaVideoOther">
+          <title>Ostalo</title>
+          </sect>
+      </sect>
+      <sect categorycode="ApplicationsMultimediaOther">
+        <title>Ostalo</title>
+        </sect>
+    </sect>
+    <sect categorycode="ApplicationsOffice">
+      <title>Kancelarija</title>
+      <sect categorycode="ApplicationsOfficeCalendar">
+        <title>Kalendar</title>
+        </sect>
+      <sect categorycode="ApplicationsOfficeData Processing">
+        <title>Obrada podataka</title>
+        </sect>
+      <sect categorycode="ApplicationsOfficeDatabase">
+        <title>Baza podataka</title>
+        </sect>
+      <sect categorycode="ApplicationsOfficeEmail">
+        <title>Epošta</title>
+        </sect>
+      <sect categorycode="ApplicationsOfficeFinancial">
+        <title>Finansijski</title>
+        </sect>
+      <sect categorycode="ApplicationsOfficePIM">
+        <title>Upravljanje ličnim podacima</title>
+        </sect>
+      <sect categorycode="ApplicationsOfficePlotting">
+        <title>Iscrtavanje</title>
+        </sect>
+      <sect categorycode="ApplicationsOfficePresentation">
+        <title>Prezentacija</title>
+        </sect>
+      <sect categorycode="ApplicationsOfficePublishing">
+        <title>Izdavaštvo</title>
+        <sect categorycode="ApplicationsOfficePublishingWeb Publishing">
+          <title>Veb izdavaštvo</title>
+          </sect>
+      </sect>
+      <sect categorycode="ApplicationsOfficeWord Processing">
+        <title>Obrada teksta</title>
+        </sect>
+      <sect categorycode="ApplicationsOfficeOther">
+        <title>Ostalo</title>
+        </sect>
+    </sect>
+    <sect categorycode="ApplicationsScientific">
+      <title>Naučni</title>
+      <sect categorycode="ApplicationsScientificAstronomy">
+        <title>Astronomija</title>
+        </sect>
+      <sect categorycode="ApplicationsScientificAstrophysics">
+        <title>Astrofizika</title>
+        </sect>
+      <sect categorycode="ApplicationsScientificBiology">
+        <title>Biologija</title>
+        </sect>
+      <sect categorycode="ApplicationsScientificChemistry">
+        <title>Hemija</title>
+        </sect>
+      <sect categorycode="ApplicationsScientificEDA">
+        <title>EDA</title>
+        </sect>
+      <sect categorycode="ApplicationsScientificGenetics">
+        <title>Genetika</title>
+        </sect>
+      <sect categorycode="ApplicationsScientificMath">
+        <title>Matematika</title>
+        </sect>
+      <sect categorycode="ApplicationsScientificPhysics">
+        <title>Fizika</title>
+        </sect>
+      <sect categorycode="ApplicationsScientificVisualisation">
+        <title>Vizuelizacija</title>
+        </sect>
+      <sect categorycode="ApplicationsScientificOther">
+        <title>Ostalo</title>
+        </sect>
+    </sect>
+    <sect categorycode="ApplicationsSecurity">
+      <title>Bezbednost</title>
+      <sect categorycode="ApplicationsSecurityCryptography">
+        <title>Šifrovanje</title>
+        </sect>
+      <sect categorycode="ApplicationsSecurityOther">
+        <title>Ostalo</title>
+        </sect>
+    </sect>
+    <sect categorycode="ApplicationsText Editors">
+      <title>Uređivači teksta</title>
+      <sect categorycode="ApplicationsText EditorsCLI">
+        <title>Naredbena linija</title>
+        </sect>
+      <sect categorycode="ApplicationsText EditorsGUI">
+        <title>Grafička korisnička sučelja</title>
+        </sect>
+      <sect categorycode="ApplicationsText EditorsOther">
+        <title>Ostalo</title>
+        </sect>
+    </sect>
+    <sect categorycode="ApplicationsUtilities">
+      <title>Alatke</title>
+      <sect categorycode="ApplicationsUtilitiesArchiving">
+        <title>Arhiviranje</title>
+        </sect>
+      <sect categorycode="ApplicationsUtilitiesCalculating">
+        <title>Izračunavanje</title>
+        </sect>
+      <sect categorycode="ApplicationsUtilitiesClocks">
+        <title>Časovnici</title>
+        </sect>
+      <sect categorycode="ApplicationsUtilitiesCompression">
+        <title>Sažimanje</title>
+        </sect>
+      <sect categorycode="ApplicationsUtilitiesFile Utilities">
+        <title>Alati za datoteke</title>
+        </sect>
+      <sect categorycode="ApplicationsUtilitiesMonitors">
+        <title>Praćenje</title>
+        </sect>
+      <sect categorycode="ApplicationsUtilitiesPrinting">
+        <title>Štampa</title>
+        </sect>
+      <sect categorycode="ApplicationsUtilitiesTerminals">
+        <title>Terminali</title>
+        </sect>
+      <sect categorycode="ApplicationsUtilitiesText Utilities">
+        <title>Alati za tekst</title>
+        </sect>
+      <sect categorycode="ApplicationsUtilitiesOther">
+        <title>Ostalo</title>
+        </sect>
+    </sect>
+    <sect categorycode="ApplicationsX">
+      <title>X</title>
+      <sect categorycode="ApplicationsXConfiguration">
+        <title>Podešavanja</title>
+        </sect>
+      <sect categorycode="ApplicationsXFonts">
+        <title>Fontovi</title>
+        </sect>
+      <sect categorycode="ApplicationsXLogin Managers">
+        <title>Upravljači prijavom</title>
+        </sect>
+      <sect categorycode="ApplicationsXScreensavers">
+        <title>Čuvari ekrana</title>
+        </sect>
+      <sect categorycode="ApplicationsXWindow Managers">
+        <title>Upravnici prozorima</title>
+        </sect>
+      <sect categorycode="ApplicationsXOther">
+        <title>Ostalo</title>
+        </sect>
+    </sect>
+  </sect>
+
+  <sect categorycode="CDE">
+    <title>CDE</title>
+    </sect>
+
+  <sect categorycode="Development">
+    <title>Razvoj</title>
+    <sect categorycode="DevelopmentDatabases">
+      <title>Baze podataka</title>
+      </sect>
+    <sect categorycode="DevelopmentDevelopment Tools">
+      <title>Alati za razvoj</title>
+      <sect categorycode="DevelopmentDevelopment ToolsBuild Tools">
+        <title>Alati za izgradnju</title>
+        </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsCode Generators">
+        <title>Proizvođači kôda</title>
+        </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsConfiguration">
+        <title>Podešavanja</title>
+        </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsDebuggers">
+        <title>Pronalaženje grešaka</title>
+        </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsIDEs">
+        <title>Integrisana razvojna okruženja</title>
+        </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsPackaging">
+        <title>Paketi</title>
+        </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsProfiling">
+        <title>Profilisanje</title>
+        </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsRAD">
+        <title>Brzi razvoj programa</title>
+        </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsVersion Control">
+        <title>Upravljanje izdanjima</title>
+        </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsOther">
+        <title>Ostalo</title>
+        </sect>
+    </sect>
+    <sect categorycode="DevelopmentEnvironments">
+      <title>Okruženja</title>
+      <sect categorycode="DevelopmentEnvironmentsADA">
+        <title>Ada</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsC">
+        <title>C</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsC++">
+        <title>C++</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsGNOME">
+        <title>Gnom</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsGTK+">
+        <title>Gtk+</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsgtk++">
+        <title>gtk++</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsJava">
+        <title>Java</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsKDE">
+        <title>KDE</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsPerl">
+        <title>Perl</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsPython">
+        <title>Piton</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsQt">
+        <title>Qt</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsTcl/Tk">
+        <title>Tcl/Tk</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsWebML">
+        <title>VebML</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsOther">
+        <title>Ostalo</title>
+        </sect>
+    </sect>
+    <sect categorycode="DevelopmentKernels">
+      <title>Jezgra</title>
+      <sect categorycode="DevelopmentKernelsFreeBSD">
+        <title>FreeBSD</title>
+        </sect>
+      <sect categorycode="DevelopmentKernelsLinux">
+        <title>Linuks</title>
+        </sect>
+      <sect categorycode="DevelopmentKernelsNetBSD">
+        <title>NetBSD</title>
+        </sect>
+      <sect categorycode="DevelopmentKernelsOther">
+        <title>Ostalo</title>
+        </sect>
+    </sect>
+    <sect categorycode="DevelopmentLibraries">
+      <title>Biblioteke</title>
+      </sect>
+    <sect categorycode="DevelopmentSystem Calls">
+      <title>Sistemski pozivi</title>
+      </sect>
+    <sect categorycode="DevelopmentOther">
+      <title>Ostalo</title>
+      </sect>
+  </sect>
+  <sect categorycode="General">
+    <title>Opšte</title>
+    <sect categorycode="GeneralLicenses">
+      <title>Licence</title>
+      </sect>
+    <sect categorycode="GeneralLinux">
+      <title>Linuks</title>
+      <sect categorycode="GeneralLinuxDistributions">
+        <title>Distribucije</title>
+        <sect categorycode="GeneralLinuxDistributionsCaldera">
+          <title>Kaldera</title>
+          </sect>
+        <sect categorycode="GeneralLinuxDistributionsDebian">
+          <title>Debijan</title>
+          </sect>
+        <sect categorycode="GeneralLinuxDistributionsMandrake">
+          <title>Mandrak</title>
+          </sect>
+        <sect categorycode="GeneralLinuxDistributionsRed Flag">
+          <title>Crvena zastava</title>
+          </sect>
+        <sect categorycode="GeneralLinuxDistributionsRed Hat">
+          <title>Crvenkapa</title>
+          </sect>
+        <sect categorycode="GeneralLinuxDistributionsSlackware">
+          <title>Slekver</title>
+          </sect>
+        <sect categorycode="GeneralLinuxDistributionsSuSE">
+          <title>SuSE</title>
+          </sect>
+        <sect categorycode="GeneralLinuxDistributionsOther">
+          <title>Ostalo</title>
+          </sect>
+      </sect>
+      <sect categorycode="GeneralLinuxGeneral">
+        <title>Opšte</title>
+        </sect>
+      <sect categorycode="GeneralLinuxOther">
+        <title>Ostalo</title>
+        </sect>
+    </sect>
+    <sect categorycode="GeneralOther">
+      <title>Ostalo</title>
+      </sect>
+  </sect>
+
+  <sect categorycode="GNOME">
+    <title>Gnom</title>
+    <sect categorycode="GNOMEAccessibility">
+      <title>Pristupačnost</title>
+      </sect>
+    <sect categorycode="GNOMECore Desktop">
+      <title>Osnovna radna površina</title>
+      </sect>
+    <sect categorycode="GNOMEDesktop">
+      <title>Radna površina</title>
+      <sect categorycode="GNOMEDesktopUser Guides">
+        <title>Uputstva</title>
+        </sect>
+    </sect>
+    <sect categorycode="GNOMEApplets">
+      <title>Programčići</title>
+      <sect categorycode="GNOMEAppletsAccessories">
+        <title>Alatke</title>
+        </sect>
+      <sect categorycode="GNOMEAppletsAmusement">
+        <title>Zabava</title>
+        </sect>
+      <sect categorycode="GNOMEAppletsClock">
+        <title>Časovnik</title>
+        </sect>
+      <sect categorycode="GNOMEAppletsInternet">
+        <title>Internet</title>
+        </sect>
+      <sect categorycode="GNOMEAppletsMonitors">
+        <title>Praćenje</title>
+        </sect>
+      <sect categorycode="GNOMEAppletsMultimedia">
+        <title>Multimedija</title>
+        </sect>
+      <sect categorycode="GNOMEAppletsNetwork">
+        <title>Mreža</title>
+        </sect>
+      <sect categorycode="GNOMEAppletsUtility">
+        <title>Alatka</title>
+        </sect>
+    </sect>
+    <sect categorycode="GNOMEApplications">
+      <title>Programi</title>
+      <sect categorycode="GNOMEApplicationsAccessories">
+        <title>Alatke</title>
+        </sect>
+      <sect categorycode="GNOMEApplicationsDesktop Preferences">
+        <title>Postavke radne površine</title>
+        </sect>
+      <sect categorycode="GNOMEApplicationsGames">
+        <title>Igre</title>
+        </sect>
+      <sect categorycode="GNOMEApplicationsGraphics">
+        <title>Grafika</title>
+        </sect>
+      <sect categorycode="GNOMEApplicationsInternet">
+        <title>Internet</title>
+        </sect>
+      <sect categorycode="GNOMEApplicationsOffice">
+        <title>Kancelarija</title>
+        </sect>
+      <sect categorycode="GNOMEApplicationsProgramming">
+        <title>Programiranje</title>
+        </sect>
+      <sect categorycode="GNOMEApplicationsSound and Video">
+        <title>Zvuk i slika</title>
+        </sect>
+      <sect categorycode="GNOMEApplicationsSystem Tools">
+        <title>Sistemski alati</title>
+        </sect>
+    </sect>
+    <sect categorycode="GNOMEPreferences">
+      <title>Postavke</title>
+      </sect>
+    <sect categorycode="GNOMESystem Administration">
+      <title>Održavanje sistema</title>
+      </sect>
+    <sect categorycode="GNOMEUtilities">
+      <title>Alatke</title>
+      </sect>
+    <sect categorycode="GNOMEDevelopment">
+      <title>Razvoj</title>
+      <sect categorycode="GNOMEDevelopmentApplications">
+        <title>Programi</title>
+        </sect>
+      <sect categorycode="GNOMEDevelopmentIntroductory">
+        <title>Uvodno</title>
+        </sect>
+      <sect categorycode="GNOMEDevelopmentTutorials">
+        <title>Vodiči</title>
+        </sect>
+      <sect categorycode="GNOMEDevelopmentWhite Papers">
+        <title>Istraživački članci</title>
+        </sect>
+    </sect>
+    <sect categorycode="GNOMEGames">
+      <title>Igre</title>
+      </sect>
+    <sect categorycode="GNOMEGraphics">
+      <title>Grafika</title>
+      </sect>
+    <sect categorycode="GNOMEInternet">
+      <title>Internet</title>
+      </sect>
+    <sect categorycode="GNOMEMultimedia">
+      <title>Multimedija</title>
+      </sect>
+    <sect categorycode="GNOMESettings">
+      <title>Podešavanja</title>
+      </sect>
+    <sect categorycode="GNOMESystem">
+      <title>Sistem</title>
+      </sect>
+    <sect categorycode="GNOMEOther">
+      <title>Ostalo</title>
+      </sect>
+  </sect>
+
+  <sect categorycode="KDE">
+    <title>KDE</title>
+    <sect categorycode="KDEUtilities">
+      <title>Alatke</title>
+      </sect>
+    <sect categorycode="KDEApplications">
+      <title>Programi</title>
+      </sect>
+    <sect categorycode="KDEGames">
+      <title>Igre</title>
+      </sect>
+    <sect categorycode="KDEGraphics">
+      <title>Grafika</title>
+      </sect>
+    <sect categorycode="KDEInternet">
+      <title>Internet</title>
+      </sect>
+    <sect categorycode="KDEMultimedia">
+      <title>Multimedija</title>
+      </sect>
+    <sect categorycode="KDESettings">
+      <title>Podešavanja</title>
+      </sect>
+    <sect categorycode="KDESystem">
+      <title>Sistem</title>
+      </sect>
+    <sect categorycode="KDEPrograms">
+      <title>Programi</title>
+      </sect>
+    <sect categorycode="KDEDevelopment">
+      <title>Razvoj</title>
+      </sect>
+    <sect categorycode="KDEOther">
+      <title>Ostalo</title>
+      </sect>
+  </sect>
+
+  <sect categorycode="System">
+    <title>Sistem</title>
+    <sect categorycode="SystemAdministration">
+      <title>Administracija</title>
+      <sect categorycode="SystemAdministrationBackups">
+        <title>Rezervni primerci</title>
+        <sect categorycode="SystemAdministrationBackupsLocal">
+          <title>Lokalno</title>
+          </sect>
+        <sect categorycode="SystemAdministrationBackupsRemote">
+          <title>Udaljeni</title>
+          </sect>
+      </sect>
+      <sect categorycode="SystemAdministrationFilesystems">
+        <title>Sistemi datoteka</title>
+        </sect>
+      <sect categorycode="SystemAdministrationNetworking">
+        <title>Mreženje</title>
+        <sect categorycode="SystemAdministrationNetworkingAppleTalk">
+          <title>AppleTalk</title>
+          </sect>
+        <sect categorycode="SystemAdministrationNetworkingPPP">
+          <title>PPP</title>
+          </sect>
+        <sect categorycode="SystemAdministrationNetworkingSMB">
+          <title>SMB</title>
+          </sect>
+        <sect categorycode="SystemAdministrationNetworkingTCP/IP">
+          <title>TCP/IP</title>
+          </sect>
+        <sect categorycode="SystemAdministrationNetworkingDNS">
+          <title>DNS</title>
+          </sect>
+        <sect categorycode="SystemAdministrationNetworkingOther">
+          <title>Ostalo</title>
+          </sect>
+      </sect>
+      <sect categorycode="SystemAdministrationUsers">
+        <title>Korisnici</title>
+        </sect>
+      <sect categorycode="SystemAdministrationOther">
+        <title>Ostalo</title>
+        </sect>
+    </sect>
+    <sect categorycode="SystemConfiguration">
+      <title>Podešavanja</title>
+      <sect categorycode="SystemConfigurationConfig Files">
+        <title>Datoteke sa podešavanjima</title>
+        </sect>
+      <sect categorycode="SystemConfigurationConfiguration Tools">
+        <title>Alati za podešavanje</title>
+        </sect>
+      <sect categorycode="SystemConfigurationOther">
+        <title>Ostalo</title>
+        </sect>
+    </sect>
+    <sect categorycode="SystemHardware">
+      <title>Hardver</title>
+      <sect categorycode="SystemHardwareProcessor">
+        <title>Procesor</title>
+        </sect>
+      <sect categorycode="SystemHardwareStorage">
+        <title>Smeštaj</title>
+        </sect>
+      <sect categorycode="SystemHardwareVideo">
+        <title>Video</title>
+        </sect>
+      <sect categorycode="SystemHardwareInput Devices">
+        <title>Ulazni uređaji</title>
+        </sect>
+      <sect categorycode="SystemHardwareNetworking">
+        <title>Mreženje</title>
+        </sect>
+      <sect categorycode="SystemHardwarePCI/ISA/PCMCIA">
+        <title>PCI/ISA/PCMCIA</title>
+        </sect>
+      <sect categorycode="SystemHardwareOther">
+        <title>Ostalo</title>
+        </sect>
+    </sect>
+    <sect categorycode="SystemPackage Management">
+      <title>Upravljanje paketima</title>
+      </sect>
+    <sect categorycode="SystemSecurity">
+      <title>Bezbednost</title>
+      <sect categorycode="SystemSecurityFirewall">
+        <title>Štit</title>
+        </sect>
+      <sect categorycode="SystemSecurityIntrusion Detection">
+        <title>Primećivanje uljeza</title>
+        </sect>
+      <sect categorycode="SystemSecurityVirus">
+        <title>Virus</title>
+        </sect>
+      <sect categorycode="SystemSecurityOther">
+        <title>Ostalo</title>
+        </sect>
+    </sect>
+    <sect categorycode="SystemServices">
+      <title>Usluge</title>
+      <sect categorycode="SystemServicesHTTP">
+        <title>HTTP</title>
+        </sect>
+      <sect categorycode="SystemServicesFTP">
+        <title>FTP</title>
+        </sect>
+      <sect categorycode="SystemServicesSMB">
+        <title>SMB</title>
+        </sect>
+      <sect categorycode="SystemServicesSSH">
+        <title>SSH</title>
+        </sect>
+      <sect categorycode="SystemServicesTelnet">
+        <title>Telnet</title>
+        </sect>
+      <sect categorycode="SystemServicesSyslog">
+        <title>Sistemski dnevnik</title>
+        </sect>
+      <sect categorycode="SystemServicesBIND">
+        <title>BIND</title>
+        </sect>
+      <sect categorycode="SystemServicesPrinting">
+        <title>Štampa</title>
+        </sect>
+      <sect categorycode="SystemServicesOther">
+        <title>Ostalo</title>
+        </sect>
+    </sect>
+    <sect categorycode="SystemOther">
+      <title>Ostalo</title>
+      </sect>
+  </sect>
+</ScrollKeeperContentsList>

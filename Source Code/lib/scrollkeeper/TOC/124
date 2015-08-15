@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<toc>
+<tocsect1 linkid="gnome-netstatus-intro">Introduktion
+<tocsect2 linkid="gnome-netstatus-intro-add">Så här lägger du till Nätverksövervakare i en panel 
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="gnome-netstatus-usage">Användning 
+</tocsect1>
+<tocsect1 linkid="gnome-netstatus-props">Egenskaper 
+<tocsect2 linkid="gnome-netstatus-props-gen">Allmänt 
+</tocsect2>
+<tocsect2 linkid="gnome-netstatus-props-supp">Stöd 
+</tocsect2>
+</tocsect1>
+</toc>

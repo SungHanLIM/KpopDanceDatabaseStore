@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<indexdoc>
+  <indexitem>
+    <title>GNOME Volume Control</title>
+    <link linkid="index"/>
+  </indexitem>
+  <indexitem>
+    <title>gnome-volume-control</title>
+    <link linkid="index"/>
+  </indexitem>
+</indexdoc>

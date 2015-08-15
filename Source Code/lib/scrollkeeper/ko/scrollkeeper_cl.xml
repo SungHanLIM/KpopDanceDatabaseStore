@@ -1,0 +1,791 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrollKeeperContentsList>
+
+
+
+  <sect categorycode="Applications">
+    <title>응용프로그램</title>
+    <sect categorycode="ApplicationsAmusement">
+      <title>재미</title>
+      </sect>
+    <sect categorycode="ApplicationsEducation">
+      <title>교육</title>
+      <sect categorycode="ApplicationsEducationArts">
+        <title>예술</title>
+        </sect>
+      <sect categorycode="ApplicationsEducationComputer Science">
+        <title>컴퓨터 과학</title>
+        </sect>
+      <sect categorycode="ApplicationsEducationEnglish">
+        <title>영문학</title>
+        </sect>
+      <sect categorycode="ApplicationsEducationLanguage">
+        <title>언어</title>
+        </sect>
+      <sect categorycode="ApplicationsEducationMaths">
+        <title>수학</title>
+        </sect>
+      <sect categorycode="ApplicationsEducationMusic">
+        <title>음악</title>
+        </sect>
+      <sect categorycode="ApplicationsEducationScience">
+        <title>과학</title>
+        </sect>
+      <sect categorycode="ApplicationsEducationTechnology">
+        <title>기술</title>
+        </sect>
+      <sect categorycode="ApplicationsEducationTesting">
+        <title>Testing</title>
+        </sect>
+      <sect categorycode="ApplicationsEducationOther">
+        <title>그외</title>
+        </sect>
+    </sect>
+    <sect categorycode="ApplicationsGames">
+      <title>게임</title>
+      <sect categorycode="ApplicationsGamesArcade">
+        <title>아케이드</title>
+        </sect>
+      <sect categorycode="ApplicationsGamesBoard">
+        <title>Board</title>
+        </sect>
+      <sect categorycode="ApplicationsGamesFirst Person Shooters">
+        <title>일인칭 슈팅</title>
+        </sect>
+      <sect categorycode="ApplicationsGamesPuzzles">
+        <title>퍼즐</title>
+        </sect>
+      <sect categorycode="ApplicationsGamesFighting">
+        <title>Fighting</title>
+        </sect>
+      <sect categorycode="ApplicationsGamesRole-Playing">
+        <title>롤플레잉</title>
+        </sect>
+      <sect categorycode="ApplicationsGamesSimulation">
+        <title>시물레이션</title>
+        </sect>
+      <sect categorycode="ApplicationsGamesStrategy">
+        <title>전략</title>
+        </sect>
+      <sect categorycode="ApplicationsGamesOther">
+        <title>그외</title>
+        </sect>
+    </sect>
+    <sect categorycode="ApplicationsInternet">
+      <title>인터넷</title>
+      <sect categorycode="ApplicationsInternetChat">
+        <title>대화</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetEmail">
+        <title>전자우편</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetFax">
+        <title>팩스</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetFile Sharing">
+        <title>파일 공유</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetFTP">
+        <title>FTP</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetInternet Phone">
+        <title>인터넷 전화</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetMessaging">
+        <title>쪽지</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetNews">
+        <title>새소식</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetVideo Conferencing">
+        <title>화상 대화</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetWeb">
+        <title>웹</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetOther">
+        <title>그외</title>
+        </sect>
+    </sect>
+    <sect categorycode="ApplicationsMultimedia">
+      <title>멀티 미디어</title>
+      <sect categorycode="ApplicationsMultimediaGraphics">
+        <title>그래픽</title>
+        <sect categorycode="ApplicationsMultimediaGraphics3D Modelling">
+          <title>3D 모델링</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaGraphics3D Rendering">
+          <title>3D 렌더링</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaGraphicsCAD">
+          <title>CAD</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaGraphicsCapture">
+          <title>갈무리</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaGraphicsConversion">
+          <title>변환</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaGraphicsDrawing">
+          <title>그리기</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaGraphicsEditing">
+          <title>편집하기</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaGraphicsViewing">
+          <title>보기</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaGraphicsOther">
+          <title>그외</title>
+          </sect>
+      </sect>
+      <sect categorycode="ApplicationsMultimediaSound">
+        <title>음향</title>
+        <sect categorycode="ApplicationsMultimediaSoundAnalysis">
+          <title>분석</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaSoundCD Mastering">
+          <title>CD 제작</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaSoundConversion">
+          <title>변환</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaSoundEditing">
+          <title>편집하기</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaSoundMIDI">
+          <title>MIDI</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaSoundMixers">
+          <title>믹서</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaSoundPlayers">
+          <title>연주기</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaSoundRecording">
+          <title>Recording</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaSoundSpeech">
+          <title>Speech</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaSoundOther">
+          <title>그외</title>
+          </sect>
+      </sect>
+      <sect categorycode="ApplicationsMultimediaVideo">
+        <title>비디오</title>
+        <sect categorycode="ApplicationsMultimediaVideoCapture">
+          <title>갈무리</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaVideoConversion">
+          <title>변환</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaVideoDisplay">
+          <title>표시</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaVideoEditing">
+          <title>편집하기</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaVideoOther">
+          <title>그외</title>
+          </sect>
+      </sect>
+      <sect categorycode="ApplicationsMultimediaOther">
+        <title>그외</title>
+        </sect>
+    </sect>
+    <sect categorycode="ApplicationsOffice">
+      <title>사무</title>
+      <sect categorycode="ApplicationsOfficeCalendar">
+        <title>달력</title>
+        </sect>
+      <sect categorycode="ApplicationsOfficeData Processing">
+        <title>자료 처리</title>
+        </sect>
+      <sect categorycode="ApplicationsOfficeDatabase">
+        <title>데이터베이스</title>
+        </sect>
+      <sect categorycode="ApplicationsOfficeEmail">
+        <title>전자우편</title>
+        </sect>
+      <sect categorycode="ApplicationsOfficeFinancial">
+        <title>재무</title>
+        </sect>
+      <sect categorycode="ApplicationsOfficePIM">
+        <title>개인 정보 관리</title>
+        </sect>
+      <sect categorycode="ApplicationsOfficePlotting">
+        <title>Plotting</title>
+        </sect>
+      <sect categorycode="ApplicationsOfficePresentation">
+        <title>발표</title>
+        </sect>
+      <sect categorycode="ApplicationsOfficePublishing">
+        <title>출판</title>
+        <sect categorycode="ApplicationsOfficePublishingWeb Publishing">
+          <title>웹 출판</title>
+          </sect>
+      </sect>
+      <sect categorycode="ApplicationsOfficeWord Processing">
+        <title>문서 작성</title>
+        </sect>
+      <sect categorycode="ApplicationsOfficeOther">
+        <title>그외</title>
+        </sect>
+    </sect>
+    <sect categorycode="ApplicationsScientific">
+      <title>과학</title>
+      <sect categorycode="ApplicationsScientificAstronomy">
+        <title>천문학</title>
+        </sect>
+      <sect categorycode="ApplicationsScientificAstrophysics">
+        <title>천체 물리학</title>
+        </sect>
+      <sect categorycode="ApplicationsScientificBiology">
+        <title>생물학</title>
+        </sect>
+      <sect categorycode="ApplicationsScientificChemistry">
+        <title>화학</title>
+        </sect>
+      <sect categorycode="ApplicationsScientificEDA">
+        <title>EDA</title>
+        </sect>
+      <sect categorycode="ApplicationsScientificGenetics">
+        <title>유전학</title>
+        </sect>
+      <sect categorycode="ApplicationsScientificMath">
+        <title>수학</title>
+        </sect>
+      <sect categorycode="ApplicationsScientificPhysics">
+        <title>물리학</title>
+        </sect>
+      <sect categorycode="ApplicationsScientificVisualisation">
+        <title>Visualisation</title>
+        </sect>
+      <sect categorycode="ApplicationsScientificOther">
+        <title>그외</title>
+        </sect>
+    </sect>
+    <sect categorycode="ApplicationsSecurity">
+      <title>보안</title>
+      <sect categorycode="ApplicationsSecurityCryptography">
+        <title>암호</title>
+        </sect>
+      <sect categorycode="ApplicationsSecurityOther">
+        <title>그외</title>
+        </sect>
+    </sect>
+    <sect categorycode="ApplicationsText Editors">
+      <title>텍스트 편집기</title>
+      <sect categorycode="ApplicationsText EditorsCLI">
+        <title>CLI</title>
+        </sect>
+      <sect categorycode="ApplicationsText EditorsGUI">
+        <title>GUI</title>
+        </sect>
+      <sect categorycode="ApplicationsText EditorsOther">
+        <title>그외</title>
+        </sect>
+    </sect>
+    <sect categorycode="ApplicationsUtilities">
+      <title>도구</title>
+      <sect categorycode="ApplicationsUtilitiesArchiving">
+        <title>묶기</title>
+        </sect>
+      <sect categorycode="ApplicationsUtilitiesCalculating">
+        <title>계산</title>
+        </sect>
+      <sect categorycode="ApplicationsUtilitiesClocks">
+        <title>시계</title>
+        </sect>
+      <sect categorycode="ApplicationsUtilitiesCompression">
+        <title>압축</title>
+        </sect>
+      <sect categorycode="ApplicationsUtilitiesFile Utilities">
+        <title>파일 도구</title>
+        </sect>
+      <sect categorycode="ApplicationsUtilitiesMonitors">
+        <title>감시기</title>
+        </sect>
+      <sect categorycode="ApplicationsUtilitiesPrinting">
+        <title>인쇄</title>
+        </sect>
+      <sect categorycode="ApplicationsUtilitiesTerminals">
+        <title>터미널</title>
+        </sect>
+      <sect categorycode="ApplicationsUtilitiesText Utilities">
+        <title>텍스트 도구</title>
+        </sect>
+      <sect categorycode="ApplicationsUtilitiesOther">
+        <title>그외</title>
+        </sect>
+    </sect>
+    <sect categorycode="ApplicationsX">
+      <title>X</title>
+      <sect categorycode="ApplicationsXConfiguration">
+        <title>설정</title>
+        </sect>
+      <sect categorycode="ApplicationsXFonts">
+        <title>글꼴</title>
+        </sect>
+      <sect categorycode="ApplicationsXLogin Managers">
+        <title>로그인 관리자</title>
+        </sect>
+      <sect categorycode="ApplicationsXScreensavers">
+        <title>화면 보호기</title>
+        </sect>
+      <sect categorycode="ApplicationsXWindow Managers">
+        <title>창 관리자</title>
+        </sect>
+      <sect categorycode="ApplicationsXOther">
+        <title>그외</title>
+        </sect>
+    </sect>
+  </sect>
+
+  <sect categorycode="CDE">
+    <title>CDE</title>
+    </sect>
+
+  <sect categorycode="Development">
+    <title>개발</title>
+    <sect categorycode="DevelopmentDatabases">
+      <title>데이터 베이스</title>
+      </sect>
+    <sect categorycode="DevelopmentDevelopment Tools">
+      <title>개발 도구</title>
+      <sect categorycode="DevelopmentDevelopment ToolsBuild Tools">
+        <title>Build Tools</title>
+        </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsCode Generators">
+        <title>코드 생성기</title>
+        </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsConfiguration">
+        <title>설정</title>
+        </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsDebuggers">
+        <title>벌레잡이</title>
+        </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsIDEs">
+        <title>통합 개발 환경</title>
+        </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsPackaging">
+        <title>꾸러미 만들기</title>
+        </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsProfiling">
+        <title>Profiling</title>
+        </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsRAD">
+        <title>RAD</title>
+        </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsVersion Control">
+        <title>판번호 조정</title>
+        </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsOther">
+        <title>그외</title>
+        </sect>
+    </sect>
+    <sect categorycode="DevelopmentEnvironments">
+      <title>환경</title>
+      <sect categorycode="DevelopmentEnvironmentsADA">
+        <title>ADA</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsC">
+        <title>C</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsC++">
+        <title>C++</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsGNOME">
+        <title>GNOME</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsGTK+">
+        <title>GTK+</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsgtk++">
+        <title>gtk++</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsJava">
+        <title>Java</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsKDE">
+        <title>KDE</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsPerl">
+        <title>Perl</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsPython">
+        <title>Python</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsQt">
+        <title>Qt</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsTcl/Tk">
+        <title>Tcl/Tk</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsWebML">
+        <title>WebML</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsOther">
+        <title>그외</title>
+        </sect>
+    </sect>
+    <sect categorycode="DevelopmentKernels">
+      <title>커널</title>
+      <sect categorycode="DevelopmentKernelsFreeBSD">
+        <title>FreeBSD</title>
+        </sect>
+      <sect categorycode="DevelopmentKernelsLinux">
+        <title>Linux</title>
+        </sect>
+      <sect categorycode="DevelopmentKernelsNetBSD">
+        <title>NetBSD</title>
+        </sect>
+      <sect categorycode="DevelopmentKernelsOther">
+        <title>그외</title>
+        </sect>
+    </sect>
+    <sect categorycode="DevelopmentLibraries">
+      <title>라이브러리</title>
+      </sect>
+    <sect categorycode="DevelopmentSystem Calls">
+      <title>시스템 호출</title>
+      </sect>
+    <sect categorycode="DevelopmentOther">
+      <title>그외</title>
+      </sect>
+  </sect>
+  <sect categorycode="General">
+    <title>일반</title>
+    <sect categorycode="GeneralLicenses">
+      <title>허가권</title>
+      </sect>
+    <sect categorycode="GeneralLinux">
+      <title>Linux</title>
+      <sect categorycode="GeneralLinuxDistributions">
+        <title>배포판</title>
+        <sect categorycode="GeneralLinuxDistributionsCaldera">
+          <title>칼데라</title>
+          </sect>
+        <sect categorycode="GeneralLinuxDistributionsDebian">
+          <title>데비안</title>
+          </sect>
+        <sect categorycode="GeneralLinuxDistributionsMandrake">
+          <title>맨드레이크</title>
+          </sect>
+        <sect categorycode="GeneralLinuxDistributionsRed Flag">
+          <title>홍기</title>
+          </sect>
+        <sect categorycode="GeneralLinuxDistributionsRed Hat">
+          <title>레드햇</title>
+          </sect>
+        <sect categorycode="GeneralLinuxDistributionsSlackware">
+          <title>슬랙웨어</title>
+          </sect>
+        <sect categorycode="GeneralLinuxDistributionsSuSE">
+          <title>수세</title>
+          </sect>
+        <sect categorycode="GeneralLinuxDistributionsOther">
+          <title>그외</title>
+          </sect>
+      </sect>
+      <sect categorycode="GeneralLinuxGeneral">
+        <title>일반</title>
+        </sect>
+      <sect categorycode="GeneralLinuxOther">
+        <title>그외</title>
+        </sect>
+    </sect>
+    <sect categorycode="GeneralOther">
+      <title>그외</title>
+      </sect>
+  </sect>
+
+  <sect categorycode="GNOME">
+    <title>GNOME</title>
+    <sect categorycode="GNOMEAccessibility">
+      <title>Accessibility</title>
+      </sect>
+    <sect categorycode="GNOMECore Desktop">
+      <title>바탕화면 핵심</title>
+      </sect>
+    <sect categorycode="GNOMEDesktop">
+      <title>Desktop</title>
+      <sect categorycode="GNOMEDesktopUser Guides">
+        <title>User Guides</title>
+        </sect>
+    </sect>
+    <sect categorycode="GNOMEApplets">
+      <title>애플릿</title>
+      <sect categorycode="GNOMEAppletsAccessories">
+        <title>Accessories</title>
+        <doc docid="46"><doctitle>Clock Manual</doctitle><docomf>/usr/share/omf/clock/clock-ko.omf</docomf><docsource>file:///usr/share/gnome/help/clock/ko/clock.xml</docsource><docformat/><docseriesid>dc1bc4d4-40e7-11d6-8b82-b4eda00d7b63</docseriesid></doc></sect>
+      <sect categorycode="GNOMEAppletsAmusement">
+        <title>재미</title>
+        <doc docid="27"><doctitle>물고기</doctitle><docomf>/usr/share/omf/fish/fish-applet-2-ko.omf</docomf><docsource>file:/usr/share/gnome/help/fish-applet-2/ko/fish-applet-2.xml</docsource><docformat>text/xml</docformat><docseriesid>e9efbc8c-40e7-11d6-815d-e721de25f633</docseriesid></doc></sect>
+      <sect categorycode="GNOMEAppletsClock">
+        <title>시계</title>
+        </sect>
+      <sect categorycode="GNOMEAppletsInternet">
+        <title>인터넷</title>
+        <doc docid="127"><doctitle>네트워크 감시기 애플릿 V2.0.1</doctitle><docomf>/usr/share/omf/gnome-netstatus/gnome-netstatus-ko.omf</docomf><docsource>file:/usr/share/gnome/help/gnome-netstatus/ko/gnome-netstatus.xml</docsource><docformat>text/xml</docformat><docseriesid>5ce2819c-2422-11d8-855f-bb98965120a1</docseriesid></doc></sect>
+      <sect categorycode="GNOMEAppletsMonitors">
+        <title>감시기</title>
+        </sect>
+      <sect categorycode="GNOMEAppletsMultimedia">
+        <title>멀티 미디어</title>
+        </sect>
+      <sect categorycode="GNOMEAppletsNetwork">
+        <title>네트워크</title>
+        </sect>
+      <sect categorycode="GNOMEAppletsUtility">
+        <title>도구</title>
+        <doc docid="84"><doctitle>창 목록</doctitle><docomf>/usr/share/omf/window-list/window-list-ko.omf</docomf><docsource>file:/usr/share/gnome/help/window-list/ko/window-list.xml</docsource><docformat>text/xml</docformat><docseriesid>11f2815a-2d11-11d6-8a88-bd96c340430a</docseriesid></doc><doc docid="95"><doctitle>작업 공간 전환</doctitle><docomf>/usr/share/omf/workspace-switcher/workspace-switcher-ko.omf</docomf><docsource>file:/usr/share/gnome/help/workspace-switcher/ko/workspace-switcher.xml</docsource><docformat>text/xml</docformat><docseriesid>f6ab0110-2d10-11d6-984f-a7559fbbe0e2</docseriesid></doc></sect>
+    </sect>
+    <sect categorycode="GNOMEApplications">
+      <title>응용프로그램</title>
+      <sect categorycode="GNOMEApplicationsAccessories">
+        <title>Accessories</title>
+        <doc docid="70"><doctitle>유니코드 글자 보기 V2.0.1</doctitle><docomf>/usr/share/omf/gucharmap/gucharmap-ko.omf</docomf><docsource>file:/usr/share/gnome/help/gucharmap/ko/gucharmap.xml</docsource><docformat>text/xml</docformat><docseriesid>054930fe-ff13-11d7-927b-c1ece0bc6c90</docseriesid></doc><doc docid="137"><doctitle>gcalctool 설명서 V2.5.1</doctitle><docomf>/usr/share/omf/gcalctool/gcalctool-ko.omf</docomf><docsource>file:/usr/share/gnome/help/gcalctool/ko/gcalctool.xml</docsource><docformat>text/xml</docformat><docseriesid>52191642-4f23-11d7-95c8-9792b4e62685</docseriesid></doc><doc docid="231"><doctitle>Archive Manager Manual</doctitle><docomf>/usr/share/omf/file-roller/file-roller-ko.omf</docomf><docsource>file:///usr/share/gnome/help/file-roller/ko/file-roller.xml</docsource><docformat/><docseriesid>dffe1822-789b-11d6-842e-812e852e3415</docseriesid></doc><doc docid="277"><doctitle>gedit</doctitle><docomf>/usr/share/omf/gedit/gedit-ko.omf</docomf><docsource>file:/usr/share/gnome/help/gedit/ko/gedit.xml</docsource><docformat>text/xml</docformat><docseriesid>081c7e56-2acd-11d6-819f-e6a1118e62db</docseriesid></doc></sect>
+      <sect categorycode="GNOMEApplicationsDesktop Preferences">
+        <title>Desktop Preferences</title>
+        </sect>
+      <sect categorycode="GNOMEApplicationsGames">
+        <title>게임</title>
+        </sect>
+      <sect categorycode="GNOMEApplicationsGraphics">
+        <title>그래픽</title>
+        </sect>
+      <sect categorycode="GNOMEApplicationsInternet">
+        <title>인터넷</title>
+        </sect>
+      <sect categorycode="GNOMEApplicationsOffice">
+        <title>사무</title>
+        </sect>
+      <sect categorycode="GNOMEApplicationsProgramming">
+        <title>Programming</title>
+        </sect>
+      <sect categorycode="GNOMEApplicationsSound and Video">
+        <title>Sound and Video</title>
+        <doc docid="108"><doctitle>CD 플레이어</doctitle><docomf>/usr/share/omf/gnome-media/gnome-cd-ko.omf</docomf><docsource>file:/usr/share/gnome/help/gnome-cd/ko/gnome-cd.xml</docsource><docformat>text/xml</docformat><docseriesid>b9e5caae-6437-11d6-9e62-8b945ed9d489</docseriesid></doc></sect>
+      <sect categorycode="GNOMEApplicationsSystem Tools">
+        <title>System Tools</title>
+        <doc docid="209"><doctitle>로그인 화면 설정 설명서 V2.0.1</doctitle><docomf>/usr/share/omf/gdm/gdm-ko.omf</docomf><docsource>file:/usr/share/gnome/help/gdm/ko/gdm.xml</docsource><docformat>text/xml</docformat><docseriesid>be6a0524-46d3-11d8-983d-e135363498a8</docseriesid></doc><doc docid="256"><doctitle>터미널</doctitle><docomf>/usr/share/omf/gnome-terminal/gnome-terminal-ko.omf</docomf><docsource>file:/usr/share/gnome/help/gnome-terminal/ko/gnome-terminal.xml</docsource><docformat>text/xml</docformat><docseriesid>d7834910-40e7-11d6-87e4-aa5f78e530ae</docseriesid></doc></sect>
+    </sect>
+    <sect categorycode="GNOMEPreferences">
+      <title>Preferences</title>
+      </sect>
+    <sect categorycode="GNOMESystem Administration">
+      <title>System Administration</title>
+      </sect>
+    <sect categorycode="GNOMEUtilities">
+      <title>도구</title>
+      </sect>
+    <sect categorycode="GNOMEDevelopment">
+      <title>개발</title>
+      <sect categorycode="GNOMEDevelopmentApplications">
+        <title>응용프로그램</title>
+        </sect>
+      <sect categorycode="GNOMEDevelopmentIntroductory">
+        <title>소개</title>
+        </sect>
+      <sect categorycode="GNOMEDevelopmentTutorials">
+        <title>지도</title>
+        </sect>
+      <sect categorycode="GNOMEDevelopmentWhite Papers">
+        <title>백서</title>
+        </sect>
+    </sect>
+    <sect categorycode="GNOMEGames">
+      <title>게임</title>
+      </sect>
+    <sect categorycode="GNOMEGraphics">
+      <title>그래픽</title>
+      </sect>
+    <sect categorycode="GNOMEInternet">
+      <title>인터넷</title>
+      </sect>
+    <sect categorycode="GNOMEMultimedia">
+      <title>멀티 미디어</title>
+      </sect>
+    <sect categorycode="GNOMESettings">
+      <title>설정</title>
+      </sect>
+    <sect categorycode="GNOMESystem">
+      <title>시스템</title>
+      </sect>
+    <sect categorycode="GNOMEOther">
+      <title>그외</title>
+      </sect>
+  </sect>
+
+  <sect categorycode="KDE">
+    <title>KDE</title>
+    <sect categorycode="KDEUtilities">
+      <title>도구</title>
+      </sect>
+    <sect categorycode="KDEApplications">
+      <title>응용프로그램</title>
+      </sect>
+    <sect categorycode="KDEGames">
+      <title>게임</title>
+      </sect>
+    <sect categorycode="KDEGraphics">
+      <title>그래픽</title>
+      </sect>
+    <sect categorycode="KDEInternet">
+      <title>인터넷</title>
+      </sect>
+    <sect categorycode="KDEMultimedia">
+      <title>멀티 미디어</title>
+      </sect>
+    <sect categorycode="KDESettings">
+      <title>설정</title>
+      </sect>
+    <sect categorycode="KDESystem">
+      <title>시스템</title>
+      </sect>
+    <sect categorycode="KDEPrograms">
+      <title>프로그램</title>
+      </sect>
+    <sect categorycode="KDEDevelopment">
+      <title>개발</title>
+      </sect>
+    <sect categorycode="KDEOther">
+      <title>그외</title>
+      </sect>
+  </sect>
+
+  <sect categorycode="System">
+    <title>시스템</title>
+    <sect categorycode="SystemAdministration">
+      <title>관리</title>
+      <sect categorycode="SystemAdministrationBackups">
+        <title>백업</title>
+        <sect categorycode="SystemAdministrationBackupsLocal">
+          <title>지역</title>
+          </sect>
+        <sect categorycode="SystemAdministrationBackupsRemote">
+          <title>원격</title>
+          </sect>
+      </sect>
+      <sect categorycode="SystemAdministrationFilesystems">
+        <title>파일체계</title>
+        </sect>
+      <sect categorycode="SystemAdministrationNetworking">
+        <title>네트워킹</title>
+        <sect categorycode="SystemAdministrationNetworkingAppleTalk">
+          <title>AppleTalk</title>
+          </sect>
+        <sect categorycode="SystemAdministrationNetworkingPPP">
+          <title>PPP</title>
+          </sect>
+        <sect categorycode="SystemAdministrationNetworkingSMB">
+          <title>SMB</title>
+          </sect>
+        <sect categorycode="SystemAdministrationNetworkingTCP/IP">
+          <title>TCP/IP</title>
+          </sect>
+        <sect categorycode="SystemAdministrationNetworkingDNS">
+          <title>DNS</title>
+          </sect>
+        <sect categorycode="SystemAdministrationNetworkingOther">
+          <title>그외</title>
+          </sect>
+      </sect>
+      <sect categorycode="SystemAdministrationUsers">
+        <title>사용자</title>
+        </sect>
+      <sect categorycode="SystemAdministrationOther">
+        <title>그외</title>
+        </sect>
+    </sect>
+    <sect categorycode="SystemConfiguration">
+      <title>설정</title>
+      <sect categorycode="SystemConfigurationConfig Files">
+        <title>설정 파일</title>
+        </sect>
+      <sect categorycode="SystemConfigurationConfiguration Tools">
+        <title>설정 도구</title>
+        </sect>
+      <sect categorycode="SystemConfigurationOther">
+        <title>그외</title>
+        </sect>
+    </sect>
+    <sect categorycode="SystemHardware">
+      <title>하드웨어</title>
+      <sect categorycode="SystemHardwareProcessor">
+        <title>프로세서</title>
+        </sect>
+      <sect categorycode="SystemHardwareStorage">
+        <title>저장장치</title>
+        </sect>
+      <sect categorycode="SystemHardwareVideo">
+        <title>비디오</title>
+        </sect>
+      <sect categorycode="SystemHardwareInput Devices">
+        <title>입력장치</title>
+        </sect>
+      <sect categorycode="SystemHardwareNetworking">
+        <title>네트워킹</title>
+        </sect>
+      <sect categorycode="SystemHardwarePCI/ISA/PCMCIA">
+        <title>PCI/ISA/PCMCIA</title>
+        </sect>
+      <sect categorycode="SystemHardwareOther">
+        <title>그외</title>
+        </sect>
+    </sect>
+    <sect categorycode="SystemPackage Management">
+      <title>꾸러미 관리</title>
+      </sect>
+    <sect categorycode="SystemSecurity">
+      <title>보안</title>
+      <sect categorycode="SystemSecurityFirewall">
+        <title>방화벽</title>
+        </sect>
+      <sect categorycode="SystemSecurityIntrusion Detection">
+        <title>침입 감시</title>
+        </sect>
+      <sect categorycode="SystemSecurityVirus">
+        <title>바이러스</title>
+        </sect>
+      <sect categorycode="SystemSecurityOther">
+        <title>그외</title>
+        </sect>
+    </sect>
+    <sect categorycode="SystemServices">
+      <title>서비스</title>
+      <sect categorycode="SystemServicesHTTP">
+        <title>HTTP</title>
+        </sect>
+      <sect categorycode="SystemServicesFTP">
+        <title>FTP</title>
+        </sect>
+      <sect categorycode="SystemServicesSMB">
+        <title>SMB</title>
+        </sect>
+      <sect categorycode="SystemServicesSSH">
+        <title>SSH</title>
+        </sect>
+      <sect categorycode="SystemServicesTelnet">
+        <title>Telnet</title>
+        </sect>
+      <sect categorycode="SystemServicesSyslog">
+        <title>Syslog</title>
+        </sect>
+      <sect categorycode="SystemServicesBIND">
+        <title>BIND</title>
+        </sect>
+      <sect categorycode="SystemServicesPrinting">
+        <title>인쇄</title>
+        </sect>
+      <sect categorycode="SystemServicesOther">
+        <title>그외</title>
+        </sect>
+    </sect>
+    <sect categorycode="SystemOther">
+      <title>그외</title>
+      </sect>
+  </sect>
+</ScrollKeeperContentsList>

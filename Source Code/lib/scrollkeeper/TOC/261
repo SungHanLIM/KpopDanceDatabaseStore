@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<toc>
+<tocsect1 linkid="gnome-terminal-introduction">Einführung
+</tocsect1>
+<tocsect1 linkid="gnome-terminal-get-started">Erste Schritte
+<tocsect2 linkid="gnome-terminal-to-start">So starten Sie die AnwendungGNOME Terminal
+</tocsect2>
+<tocsect2 linkid="gnome-terminal-first-start">Erstmaliger Start von GNOME Terminal
+</tocsect2>
+<tocsect2 linkid="gnome-terminal-profiles">Terminalprofile
+</tocsect2>
+<tocsect2 linkid="gnome-terminal-more-windows">Arbeiten mit mehreren Terminals
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="gnome-terminal-usage">Verwendung
+<tocsect2 linkid="gnome-terminal-windows">Öffnen und Schließen von Terminals
+</tocsect2>
+<tocsect2 linkid="gnome-terminal-manage-profiles">Verwalten von Profilen
+</tocsect2>
+<tocsect2 linkid="gnome-terminal-tabs">Ändern eines Terminalfensters
+</tocsect2>
+<tocsect2 linkid="gnome-terminal-contents">Arbeiten mit dem Inhalt von Terminalfenstern
+</tocsect2>
+<tocsect2 linkid="gnome-terminal-shortcuts">Anzeigen von Einstellungen für Tastenkombinationen
+</tocsect2>
+<tocsect2 linkid="gnome-terminal-reset">Wiederherstellen des Terminals
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="gnome-terminal-prefs">Einstellungen
+<tocsect2 linkid="gnome-terminal-prefs-general">Allgemein
+</tocsect2>
+<tocsect2 linkid="gnome-terminal-prefs-title">Titel und Befehl
+</tocsect2>
+<tocsect2 linkid="gnome-terminal-prefs-colors">Farben
+</tocsect2>
+<tocsect2 linkid="gnome-terminal-prefs-effects">Effekte
+</tocsect2>
+<tocsect2 linkid="gnome-terminal-prefs-scrolling">Bildlauf
+</tocsect2>
+<tocsect2 linkid="gnome-terminal-prefs-compatibility">Kompatibilität
+</tocsect2>
+</tocsect1>
+</toc>

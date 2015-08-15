@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<toc>
+<tocsect1 linkid="gnome-netstatus-intro">Introduzione
+<tocsect2 linkid="gnome-netstatus-intro-add">Aggiungere l'applet Controllo rete a un pannello 
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="gnome-netstatus-usage">Uso 
+</tocsect1>
+<tocsect1 linkid="gnome-netstatus-props">Proprietà 
+<tocsect2 linkid="gnome-netstatus-props-gen">Generale 
+</tocsect2>
+<tocsect2 linkid="gnome-netstatus-props-supp">Supporto 
+</tocsect2>
+</tocsect1>
+</toc>

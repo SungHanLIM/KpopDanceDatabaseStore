@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<toc>
+<tocsect1 linkid="gnome-netstatus-intro">소개
+<tocsect2 linkid="gnome-netstatus-intro-add">네트워크 감시기을(를) 패널에 추가하려면 
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="gnome-netstatus-usage">용도 
+</tocsect1>
+<tocsect1 linkid="gnome-netstatus-props">등록 정보 
+<tocsect2 linkid="gnome-netstatus-props-gen">일반 
+</tocsect2>
+<tocsect2 linkid="gnome-netstatus-props-supp">지원 
+</tocsect2>
+</tocsect1>
+</toc>

@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<toc>
+<tocsect1 linkid="gnome-terminal-introduction">概要
+</tocsect1>
+<tocsect1 linkid="gnome-terminal-get-started">基本的な使用方法
+<tocsect2 linkid="gnome-terminal-to-start">GNOME 端末 を起動する
+</tocsect2>
+<tocsect2 linkid="gnome-terminal-first-start">GNOME 端末 を初めて起動する場合
+</tocsect2>
+<tocsect2 linkid="gnome-terminal-profiles">端末プロファイル
+</tocsect2>
+<tocsect2 linkid="gnome-terminal-more-windows">複数の端末を使用する場合
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="gnome-terminal-usage">使用方法
+<tocsect2 linkid="gnome-terminal-windows">端末を開く、または閉じる
+</tocsect2>
+<tocsect2 linkid="gnome-terminal-manage-profiles">プロファイルを管理する
+</tocsect2>
+<tocsect2 linkid="gnome-terminal-tabs">端末を変更する
+</tocsect2>
+<tocsect2 linkid="gnome-terminal-contents">端末の内容を操作する
+</tocsect2>
+<tocsect2 linkid="gnome-terminal-shortcuts">キーボードショートカットの設定を表示する
+</tocsect2>
+<tocsect2 linkid="gnome-terminal-reset">端末を復元する
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="gnome-terminal-prefs">設定
+<tocsect2 linkid="gnome-terminal-prefs-general">「一般」
+</tocsect2>
+<tocsect2 linkid="gnome-terminal-prefs-title">「タイトルとコマンド」
+</tocsect2>
+<tocsect2 linkid="gnome-terminal-prefs-colors">「色」
+</tocsect2>
+<tocsect2 linkid="gnome-terminal-prefs-effects">「効果」
+</tocsect2>
+<tocsect2 linkid="gnome-terminal-prefs-scrolling">「スクロール」
+</tocsect2>
+<tocsect2 linkid="gnome-terminal-prefs-compatibility">「互換性」
+</tocsect2>
+</tocsect1>
+</toc>

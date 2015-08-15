@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<toc>
+<tocsect1 linkid="Introduction">Introduktion
+</tocsect1>
+<tocsect1 linkid="Play">Spillet
+</tocsect1>
+<tocsect1 linkid="kbd">Keys
+<tocsect2 linkid="set3-keys">
+        The Keypad
+      
+</tocsect2>
+<tocsect2 linkid="set2-keys">
+      Left Hand Keys 
+      
+</tocsect2>
+<tocsect2 linkid="standard-keys">
+    Original Keys 
+    
+</tocsect2>
+<tocsect2 linkid="defining">Definér dine egne
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="preferences">Præferencer
+<tocsect2 linkid="configuration">Konfiguration
+</tocsect2>
+<tocsect2 linkid="graphics">Grafik
+</tocsect2>
+<tocsect2 linkid="keys">Tastatus
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="misc">Diverse
+</tocsect1>
+<tocsect1 linkid="authors">Authors
+</tocsect1>
+</toc>

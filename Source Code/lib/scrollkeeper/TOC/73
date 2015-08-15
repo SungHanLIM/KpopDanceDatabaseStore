@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<toc>
+<tocsect1 linkid="gucharmap-introduction">Einführung
+</tocsect1>
+<tocsect1 linkid="gucharmap-getting-started">Erste Schritte
+<tocsect2 linkid="gucharmap-start">So starten Sie die Anwendung Unicode-Zeichentabelle
+</tocsect2>
+<tocsect2 linkid="gucharmap-when-start">Beim Start der Anwendung Unicode-Zeichentabelle
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="gucharmap-usage">Verwendung
+<tocsect2 linkid="gucharmap-create-textstring">So erstellen Sie eine Textfolge
+</tocsect2>
+<tocsect2 linkid="gucharmap-copy-textstring">So kopieren Sie eine Textfolge und fügen sie in eine Anwendung ein
+</tocsect2>
+<tocsect2 linkid="gucharmap-change-charset">So stellen Sie den Eingabemodus um
+</tocsect2>
+<tocsect2 linkid="usage-find-character">So suchen Sie nach bestimmten Zeichen
+<tocsect3 linkid="usage-find-character-name">So suchen Sie ein Zeichen anhand seines Unicode-Namens
+</tocsect3>
+<tocsect3 linkid="usage-find-character-code">So suchen Sie ein Zeichen anhand des Unicode-Hexadezimalcodes
+</tocsect3>
+<tocsect3 linkid="usage-find-character-clipboard">So suchen Sie nach dem ersten Zeichen in der Zwischenablage
+</tocsect3>
+<tocsect3 linkid="usage-find-character-otherapp">So suchen Sie ein Zeichen aus einer anderen Anwendung
+</tocsect3>
+</tocsect2>
+<tocsect2 linkid="usage-browse-characters">So laufen Sie durch die vollständige Zeichenliste
+</tocsect2>
+<tocsect2 linkid="usage-display-details">So zeigen Sie Detailinformationen zu einem bestimmten Zeichen an
+</tocsect2>
+<tocsect2 linkid="usage-format-character">So ändern Sie das Format eines Zeichens
+</tocsect2>
+<tocsect2 linkid="usage-format-chartable">So ändern Sie das Format der Zeichentabelle
+</tocsect2>
+</tocsect1>
+</toc>

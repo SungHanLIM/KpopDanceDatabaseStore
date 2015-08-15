@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<toc>
+<tocsect1 linkid="gcalctool-intro">概要
+</tocsect1>
+<tocsect1 linkid="gcalctool-get-start">基本的な使用方法
+</tocsect1>
+<tocsect1 linkid="gcalctool-usage">使用方法
+<tocsect2 linkid="gcalctool-calc-functions">電卓機能を使用する
+</tocsect2>
+<tocsect2 linkid="gcalctool-basic-mode">基本計算を実行する
+<tocsect3 linkid="gcalctool-simple-calc">簡単な計算を実行する
+</tocsect3>
+<tocsect3 linkid="gcalctool-erase-char">文字を消去する
+</tocsect3>
+<tocsect3 linkid="gcalctool-arith-calc">算術計算を実行する
+</tocsect3>
+<tocsect3 linkid="gcalctool-mem-reg">電卓メモリレジスタを使用する
+</tocsect3>
+<tocsect3 linkid="gcalctool-ins-ascii">ASCII 値を表示する
+</tocsect3>
+</tocsect2>
+<tocsect2 linkid="gcalctool-financial-mode">財務上の計算の実行
+</tocsect2>
+<tocsect2 linkid="gcalctool-scientific-mode">科学技術計算を実行する
+<tocsect3 linkid="gcalctool-set-acc">精度を設定する
+</tocsect3>
+<tocsect3 linkid="gcalctool-num-base">基数を設定する
+</tocsect3>
+<tocsect3 linkid="gcalctool-display-type">表示タイプを設定する
+</tocsect3>
+<tocsect3 linkid="gcalctool-trig-type">三角関数のタイプを設定する
+</tocsect3>
+<tocsect3 linkid="gcalctool-trig-options">三角関数オプションを設定する
+</tocsect3>
+<tocsect3 linkid="gcalctool-trig-calc">三角関数を計算する
+</tocsect3>
+<tocsect3 linkid="gcalctool-logs-calc">対数を計算する
+</tocsect3>
+<tocsect3 linkid="gcalctool-logic-calc">論理演算を実行する
+</tocsect3>
+<tocsect3 linkid="gcalctool-enter-exp">指数を入力する
+</tocsect3>
+<tocsect3 linkid="gcalctool-edit-const">定数値を使用する
+</tocsect3>
+<tocsect3 linkid="gcalctool-edit-func">関数を使用する
+</tocsect3>
+<tocsect3 linkid="gcalctool-num-manip">2 進数の数字を処理する
+</tocsect3>
+<tocsect3 linkid="gcalctool-misc-calc">その他の科学技術計算を実行する
+</tocsect3>
+</tocsect2>
+<tocsect2 linkid="gcalctool-quit">終了する
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="gcalctool-tech-info">技術情報
+<tocsect2 linkid="gcalctool-manage-order">演算の順序
+</tocsect2>
+<tocsect2 linkid="gcalctool-recognize-error">エラー状態
+</tocsect2>
+<tocsect2 linkid="gcalctool-input-mode">入力モードを変更する
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="gcalctool-keyboard-shortcut">クイックリファレンス: キーボードのショートカット
+</tocsect1>
+</toc>

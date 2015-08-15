@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<toc>
+<tocsect1 linkid="gucharmap-introduction">概要
+</tocsect1>
+<tocsect1 linkid="gucharmap-getting-started">基本的な使用方法
+<tocsect2 linkid="gucharmap-start">Unicode 文字マップ を起動する
+</tocsect2>
+<tocsect2 linkid="gucharmap-when-start">Unicode 文字マップ の起動時
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="gucharmap-usage">使用方法
+<tocsect2 linkid="gucharmap-create-textstring">テキスト文字列を作成する
+</tocsect2>
+<tocsect2 linkid="gucharmap-copy-textstring">作成したテキスト文字列をコピーして、アプリケーションにペーストする
+</tocsect2>
+<tocsect2 linkid="gucharmap-change-charset">入力方式を変更する
+</tocsect2>
+<tocsect2 linkid="usage-find-character">文字を検索する
+<tocsect3 linkid="usage-find-character-name">Unicode 名で文字を検索する
+</tocsect3>
+<tocsect3 linkid="usage-find-character-code">Unicode コードポイントで文字を検索する
+</tocsect3>
+<tocsect3 linkid="usage-find-character-clipboard">クリップボードの最初の文字を検索する
+</tocsect3>
+<tocsect3 linkid="usage-find-character-otherapp">他のアプリケーションから文字を検索する
+</tocsect3>
+</tocsect2>
+<tocsect2 linkid="usage-browse-characters">すべての文字をブラウズする
+</tocsect2>
+<tocsect2 linkid="usage-display-details">文字の詳細情報を表示する
+</tocsect2>
+<tocsect2 linkid="usage-format-character">文字フォーマットを変更する
+</tocsect2>
+<tocsect2 linkid="usage-format-chartable">文字テーブルフォーマットを変更する
+</tocsect2>
+</tocsect1>
+</toc>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<toc>
+<tocsect1 linkid="workspacelist-introduction">はじめに
+</tocsect1>
+<tocsect1 linkid="workspacelist-usage">使い方
+<tocsect2 linkid="workspacelist-navigate">ワークスペースを操作する
+</tocsect2>
+<tocsect2 linkid="workspacelist-move-window">ウィンドウを別のワークスペースへ移動する
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="workspacelist-prefs">設定
+</tocsect1>
+</toc>

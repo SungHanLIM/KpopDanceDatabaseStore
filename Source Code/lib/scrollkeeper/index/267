@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<indexdoc>
+  <indexitem>
+    <title>System Monitor</title>
+    <link linkid="index"/>
+  </indexitem>
+  <indexitem>
+    <title>gnome-system-monitor</title>
+    <link linkid="index"/>
+  </indexitem>
+  <indexitem>
+    <title>procman</title>
+    <link linkid="index"/>
+  </indexitem>
+</indexdoc>

@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<toc>
+<tocsect1 linkid="gcalctool-intro">Einführung
+</tocsect1>
+<tocsect1 linkid="gcalctool-get-start">Erste Schritte
+</tocsect1>
+<tocsect1 linkid="gcalctool-usage">Verwendung
+<tocsect2 linkid="gcalctool-calc-functions">So arbeiten Sie mit den Rechnerfunktionen
+</tocsect2>
+<tocsect2 linkid="gcalctool-basic-mode">So führen Sie Grundberechnungen aus
+<tocsect3 linkid="gcalctool-simple-calc">So führen Sie einfache Berechnungen aus
+</tocsect3>
+<tocsect3 linkid="gcalctool-erase-char">So löschen Sie Zeichen
+</tocsect3>
+<tocsect3 linkid="gcalctool-arith-calc">So führen Sie arithmetische Berechnungen aus
+</tocsect3>
+<tocsect3 linkid="gcalctool-mem-reg">So arbeiten Sie mit Speicherregistern
+</tocsect3>
+<tocsect3 linkid="gcalctool-ins-ascii">So zeigen Sie ASCII-Werte an
+</tocsect3>
+</tocsect2>
+<tocsect2 linkid="gcalctool-financial-mode">So führen Sie Finanzberechnungen aus
+</tocsect2>
+<tocsect2 linkid="gcalctool-scientific-mode">So führen Sie wissenschaftliche Berechnungen aus
+<tocsect3 linkid="gcalctool-set-acc">So stellen Sie die Genauigkeit ein
+</tocsect3>
+<tocsect3 linkid="gcalctool-num-base">So stellen Sie das Zahlensystem ein
+</tocsect3>
+<tocsect3 linkid="gcalctool-display-type">So stellen Sie das Anzeigeformat ein
+</tocsect3>
+<tocsect3 linkid="gcalctool-trig-type">So stellen Sie das trigonometrische Format ein
+</tocsect3>
+<tocsect3 linkid="gcalctool-trig-options">So legen Sie trigonometrische Optionen fest
+</tocsect3>
+<tocsect3 linkid="gcalctool-trig-calc">So berechnen Sie trigonometrische Werte
+</tocsect3>
+<tocsect3 linkid="gcalctool-logs-calc">So berechnen Sie Logarithmen
+</tocsect3>
+<tocsect3 linkid="gcalctool-logic-calc">So führen Sie logische Berechnungen aus
+</tocsect3>
+<tocsect3 linkid="gcalctool-enter-exp">So geben Sie Exponentialzahlen ein
+</tocsect3>
+<tocsect3 linkid="gcalctool-edit-const">So arbeiten Sie mit Konstanten
+</tocsect3>
+<tocsect3 linkid="gcalctool-edit-func">So arbeiten Sie mit Funktionen
+</tocsect3>
+<tocsect3 linkid="gcalctool-num-manip">So arbeiten Sie mit Binärzahlen
+</tocsect3>
+<tocsect3 linkid="gcalctool-misc-calc">So führen Sie diverse wissenschaftliche Berechnungen aus
+</tocsect3>
+</tocsect2>
+<tocsect2 linkid="gcalctool-quit">So beenden Sie die Anwendung
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="gcalctool-tech-info">Technische Informationen
+<tocsect2 linkid="gcalctool-manage-order">Reihenfolge der Operationen
+</tocsect2>
+<tocsect2 linkid="gcalctool-recognize-error">Fehlerbedingungen
+</tocsect2>
+<tocsect2 linkid="gcalctool-input-mode">So wechseln Sie den Eingabemodus
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="gcalctool-keyboard-shortcut">Kurzreferenz: Tastaturbefehle
+</tocsect1>
+</toc>

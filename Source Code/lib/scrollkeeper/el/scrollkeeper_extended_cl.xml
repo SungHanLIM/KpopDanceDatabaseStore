@@ -1,0 +1,791 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrollKeeperContentsList>
+
+
+
+  <sect categorycode="Applications">
+    <title>Εφαρμογές</title>
+    <sect categorycode="ApplicationsAmusement">
+      <title>Ψυχαγωγία</title>
+      </sect>
+    <sect categorycode="ApplicationsEducation">
+      <title>Εκπαίδευση</title>
+      <sect categorycode="ApplicationsEducationArts">
+        <title>Τέχνες</title>
+        </sect>
+      <sect categorycode="ApplicationsEducationComputer Science">
+        <title>Πληροφορική</title>
+        </sect>
+      <sect categorycode="ApplicationsEducationEnglish">
+        <title>Αγγλικά</title>
+        </sect>
+      <sect categorycode="ApplicationsEducationLanguage">
+        <title>Γλώσσα</title>
+        </sect>
+      <sect categorycode="ApplicationsEducationMaths">
+        <title>Μαθηματικά</title>
+        </sect>
+      <sect categorycode="ApplicationsEducationMusic">
+        <title>Μουσική</title>
+        </sect>
+      <sect categorycode="ApplicationsEducationScience">
+        <title>Επιστήμες</title>
+        </sect>
+      <sect categorycode="ApplicationsEducationTechnology">
+        <title>Τεχνολογία</title>
+        </sect>
+      <sect categorycode="ApplicationsEducationTesting">
+        <title>Δοκιμές</title>
+        </sect>
+      <sect categorycode="ApplicationsEducationOther">
+        <title>Άλλα</title>
+        </sect>
+    </sect>
+    <sect categorycode="ApplicationsGames">
+      <title>Παιχνίδια</title>
+      <sect categorycode="ApplicationsGamesArcade">
+        <title>Arcade</title>
+        </sect>
+      <sect categorycode="ApplicationsGamesBoard">
+        <title>Επιτραπέζια</title>
+        </sect>
+      <sect categorycode="ApplicationsGamesFirst Person Shooters">
+        <title>First Person Shooters</title>
+        </sect>
+      <sect categorycode="ApplicationsGamesPuzzles">
+        <title>Σπαζοκεφαλιές</title>
+        </sect>
+      <sect categorycode="ApplicationsGamesFighting">
+        <title>Μάχης</title>
+        </sect>
+      <sect categorycode="ApplicationsGamesRole-Playing">
+        <title>Role-Playing</title>
+        </sect>
+      <sect categorycode="ApplicationsGamesSimulation">
+        <title>Προσομοιώσεις</title>
+        </sect>
+      <sect categorycode="ApplicationsGamesStrategy">
+        <title>Στρατηγικής</title>
+        </sect>
+      <sect categorycode="ApplicationsGamesOther">
+        <title>Άλλα</title>
+        </sect>
+    </sect>
+    <sect categorycode="ApplicationsInternet">
+      <title>Internet</title>
+      <sect categorycode="ApplicationsInternetChat">
+        <title>Συνομιλία</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetEmail">
+        <title>Ηλεκ. αλληλογραφία</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetFax">
+        <title>Φαξ</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetFile Sharing">
+        <title>Διαμοιρασμός αρχείων</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetFTP">
+        <title>FTP</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetInternet Phone">
+        <title>Τηλεφωνία μέσω Internet</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetMessaging">
+        <title>Αποστολή μηνυμάτων</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetNews">
+        <title>Νέα</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetVideo Conferencing">
+        <title>Τηλεσυνδιάσκεψη</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetWeb">
+        <title>Δικτυακός ιστός</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetOther">
+        <title>Άλλα</title>
+        </sect>
+    </sect>
+    <sect categorycode="ApplicationsMultimedia">
+      <title>Πολυμέσα</title>
+      <sect categorycode="ApplicationsMultimediaGraphics">
+        <title>Γραφικά</title>
+        <sect categorycode="ApplicationsMultimediaGraphics3D Modelling">
+          <title>3D Modelling</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaGraphics3D Rendering">
+          <title>3D Rendering</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaGraphicsCAD">
+          <title>CAD</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaGraphicsCapture">
+          <title>Σύλληψη</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaGraphicsConversion">
+          <title>Μετατροπή</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaGraphicsDrawing">
+          <title>Σχεδίαση</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaGraphicsEditing">
+          <title>Επεξεργασία</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaGraphicsViewing">
+          <title>Προβολή</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaGraphicsOther">
+          <title>Άλλα</title>
+          </sect>
+      </sect>
+      <sect categorycode="ApplicationsMultimediaSound">
+        <title>Ήχος</title>
+        <sect categorycode="ApplicationsMultimediaSoundAnalysis">
+          <title>Ανάλυση</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaSoundCD Mastering">
+          <title>Προετοιμασία CD</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaSoundConversion">
+          <title>Μετατροπή</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaSoundEditing">
+          <title>Επεξεργασία</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaSoundMIDI">
+          <title>MIDI</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaSoundMixers">
+          <title>Μίκτες</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaSoundPlayers">
+          <title>Αναπαραγωγή</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaSoundRecording">
+          <title>Ηχογράφηση</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaSoundSpeech">
+          <title>Φωνή</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaSoundOther">
+          <title>Άλλα</title>
+          </sect>
+      </sect>
+      <sect categorycode="ApplicationsMultimediaVideo">
+        <title>Βίντεο</title>
+        <sect categorycode="ApplicationsMultimediaVideoCapture">
+          <title>Σύλληψη</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaVideoConversion">
+          <title>Μετατροπή</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaVideoDisplay">
+          <title>Προβολή</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaVideoEditing">
+          <title>Επεξεργασία</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaVideoOther">
+          <title>Άλλα</title>
+          </sect>
+      </sect>
+      <sect categorycode="ApplicationsMultimediaOther">
+        <title>Άλλα</title>
+        </sect>
+    </sect>
+    <sect categorycode="ApplicationsOffice">
+      <title>Γραφείο</title>
+      <sect categorycode="ApplicationsOfficeCalendar">
+        <title>Ημερολόγιο</title>
+        </sect>
+      <sect categorycode="ApplicationsOfficeData Processing">
+        <title>Επεξεργασία Δεδομένων</title>
+        </sect>
+      <sect categorycode="ApplicationsOfficeDatabase">
+        <title>Βάση Δεδομένων</title>
+        </sect>
+      <sect categorycode="ApplicationsOfficeEmail">
+        <title>Ηλεκ. αλληλογραφία</title>
+        </sect>
+      <sect categorycode="ApplicationsOfficeFinancial">
+        <title>Οικονομικά</title>
+        </sect>
+      <sect categorycode="ApplicationsOfficePIM">
+        <title>PIM</title>
+        </sect>
+      <sect categorycode="ApplicationsOfficePlotting">
+        <title>Plotting</title>
+        </sect>
+      <sect categorycode="ApplicationsOfficePresentation">
+        <title>Παρουσίαση</title>
+        </sect>
+      <sect categorycode="ApplicationsOfficePublishing">
+        <title>Publishing</title>
+        <sect categorycode="ApplicationsOfficePublishingWeb Publishing">
+          <title>Web Publishing</title>
+          </sect>
+      </sect>
+      <sect categorycode="ApplicationsOfficeWord Processing">
+        <title>Επεξεργασία Κειμένου</title>
+        </sect>
+      <sect categorycode="ApplicationsOfficeOther">
+        <title>Άλλα</title>
+        </sect>
+    </sect>
+    <sect categorycode="ApplicationsScientific">
+      <title>Επιστημονικά</title>
+      <sect categorycode="ApplicationsScientificAstronomy">
+        <title>Αστρονομία</title>
+        </sect>
+      <sect categorycode="ApplicationsScientificAstrophysics">
+        <title>Αστροφυσική</title>
+        </sect>
+      <sect categorycode="ApplicationsScientificBiology">
+        <title>Βιολογία</title>
+        </sect>
+      <sect categorycode="ApplicationsScientificChemistry">
+        <title>Χημεία</title>
+        </sect>
+      <sect categorycode="ApplicationsScientificEDA">
+        <title>EDA</title>
+        </sect>
+      <sect categorycode="ApplicationsScientificGenetics">
+        <title>Γενετική</title>
+        </sect>
+      <sect categorycode="ApplicationsScientificMath">
+        <title>Μαθηματικά</title>
+        </sect>
+      <sect categorycode="ApplicationsScientificPhysics">
+        <title>Φυσική</title>
+        </sect>
+      <sect categorycode="ApplicationsScientificVisualisation">
+        <title>Visualisation</title>
+        </sect>
+      <sect categorycode="ApplicationsScientificOther">
+        <title>Άλλα</title>
+        </sect>
+    </sect>
+    <sect categorycode="ApplicationsSecurity">
+      <title>Ασφάλεια</title>
+      <sect categorycode="ApplicationsSecurityCryptography">
+        <title>Κρυπτογραφία</title>
+        </sect>
+      <sect categorycode="ApplicationsSecurityOther">
+        <title>Άλλα</title>
+        </sect>
+    </sect>
+    <sect categorycode="ApplicationsText Editors">
+      <title>Επεξεργαστές κειμένου</title>
+      <sect categorycode="ApplicationsText EditorsCLI">
+        <title>Είδους κονσόλας</title>
+        </sect>
+      <sect categorycode="ApplicationsText EditorsGUI">
+        <title>Γραφικού περιβάλλοντος</title>
+        </sect>
+      <sect categorycode="ApplicationsText EditorsOther">
+        <title>Άλλα</title>
+        </sect>
+    </sect>
+    <sect categorycode="ApplicationsUtilities">
+      <title>Εργαλεία</title>
+      <sect categorycode="ApplicationsUtilitiesArchiving">
+        <title>Αρχειοθέτηση</title>
+        </sect>
+      <sect categorycode="ApplicationsUtilitiesCalculating">
+        <title>Υπολογισμών</title>
+        </sect>
+      <sect categorycode="ApplicationsUtilitiesClocks">
+        <title>Ρολόγια</title>
+        </sect>
+      <sect categorycode="ApplicationsUtilitiesCompression">
+        <title>Συμπίεση</title>
+        </sect>
+      <sect categorycode="ApplicationsUtilitiesFile Utilities">
+        <title>Εργαλεία Αρχείων</title>
+        </sect>
+      <sect categorycode="ApplicationsUtilitiesMonitors">
+        <title>Ελεγκτές</title>
+        </sect>
+      <sect categorycode="ApplicationsUtilitiesPrinting">
+        <title>Εκτύπωσης</title>
+        </sect>
+      <sect categorycode="ApplicationsUtilitiesTerminals">
+        <title>Τερματικών</title>
+        </sect>
+      <sect categorycode="ApplicationsUtilitiesText Utilities">
+        <title>Εργαλεία Κειμένου</title>
+        </sect>
+      <sect categorycode="ApplicationsUtilitiesOther">
+        <title>Άλλα</title>
+        </sect>
+    </sect>
+    <sect categorycode="ApplicationsX">
+      <title>X</title>
+      <sect categorycode="ApplicationsXConfiguration">
+        <title>Ρύθμιση</title>
+        </sect>
+      <sect categorycode="ApplicationsXFonts">
+        <title>Γραμματοσειρές</title>
+        </sect>
+      <sect categorycode="ApplicationsXLogin Managers">
+        <title>Διαχειριστές Αυθεντικοποίησης</title>
+        </sect>
+      <sect categorycode="ApplicationsXScreensavers">
+        <title>Προφύλαξη Οθόνης</title>
+        </sect>
+      <sect categorycode="ApplicationsXWindow Managers">
+        <title>Διαχειριστές Παραθύρων</title>
+        </sect>
+      <sect categorycode="ApplicationsXOther">
+        <title>Άλλα</title>
+        </sect>
+    </sect>
+  </sect>
+
+  <sect categorycode="CDE">
+    <title>CDE</title>
+    </sect>
+
+  <sect categorycode="Development">
+    <title>Ανάπτυξη</title>
+    <sect categorycode="DevelopmentDatabases">
+      <title>Βάσεις Δεδομένων</title>
+      </sect>
+    <sect categorycode="DevelopmentDevelopment Tools">
+      <title>Εργαλεία Ανάπτυξης</title>
+      <sect categorycode="DevelopmentDevelopment ToolsBuild Tools">
+        <title>Εργαλεία Κατασκευής</title>
+        </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsCode Generators">
+        <title>Γεννήτριες Κώδικα</title>
+        </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsConfiguration">
+        <title>Ρύθμιση</title>
+        </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsDebuggers">
+        <title>Προγράμματα Εκσφαλμάτωσης</title>
+        </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsIDEs">
+        <title>Περιβάλλοντα Ανάπτυξης Εφαρμογών</title>
+        </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsPackaging">
+        <title>Πακετοποίηση</title>
+        </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsProfiling">
+        <title>Έλεγχος Απόδοσης</title>
+        </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsRAD">
+        <title>Ταχεία Ανάπτυξη Εφαρμογών</title>
+        </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsVersion Control">
+        <title>Έλεγχος Εκδόσεων</title>
+        </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsOther">
+        <title>Άλλα</title>
+        </sect>
+    </sect>
+    <sect categorycode="DevelopmentEnvironments">
+      <title>Περιβάλλοντα</title>
+      <sect categorycode="DevelopmentEnvironmentsADA">
+        <title>ADA</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsC">
+        <title>C</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsC++">
+        <title>C++</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsGNOME">
+        <title>GNOME</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsGTK+">
+        <title>GTK+</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsgtk++">
+        <title>gtk++</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsJava">
+        <title>Java</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsKDE">
+        <title>KDE</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsPerl">
+        <title>Perl</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsPython">
+        <title>Python</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsQt">
+        <title>Qt</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsTcl/Tk">
+        <title>Tcl/Tk</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsWebML">
+        <title>WebML</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsOther">
+        <title>Άλλα</title>
+        </sect>
+    </sect>
+    <sect categorycode="DevelopmentKernels">
+      <title>Πυρήνες</title>
+      <sect categorycode="DevelopmentKernelsFreeBSD">
+        <title>FreeBSD</title>
+        </sect>
+      <sect categorycode="DevelopmentKernelsLinux">
+        <title>Linux</title>
+        </sect>
+      <sect categorycode="DevelopmentKernelsNetBSD">
+        <title>NetBSD</title>
+        </sect>
+      <sect categorycode="DevelopmentKernelsOther">
+        <title>Άλλα</title>
+        </sect>
+    </sect>
+    <sect categorycode="DevelopmentLibraries">
+      <title>Βιβλιοθήκες</title>
+      </sect>
+    <sect categorycode="DevelopmentSystem Calls">
+      <title>Κλήσεις Συστήματος</title>
+      </sect>
+    <sect categorycode="DevelopmentOther">
+      <title>Άλλα</title>
+      </sect>
+  </sect>
+  <sect categorycode="General">
+    <title>Γενικά</title>
+    <sect categorycode="GeneralLicenses">
+      <title>Άδειες</title>
+      </sect>
+    <sect categorycode="GeneralLinux">
+      <title>Linux</title>
+      <sect categorycode="GeneralLinuxDistributions">
+        <title>Διανομές</title>
+        <sect categorycode="GeneralLinuxDistributionsCaldera">
+          <title>Caldera</title>
+          </sect>
+        <sect categorycode="GeneralLinuxDistributionsDebian">
+          <title>Debian</title>
+          </sect>
+        <sect categorycode="GeneralLinuxDistributionsMandrake">
+          <title>Mandrake</title>
+          </sect>
+        <sect categorycode="GeneralLinuxDistributionsRed Flag">
+          <title>Red Flag</title>
+          </sect>
+        <sect categorycode="GeneralLinuxDistributionsRed Hat">
+          <title>Red Hat</title>
+          </sect>
+        <sect categorycode="GeneralLinuxDistributionsSlackware">
+          <title>Slackware</title>
+          </sect>
+        <sect categorycode="GeneralLinuxDistributionsSuSE">
+          <title>SuSE</title>
+          </sect>
+        <sect categorycode="GeneralLinuxDistributionsOther">
+          <title>Άλλα</title>
+          </sect>
+      </sect>
+      <sect categorycode="GeneralLinuxGeneral">
+        <title>Γενικά</title>
+        </sect>
+      <sect categorycode="GeneralLinuxOther">
+        <title>Άλλα</title>
+        </sect>
+    </sect>
+    <sect categorycode="GeneralOther">
+      <title>Άλλα</title>
+      </sect>
+  </sect>
+
+  <sect categorycode="GNOME">
+    <title>GNOME</title>
+    <sect categorycode="GNOMEAccessibility">
+      <title>Accessibility</title>
+      </sect>
+    <sect categorycode="GNOMECore Desktop">
+      <title>Βασική Επιφάνεια Εργασίας</title>
+      </sect>
+    <sect categorycode="GNOMEDesktop">
+      <title>Desktop</title>
+      <sect categorycode="GNOMEDesktopUser Guides">
+        <title>User Guides</title>
+        </sect>
+    </sect>
+    <sect categorycode="GNOMEApplets">
+      <title>Εφαρμογίδια</title>
+      <sect categorycode="GNOMEAppletsAccessories">
+        <title>Accessories</title>
+        </sect>
+      <sect categorycode="GNOMEAppletsAmusement">
+        <title>Ψυχαγωγία</title>
+        </sect>
+      <sect categorycode="GNOMEAppletsClock">
+        <title>Ρολόγια</title>
+        </sect>
+      <sect categorycode="GNOMEAppletsInternet">
+        <title>Internet</title>
+        </sect>
+      <sect categorycode="GNOMEAppletsMonitors">
+        <title>Ελεγκτές</title>
+        </sect>
+      <sect categorycode="GNOMEAppletsMultimedia">
+        <title>Πολυμέσα</title>
+        </sect>
+      <sect categorycode="GNOMEAppletsNetwork">
+        <title>Δίκτυο</title>
+        </sect>
+      <sect categorycode="GNOMEAppletsUtility">
+        <title>Εργαλεία</title>
+        </sect>
+    </sect>
+    <sect categorycode="GNOMEApplications">
+      <title>Εφαρμογές</title>
+      <sect categorycode="GNOMEApplicationsAccessories">
+        <title>Accessories</title>
+        <doc docid="165"><doctitle>Εγχειρίδιο Λεξικού</doctitle><docomf>/usr/share/omf/gnome-dictionary/gnome-dictionary-el.omf</docomf><docsource>file:///usr/share/gnome/help/gnome-dictionary/el/gnome-dictionary.xml</docsource><docformat/><docseriesid>1ecf16b8-675f-11da-8538-e2da790b69ab</docseriesid></doc></sect>
+      <sect categorycode="GNOMEApplicationsDesktop Preferences">
+        <title>Desktop Preferences</title>
+        </sect>
+      <sect categorycode="GNOMEApplicationsGames">
+        <title>Παιχνίδια</title>
+        </sect>
+      <sect categorycode="GNOMEApplicationsGraphics">
+        <title>Γραφικά</title>
+        <doc docid="222"><doctitle>Τεκμηρίωση Προβολέα Εγγράφου Evince</doctitle><docomf>/usr/share/omf/evince/evince-el.omf</docomf><docsource>file:///usr/share/gnome/help/evince/el/evince.xml</docsource><docformat></docformat><docseriesid>62118a88-a670-11d9-9d16-8c554140c753</docseriesid></doc></sect>
+      <sect categorycode="GNOMEApplicationsInternet">
+        <title>Internet</title>
+        </sect>
+      <sect categorycode="GNOMEApplicationsOffice">
+        <title>Γραφείο</title>
+        </sect>
+      <sect categorycode="GNOMEApplicationsProgramming">
+        <title>Programming</title>
+        </sect>
+      <sect categorycode="GNOMEApplicationsSound and Video">
+        <title>Sound and Video</title>
+        <doc docid="175"><doctitle>Οδηγός Sound·Juicer</doctitle><docomf>/usr/share/omf/sound-juicer/sound-juicer-el.omf</docomf><docsource>file:///usr/share/gnome/help/sound-juicer/el/sound-juicer.xml</docsource><docformat/><docseriesid>f5b1de52-afee-11d7-813f-fcb0fd1dad15</docseriesid></doc><doc docid="185"><doctitle>Εγχειρίδιο V2.0.2 της Αναπαραγωγής μουσικής Rhythmbox</doctitle><docomf>/usr/share/omf/rhythmbox/rhythmbox-el.omf</docomf><docsource>file:///usr/share/gnome/help/rhythmbox/el/rhythmbox.xml</docsource><docformat/><docseriesid>cf2bed6a-3e28-11d6-88f3-c2f7a14f1d6d</docseriesid></doc></sect>
+      <sect categorycode="GNOMEApplicationsSystem Tools">
+        <title>System Tools</title>
+        </sect>
+    </sect>
+    <sect categorycode="GNOMEPreferences">
+      <title>Preferences</title>
+      </sect>
+    <sect categorycode="GNOMESystem Administration">
+      <title>System Administration</title>
+      </sect>
+    <sect categorycode="GNOMEUtilities">
+      <title>Εργαλεία</title>
+      </sect>
+    <sect categorycode="GNOMEDevelopment">
+      <title>Ανάπτυξη</title>
+      <sect categorycode="GNOMEDevelopmentApplications">
+        <title>Εφαρμογές</title>
+        </sect>
+      <sect categorycode="GNOMEDevelopmentIntroductory">
+        <title>Εισαγωγικά</title>
+        </sect>
+      <sect categorycode="GNOMEDevelopmentTutorials">
+        <title>Οδηγοί</title>
+        </sect>
+      <sect categorycode="GNOMEDevelopmentWhite Papers">
+        <title>Κείμενα</title>
+        </sect>
+    </sect>
+    <sect categorycode="GNOMEGames">
+      <title>Παιχνίδια</title>
+      </sect>
+    <sect categorycode="GNOMEGraphics">
+      <title>Γραφικά</title>
+      </sect>
+    <sect categorycode="GNOMEInternet">
+      <title>Internet</title>
+      </sect>
+    <sect categorycode="GNOMEMultimedia">
+      <title>Πολυμέσα</title>
+      </sect>
+    <sect categorycode="GNOMESettings">
+      <title>Ρυθμίσεις</title>
+      </sect>
+    <sect categorycode="GNOMESystem">
+      <title>Σύστημα</title>
+      </sect>
+    <sect categorycode="GNOMEOther">
+      <title>Άλλα</title>
+      </sect>
+  </sect>
+
+  <sect categorycode="KDE">
+    <title>KDE</title>
+    <sect categorycode="KDEUtilities">
+      <title>Εργαλεία</title>
+      </sect>
+    <sect categorycode="KDEApplications">
+      <title>Εφαρμογές</title>
+      </sect>
+    <sect categorycode="KDEGames">
+      <title>Παιχνίδια</title>
+      </sect>
+    <sect categorycode="KDEGraphics">
+      <title>Γραφικά</title>
+      </sect>
+    <sect categorycode="KDEInternet">
+      <title>Internet</title>
+      </sect>
+    <sect categorycode="KDEMultimedia">
+      <title>Πολυμέσα</title>
+      </sect>
+    <sect categorycode="KDESettings">
+      <title>Ρυθμίσεις</title>
+      </sect>
+    <sect categorycode="KDESystem">
+      <title>Σύστημα</title>
+      </sect>
+    <sect categorycode="KDEPrograms">
+      <title>Προγράμματα</title>
+      </sect>
+    <sect categorycode="KDEDevelopment">
+      <title>Ανάπτυξη</title>
+      </sect>
+    <sect categorycode="KDEOther">
+      <title>Άλλα</title>
+      </sect>
+  </sect>
+
+  <sect categorycode="System">
+    <title>Σύστημα</title>
+    <sect categorycode="SystemAdministration">
+      <title>Διαχείριση</title>
+      <sect categorycode="SystemAdministrationBackups">
+        <title>Αντίγραφα Ασφαλείας</title>
+        <sect categorycode="SystemAdministrationBackupsLocal">
+          <title>Τοπικά</title>
+          </sect>
+        <sect categorycode="SystemAdministrationBackupsRemote">
+          <title>Απομακρυσμένα</title>
+          </sect>
+      </sect>
+      <sect categorycode="SystemAdministrationFilesystems">
+        <title>Συστήματα Αρχείων</title>
+        </sect>
+      <sect categorycode="SystemAdministrationNetworking">
+        <title>Δικτύωση</title>
+        <sect categorycode="SystemAdministrationNetworkingAppleTalk">
+          <title>AppleTalk</title>
+          </sect>
+        <sect categorycode="SystemAdministrationNetworkingPPP">
+          <title>PPP</title>
+          </sect>
+        <sect categorycode="SystemAdministrationNetworkingSMB">
+          <title>SMB</title>
+          </sect>
+        <sect categorycode="SystemAdministrationNetworkingTCP/IP">
+          <title>TCP/IP</title>
+          </sect>
+        <sect categorycode="SystemAdministrationNetworkingDNS">
+          <title>DNS</title>
+          </sect>
+        <sect categorycode="SystemAdministrationNetworkingOther">
+          <title>Άλλα</title>
+          </sect>
+      </sect>
+      <sect categorycode="SystemAdministrationUsers">
+        <title>Χρήστες</title>
+        </sect>
+      <sect categorycode="SystemAdministrationOther">
+        <title>Άλλα</title>
+        </sect>
+    </sect>
+    <sect categorycode="SystemConfiguration">
+      <title>Ρύθμιση</title>
+      <sect categorycode="SystemConfigurationConfig Files">
+        <title>Αρχεία Ρυθμίσεων</title>
+        </sect>
+      <sect categorycode="SystemConfigurationConfiguration Tools">
+        <title>Εργαλεία Ρυθμίσεων</title>
+        </sect>
+      <sect categorycode="SystemConfigurationOther">
+        <title>Άλλα</title>
+        </sect>
+    </sect>
+    <sect categorycode="SystemHardware">
+      <title>Υλικό</title>
+      <sect categorycode="SystemHardwareProcessor">
+        <title>Επεξεργαστής</title>
+        </sect>
+      <sect categorycode="SystemHardwareStorage">
+        <title>Αποθήκευση</title>
+        </sect>
+      <sect categorycode="SystemHardwareVideo">
+        <title>Βίντεο</title>
+        </sect>
+      <sect categorycode="SystemHardwareInput Devices">
+        <title>Συσκευές Εισόδου</title>
+        </sect>
+      <sect categorycode="SystemHardwareNetworking">
+        <title>Δικτύωση</title>
+        </sect>
+      <sect categorycode="SystemHardwarePCI/ISA/PCMCIA">
+        <title>PCI/ISA/PCMCIA</title>
+        </sect>
+      <sect categorycode="SystemHardwareOther">
+        <title>Άλλα</title>
+        </sect>
+    </sect>
+    <sect categorycode="SystemPackage Management">
+      <title>Διαχείριση Πακέτων</title>
+      </sect>
+    <sect categorycode="SystemSecurity">
+      <title>Ασφάλεια</title>
+      <sect categorycode="SystemSecurityFirewall">
+        <title>Firewall</title>
+        </sect>
+      <sect categorycode="SystemSecurityIntrusion Detection">
+        <title>Εντοπισμός Παραβιάσεων</title>
+        </sect>
+      <sect categorycode="SystemSecurityVirus">
+        <title>Ιοί</title>
+        </sect>
+      <sect categorycode="SystemSecurityOther">
+        <title>Άλλα</title>
+        </sect>
+    </sect>
+    <sect categorycode="SystemServices">
+      <title>Υπηρεσίες</title>
+      <sect categorycode="SystemServicesHTTP">
+        <title>HTTP</title>
+        </sect>
+      <sect categorycode="SystemServicesFTP">
+        <title>FTP</title>
+        </sect>
+      <sect categorycode="SystemServicesSMB">
+        <title>SMB</title>
+        </sect>
+      <sect categorycode="SystemServicesSSH">
+        <title>SSH</title>
+        </sect>
+      <sect categorycode="SystemServicesTelnet">
+        <title>Telnet</title>
+        </sect>
+      <sect categorycode="SystemServicesSyslog">
+        <title>Syslog</title>
+        </sect>
+      <sect categorycode="SystemServicesBIND">
+        <title>BIND</title>
+        </sect>
+      <sect categorycode="SystemServicesPrinting">
+        <title>Εκτύπωσης</title>
+        </sect>
+      <sect categorycode="SystemServicesOther">
+        <title>Άλλα</title>
+        </sect>
+    </sect>
+    <sect categorycode="SystemOther">
+      <title>Άλλα</title>
+      </sect>
+  </sect>
+</ScrollKeeperContentsList>

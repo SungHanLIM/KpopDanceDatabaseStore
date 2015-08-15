@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<toc>
+<tocsect1 linkid="gnome-system-monitor-intro">Introduction
+</tocsect1>
+<tocsect1 linkid="gnome-system-monitor-getting-started">Getting Started
+<tocsect2 linkid="gnome-system-monitor-to-start">To Start System Monitor
+</tocsect2>
+<tocsect2 linkid="gnome-system-monitor-when-you-start">When You Start System Monitor
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="gnome-system-monitor-usage">Usage
+<tocsect2 linkid="gnome-system-monitor-display-processlist">To Display the Process List
+<tocsect3 linkid="gnome-system-monitor-display-processlist-child">Parent Processes, Child Processes, and Threads
+</tocsect3>
+<tocsect3 linkid="gnome-system-monitor-display-processlist-priority">Process Priority and Nice Values
+</tocsect3>
+</tocsect2>
+<tocsect2 linkid="gnome-system-monitor-sort-processlist">To Sort the Process List
+</tocsect2>
+<tocsect2 linkid="gnome-system-monitor-modify-processlist">To Modify the Contents of the Process List
+<tocsect3 linkid="gnome-system-monitor-modify-processlist-all">To Show All Processes
+</tocsect3>
+<tocsect3 linkid="gnome-system-monitor-modify-processlist-my">To Show Only Processes Owned by the Current User
+</tocsect3>
+<tocsect3 linkid="gnome-system-monitor-modify-processlist-active">To Show Only Active Processes
+</tocsect3>
+<tocsect3 linkid="gnome-system-monitor-modify-processlist-viewdeps">To Show Process Dependencies
+</tocsect3>
+<tocsect3 linkid="gnome-system-monitor-modify-processlist-viewthreads">To Show Threads
+</tocsect3>
+<tocsect3 linkid="gnome-system-monitor-modify-hide-process">To Hide a Process
+</tocsect3>
+<tocsect3 linkid="gnome-system-monitor-modify-processlist-hidden">To Re-Display Hidden Processes
+</tocsect3>
+</tocsect2>
+<tocsect2 linkid="gnome-system-monitor-find-process">To Find a Process
+</tocsect2>
+<tocsect2 linkid="gnome-system-monitor-show-info">To Show or Hide Additional Process Information
+</tocsect2>
+<tocsect2 linkid="gnome-system-monitor-memory-map">To Display Memory Maps for a Process
+</tocsect2>
+<tocsect2 linkid="gnome-system-monitor-change-priority">To Change the Priority of a Process
+</tocsect2>
+<tocsect2 linkid="gnome-system-monitor-end-process">To End a Process
+</tocsect2>
+<tocsect2 linkid="gnome-system-monitor-terminate-process">To Terminate a Process
+</tocsect2>
+<tocsect2 linkid="gnome-system-monitor-cpu">To Monitor CPU Usage
+</tocsect2>
+<tocsect2 linkid="gnome-system-monitor-memory">To Monitor Memory and Swap Usage
+</tocsect2>
+<tocsect2 linkid="gnome-system-monitor-disk">To Monitor Disk Space Usage
+</tocsect2>
+<tocsect2 linkid="gnome-system-monitor-customize">To Customize the Resource Monitor Tabbed Section
+<tocsect3 linkid="gnome-system-monitor-customize-background">To Change the Background Color of Graphs
+</tocsect3>
+<tocsect3 linkid="gnome-system-monitor-customize-grid">To Change the Grid Color of Graphs
+</tocsect3>
+<tocsect3 linkid="gnome-system-monitor-customize-cpu">To Change the Line Color of the CPU Graph
+</tocsect3>
+<tocsect3 linkid="gnome-system-monitor-customize-mem">To Change the Line Colors of the Memory and Swap Graph
+</tocsect3>
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="gnome-system-monitor-prefs">Preferences
+<tocsect2 linkid="gnome-system-monitor-prefs-proclist">Process Listing
+</tocsect2>
+<tocsect2 linkid="gnome-system-monitor-prefs-resmon">Resource Monitor
+</tocsect2>
+</tocsect1>
+</toc>

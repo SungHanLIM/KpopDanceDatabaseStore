@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<toc>
+<tocsect1 linkid="gedit-intro">Introducere
+</tocsect1>
+<tocsect1 linkid="gedit-getting-started">Primii paşi
+<tocsect2 linkid="gedit-to-start">Pentru a porni gedit
+</tocsect2>
+<tocsect2 linkid="gedit-when-you-start">După ce porniţi gedit
+</tocsect2>
+<tocsect2 linkid="gedit-open-file">Pentru a deschide un fişier
+</tocsect2>
+<tocsect2 linkid="gedit-run-from-cmd-line">Pentru a deschide mai multe fişiere din linia de comandă
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="gedit-usage">Mod de utilizare
+<tocsect2 linkid="gedit-create-new-file">Pentru a crea un nou fişier
+</tocsect2>
+<tocsect2 linkid="gedit-save-file">Pentru a salva un fişier
+</tocsect2>
+<tocsect2 linkid="gedit-edit-text">Pentru a edita textul
+</tocsect2>
+<tocsect2 linkid="gedit-undo-redo-edits">Pentru a anula sau reface editarea
+</tocsect2>
+<tocsect2 linkid="gedit-find-text">Pentru a căuta un text
+</tocsect2>
+<tocsect2 linkid="gedit-find-replace-text">Pentru a căuta şi înlocui un text
+</tocsect2>
+<tocsect2 linkid="gedit-open-from-uri">Pentru a deschide un fişier dintr-un URI
+</tocsect2>
+<tocsect2 linkid="gedit-pipe-output">Pentru a redirecta ieşirea unei comenzi către un fişier
+</tocsect2>
+<tocsect2 linkid="gedit-goto-line">Pentru a merge la o anumită linie
+</tocsect2>
+<tocsect2 linkid="gedit-input-mode">Pentru a schimba modul de intrare
+</tocsect2>
+<tocsect2 linkid="gedit-print-file">Pentru a tipări un fişier
+<tocsect3 linkid="print-dialog-job">Secţiunea tab Sarcină
+</tocsect3>
+<tocsect3 linkid="print-dialog-printer">Secţiunea tab Imprimantă
+</tocsect3>
+<tocsect3 linkid="print-dialog-paper">Secţiunea tab Pagină
+</tocsect3>
+</tocsect2>
+<tocsect2 linkid="gedit-use-plugins">Pentru a folosi modulele gedit
+</tocsect2>
+<tocsect2 linkid="gedit-install-plugins">Pentru a încărca modulele gedit
+</tocsect2>
+<tocsect2 linkid="gedit-customize-bars">Pentru a personaliza bara de unelte şi bara de status
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="gedit-prefs">Preferinţe
+<tocsect2 linkid="gedit-prefs-editor">Editor
+<tocsect3 linkid="gedit-prefs-fontsandcolors">Fonturi şi culori
+</tocsect3>
+<tocsect3 linkid="gedit-prefs-tabs">Taburi
+</tocsect3>
+<tocsect3 linkid="gedit-prefs-wrapmode">Ruperi
+</tocsect3>
+<tocsect3 linkid="gedit-prefs-linenumbers">Numerotare linii
+</tocsect3>
+<tocsect3 linkid="gedit-prefs-save">Salvează
+</tocsect3>
+<tocsect3 linkid="gedit-prefs-undo">Anulează
+</tocsect3>
+</tocsect2>
+<tocsect2 linkid="gedit-prefs-print">Tipăreşte
+<tocsect3 linkid="gedit-prefs-page">Pagină
+</tocsect3>
+<tocsect3 linkid="gedit-prefs-fonts">Fonturi
+</tocsect3>
+</tocsect2>
+</tocsect1>
+</toc>

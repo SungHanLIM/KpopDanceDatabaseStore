@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<toc>
+<tocsect1 linkid="gcalctool-intro">소개
+</tocsect1>
+<tocsect1 linkid="gcalctool-get-start">시작하기
+</tocsect1>
+<tocsect1 linkid="gcalctool-usage">사용
+<tocsect2 linkid="gcalctool-calc-functions">계산기 기능을 사용하려면
+</tocsect2>
+<tocsect2 linkid="gcalctool-basic-mode">기본 계산을 수행하려면
+<tocsect3 linkid="gcalctool-simple-calc">간단한 계산을 수행하려면
+</tocsect3>
+<tocsect3 linkid="gcalctool-erase-char">문자를 지우려면
+</tocsect3>
+<tocsect3 linkid="gcalctool-arith-calc">산술 계산을 수행하려면
+</tocsect3>
+<tocsect3 linkid="gcalctool-mem-reg">계산기 메모리 레지스터를 사용하려면
+</tocsect3>
+<tocsect3 linkid="gcalctool-ins-ascii">ASCII 값을 표시하려면
+</tocsect3>
+</tocsect2>
+<tocsect2 linkid="gcalctool-financial-mode">금융 계산을 수행하려면
+</tocsect2>
+<tocsect2 linkid="gcalctool-scientific-mode">과학 계산을 수행하려면
+<tocsect3 linkid="gcalctool-set-acc">정확도를 설정하려면
+</tocsect3>
+<tocsect3 linkid="gcalctool-num-base">숫자 기수를 설정하려면
+</tocsect3>
+<tocsect3 linkid="gcalctool-display-type">표시 형식을 설정하려면
+</tocsect3>
+<tocsect3 linkid="gcalctool-trig-type">삼각 함수 형식을 설정하려면
+</tocsect3>
+<tocsect3 linkid="gcalctool-trig-options">삼각 함수 옵션을 설정하려면
+</tocsect3>
+<tocsect3 linkid="gcalctool-trig-calc">삼각 함수 값을 계산하려면
+</tocsect3>
+<tocsect3 linkid="gcalctool-logs-calc">로그 함수를 계산하려면
+</tocsect3>
+<tocsect3 linkid="gcalctool-logic-calc">논리 계산을 수행하려면
+</tocsect3>
+<tocsect3 linkid="gcalctool-enter-exp">지수를 입력하려면
+</tocsect3>
+<tocsect3 linkid="gcalctool-edit-const">상수 값을 사용하려면
+</tocsect3>
+<tocsect3 linkid="gcalctool-edit-func">함수를 사용하려면
+</tocsect3>
+<tocsect3 linkid="gcalctool-num-manip">이진수를 조작하려면
+</tocsect3>
+<tocsect3 linkid="gcalctool-misc-calc">기타 과학 계산을 수행하려면
+</tocsect3>
+</tocsect2>
+<tocsect2 linkid="gcalctool-quit">종료하려면
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="gcalctool-tech-info">기술 정보
+<tocsect2 linkid="gcalctool-manage-order">연산 순서
+</tocsect2>
+<tocsect2 linkid="gcalctool-recognize-error">오류 상태
+</tocsect2>
+<tocsect2 linkid="gcalctool-input-mode">입력 모드를 변경하려면
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="gcalctool-keyboard-shortcut">빠른 참조: 키보드 바로 가기
+</tocsect1>
+</toc>

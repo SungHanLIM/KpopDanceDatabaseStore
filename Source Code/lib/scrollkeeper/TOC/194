@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<toc>
+<tocsect1 linkid="s1-intro">Introduction
+</tocsect1>
+<tocsect1 linkid="s1-playing">Playing Gnometris
+<tocsect2 linkid="s2-block-moving"> Moving the Blocks
+</tocsect2>
+<tocsect2 linkid="s2-newgame">Starting a New Game
+</tocsect2>
+<tocsect2 linkid="s2-pausegame">Pausing the Game
+</tocsect2>
+<tocsect2 linkid="s2-endgame">Ending the Game
+</tocsect2>
+<tocsect2 linkid="s2-quitgame">Quiting the Gnometris
+</tocsect2>
+<tocsect2 linkid="s2-scoring">Scoring Points
+</tocsect2>
+<tocsect2 linkid="s2-pastscores">Viewing Past Scores
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="s1-customizegame">Customizing Gnometris
+<tocsect2 linkid="s2-customstartup">Customizing Game Start-up
+<tocsect3 linkid="s3-numberpfr">Number of Pre-filled Rows
+</tocsect3>
+<tocsect3 linkid="s3-densitypfr">Density of Pre-filled Rows
+</tocsect3>
+<tocsect3 linkid="s3-startlevel">Level to Start On
+</tocsect3>
+</tocsect2>
+<tocsect2 linkid="s3-customblocks">Customizing the Blocks
+<tocsect3 linkid="s3-sound">Enable sounds
+</tocsect3>
+<tocsect3 linkid="s3-nextblock">Preview Next Block
+</tocsect3>
+<tocsect3 linkid="s3-blockcolors">Use Random Block Colors
+</tocsect3>
+<tocsect3 linkid="s3-block-rotation">Rotate Blocks Counterclockwise
+</tocsect3>
+<tocsect3 linkid="s3-show-target">Show where the block will land
+</tocsect3>
+</tocsect2>
+<tocsect2 linkid="s2-customlook">Customizing the Look of Gnometris
+<tocsect3 linkid="s3-blockimage">Block Image
+</tocsect3>
+<tocsect3 linkid="s3-background">Background
+</tocsect3>
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="authors">Authors
+</tocsect1>
+<tocsect1 linkid="s1-license">License
+</tocsect1>
+</toc>

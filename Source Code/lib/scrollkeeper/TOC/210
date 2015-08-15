@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<toc>
+<tocsect1 linkid="gdm-introduction">简介 
+</tocsect1>
+<tocsect1 linkid="gdm-getting-started">入门
+<tocsect2 linkid="gdm-to-start">启动 登录屏幕设置
+</tocsect2>
+<tocsect2 linkid="gdm-when-you-start">在启动 登录屏幕设置 时
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="gdm-preferences">首选项
+<tocsect2 linkid="gdm-prefs-general">常规
+</tocsect2>
+<tocsect2 linkid="gdm-prefs-standard">标准欢迎程序
+</tocsect2>
+<tocsect2 linkid="gdm-prefs-graphical">图形欢迎程序
+</tocsect2>
+<tocsect2 linkid="gdm-prefs-security">安全性
+</tocsect2>
+<tocsect2 linkid="gdm-prefs-xdmcp">XDMCP
+</tocsect2>
+</tocsect1>
+</toc>

@@ -1,0 +1,791 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrollKeeperContentsList>
+
+
+
+  <sect categorycode="Applications">
+    <title>Дастасаваньні</title>
+    <sect categorycode="ApplicationsAmusement">
+      <title>Забавы</title>
+      </sect>
+    <sect categorycode="ApplicationsEducation">
+      <title>Навучаньне</title>
+      <sect categorycode="ApplicationsEducationArts">
+        <title>Мастацтва</title>
+        </sect>
+      <sect categorycode="ApplicationsEducationComputer Science">
+        <title>Кампутаровая навука</title>
+        </sect>
+      <sect categorycode="ApplicationsEducationEnglish">
+        <title>Ангельская</title>
+        </sect>
+      <sect categorycode="ApplicationsEducationLanguage">
+        <title>Мова</title>
+        </sect>
+      <sect categorycode="ApplicationsEducationMaths">
+        <title>Матэматычнае</title>
+        </sect>
+      <sect categorycode="ApplicationsEducationMusic">
+        <title>Музыка</title>
+        </sect>
+      <sect categorycode="ApplicationsEducationScience">
+        <title>Навука</title>
+        </sect>
+      <sect categorycode="ApplicationsEducationTechnology">
+        <title>Тэхналёгія</title>
+        </sect>
+      <sect categorycode="ApplicationsEducationTesting">
+        <title>Тэставаньне</title>
+        </sect>
+      <sect categorycode="ApplicationsEducationOther">
+        <title>Іншае</title>
+        </sect>
+    </sect>
+    <sect categorycode="ApplicationsGames">
+      <title>Гульні</title>
+      <sect categorycode="ApplicationsGamesArcade">
+        <title>Аркада</title>
+        </sect>
+      <sect categorycode="ApplicationsGamesBoard">
+        <title>Настольныя</title>
+        </sect>
+      <sect categorycode="ApplicationsGamesFirst Person Shooters">
+        <title>Баевікі</title>
+        </sect>
+      <sect categorycode="ApplicationsGamesPuzzles">
+        <title>Мазайкі</title>
+        </sect>
+      <sect categorycode="ApplicationsGamesFighting">
+        <title>Бойка</title>
+        </sect>
+      <sect categorycode="ApplicationsGamesRole-Playing">
+        <title>Ролевыя</title>
+        </sect>
+      <sect categorycode="ApplicationsGamesSimulation">
+        <title>Сымулятары</title>
+        </sect>
+      <sect categorycode="ApplicationsGamesStrategy">
+        <title>Стратэгія</title>
+        </sect>
+      <sect categorycode="ApplicationsGamesOther">
+        <title>Іншае</title>
+        </sect>
+    </sect>
+    <sect categorycode="ApplicationsInternet">
+      <title>Інтэрнэт</title>
+      <sect categorycode="ApplicationsInternetChat">
+        <title>Чат</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetEmail">
+        <title>Пошта</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetFax">
+        <title>Факс</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetFile Sharing">
+        <title>Сумесны доступ да файлаў</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetFTP">
+        <title>FTP</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetInternet Phone">
+        <title>Інтэрнэт-тэлефанія</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetMessaging">
+        <title>Паведамленьні</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetNews">
+        <title>Навіны</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetVideo Conferencing">
+        <title>Відэаканфэрэнцыі</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetWeb">
+        <title>Павуціньне</title>
+        </sect>
+      <sect categorycode="ApplicationsInternetOther">
+        <title>Іншае</title>
+        </sect>
+    </sect>
+    <sect categorycode="ApplicationsMultimedia">
+      <title>Мульцімедыя</title>
+      <sect categorycode="ApplicationsMultimediaGraphics">
+        <title>Графіка</title>
+        <sect categorycode="ApplicationsMultimediaGraphics3D Modelling">
+          <title>3D мадэляваньне</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaGraphics3D Rendering">
+          <title>Трохмэрны рэндэрынг</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaGraphicsCAD">
+          <title>CAD</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaGraphicsCapture">
+          <title>Здымак</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaGraphicsConversion">
+          <title>Пераўтварэньне</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaGraphicsDrawing">
+          <title>Рысаваньне</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaGraphicsEditing">
+          <title>Рэдагаваньне</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaGraphicsViewing">
+          <title>Прагляд</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaGraphicsOther">
+          <title>Іншае</title>
+          </sect>
+      </sect>
+      <sect categorycode="ApplicationsMultimediaSound">
+        <title>Гук</title>
+        <sect categorycode="ApplicationsMultimediaSoundAnalysis">
+          <title>Аналіз</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaSoundCD Mastering">
+          <title>Стварэньне CD</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaSoundConversion">
+          <title>Пераўтварэньне</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaSoundEditing">
+          <title>Рэдагаваньне</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaSoundMIDI">
+          <title>MIDI</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaSoundMixers">
+          <title>Мікшары</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaSoundPlayers">
+          <title>Прайгравальнікі</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaSoundRecording">
+          <title>Запіс</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaSoundSpeech">
+          <title>Размова</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaSoundOther">
+          <title>Іншае</title>
+          </sect>
+      </sect>
+      <sect categorycode="ApplicationsMultimediaVideo">
+        <title>Відэа</title>
+        <sect categorycode="ApplicationsMultimediaVideoCapture">
+          <title>Здымак</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaVideoConversion">
+          <title>Пераўтварэньне</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaVideoDisplay">
+          <title>Адлюстраваньне</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaVideoEditing">
+          <title>Рэдагаваньне</title>
+          </sect>
+        <sect categorycode="ApplicationsMultimediaVideoOther">
+          <title>Іншае</title>
+          </sect>
+      </sect>
+      <sect categorycode="ApplicationsMultimediaOther">
+        <title>Іншае</title>
+        </sect>
+    </sect>
+    <sect categorycode="ApplicationsOffice">
+      <title>Офіс</title>
+      <sect categorycode="ApplicationsOfficeCalendar">
+        <title>Каляндар</title>
+        </sect>
+      <sect categorycode="ApplicationsOfficeData Processing">
+        <title>Апрацоўка даньняў</title>
+        </sect>
+      <sect categorycode="ApplicationsOfficeDatabase">
+        <title>База даньняў</title>
+        </sect>
+      <sect categorycode="ApplicationsOfficeEmail">
+        <title>Пошта</title>
+        </sect>
+      <sect categorycode="ApplicationsOfficeFinancial">
+        <title>Фінансы</title>
+        </sect>
+      <sect categorycode="ApplicationsOfficePIM">
+        <title>Пэрсанальны інфармацыйны мэнаджар</title>
+        </sect>
+      <sect categorycode="ApplicationsOfficePlotting">
+        <title>Рысаваньне</title>
+        </sect>
+      <sect categorycode="ApplicationsOfficePresentation">
+        <title>Прэзэнтацыя</title>
+        </sect>
+      <sect categorycode="ApplicationsOfficePublishing">
+        <title>Выдавецтва</title>
+        <sect categorycode="ApplicationsOfficePublishingWeb Publishing">
+          <title>Web-публікацыі</title>
+          </sect>
+      </sect>
+      <sect categorycode="ApplicationsOfficeWord Processing">
+        <title>Апрацоўка тэксту</title>
+        </sect>
+      <sect categorycode="ApplicationsOfficeOther">
+        <title>Іншае</title>
+        </sect>
+    </sect>
+    <sect categorycode="ApplicationsScientific">
+      <title>Навуковыя</title>
+      <sect categorycode="ApplicationsScientificAstronomy">
+        <title>Астрыномія</title>
+        </sect>
+      <sect categorycode="ApplicationsScientificAstrophysics">
+        <title>Астрафізыка</title>
+        </sect>
+      <sect categorycode="ApplicationsScientificBiology">
+        <title>Біялёгія</title>
+        </sect>
+      <sect categorycode="ApplicationsScientificChemistry">
+        <title>Хімія</title>
+        </sect>
+      <sect categorycode="ApplicationsScientificEDA">
+        <title>EDA</title>
+        </sect>
+      <sect categorycode="ApplicationsScientificGenetics">
+        <title>Генэтыка</title>
+        </sect>
+      <sect categorycode="ApplicationsScientificMath">
+        <title>Матэматыка</title>
+        </sect>
+      <sect categorycode="ApplicationsScientificPhysics">
+        <title>Фізыка</title>
+        </sect>
+      <sect categorycode="ApplicationsScientificVisualisation">
+        <title>Візуялізацыя</title>
+        </sect>
+      <sect categorycode="ApplicationsScientificOther">
+        <title>Іншае</title>
+        </sect>
+    </sect>
+    <sect categorycode="ApplicationsSecurity">
+      <title>Бясьпека</title>
+      <sect categorycode="ApplicationsSecurityCryptography">
+        <title>Крыптаграфія</title>
+        </sect>
+      <sect categorycode="ApplicationsSecurityOther">
+        <title>Іншае</title>
+        </sect>
+    </sect>
+    <sect categorycode="ApplicationsText Editors">
+      <title>Тэкставыя рэдактары</title>
+      <sect categorycode="ApplicationsText EditorsCLI">
+        <title>CLI</title>
+        </sect>
+      <sect categorycode="ApplicationsText EditorsGUI">
+        <title>GUI</title>
+        </sect>
+      <sect categorycode="ApplicationsText EditorsOther">
+        <title>Іншае</title>
+        </sect>
+    </sect>
+    <sect categorycode="ApplicationsUtilities">
+      <title>Уціліты</title>
+      <sect categorycode="ApplicationsUtilitiesArchiving">
+        <title>Архіваваньне</title>
+        </sect>
+      <sect categorycode="ApplicationsUtilitiesCalculating">
+        <title>Вылічэньні</title>
+        </sect>
+      <sect categorycode="ApplicationsUtilitiesClocks">
+        <title>Гадзіньнікі</title>
+        </sect>
+      <sect categorycode="ApplicationsUtilitiesCompression">
+        <title>Сьцісканьне</title>
+        </sect>
+      <sect categorycode="ApplicationsUtilitiesFile Utilities">
+        <title>Файлавыя уціліты</title>
+        </sect>
+      <sect categorycode="ApplicationsUtilitiesMonitors">
+        <title>Маніторы</title>
+        </sect>
+      <sect categorycode="ApplicationsUtilitiesPrinting">
+        <title>Друк</title>
+        </sect>
+      <sect categorycode="ApplicationsUtilitiesTerminals">
+        <title>Тэрміналы</title>
+        </sect>
+      <sect categorycode="ApplicationsUtilitiesText Utilities">
+        <title>Тэкставыя уціліты</title>
+        </sect>
+      <sect categorycode="ApplicationsUtilitiesOther">
+        <title>Іншае</title>
+        </sect>
+    </sect>
+    <sect categorycode="ApplicationsX">
+      <title>X</title>
+      <sect categorycode="ApplicationsXConfiguration">
+        <title>Канфігураваньне</title>
+        </sect>
+      <sect categorycode="ApplicationsXFonts">
+        <title>Шрыфты</title>
+        </sect>
+      <sect categorycode="ApplicationsXLogin Managers">
+        <title>Мэнаджары ўваходу</title>
+        </sect>
+      <sect categorycode="ApplicationsXScreensavers">
+        <title>Ахоўнікі экрану</title>
+        </sect>
+      <sect categorycode="ApplicationsXWindow Managers">
+        <title>Ваконныя мэнаджары</title>
+        </sect>
+      <sect categorycode="ApplicationsXOther">
+        <title>Іншае</title>
+        </sect>
+    </sect>
+  </sect>
+
+  <sect categorycode="CDE">
+    <title>CDE</title>
+    </sect>
+
+  <sect categorycode="Development">
+    <title>Распрацоўка</title>
+    <sect categorycode="DevelopmentDatabases">
+      <title>Базы даньняў</title>
+      </sect>
+    <sect categorycode="DevelopmentDevelopment Tools">
+      <title>Інструмэнты распрацоўкі</title>
+      <sect categorycode="DevelopmentDevelopment ToolsBuild Tools">
+        <title>Срадкі распрацоўкі</title>
+        </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsCode Generators">
+        <title>Генератары коду</title>
+        </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsConfiguration">
+        <title>Канфігураваньне</title>
+        </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsDebuggers">
+        <title>Атладчыкі</title>
+        </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsIDEs">
+        <title>Інтэграваныя асяродьдзі</title>
+        </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsPackaging">
+        <title>Сыстэмы пакетаў</title>
+        </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsProfiling">
+        <title>Прафіляваньне</title>
+        </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsRAD">
+        <title>Хуткая распрацоўка дастасаваньняў (RAD)</title>
+        </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsVersion Control">
+        <title>Кантроль версыяў</title>
+        </sect>
+      <sect categorycode="DevelopmentDevelopment ToolsOther">
+        <title>Іншае</title>
+        </sect>
+    </sect>
+    <sect categorycode="DevelopmentEnvironments">
+      <title>Асяродьдзі</title>
+      <sect categorycode="DevelopmentEnvironmentsADA">
+        <title>ADA</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsC">
+        <title>C</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsC++">
+        <title>C++</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsGNOME">
+        <title>GNOME</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsGTK+">
+        <title>GTK+</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsgtk++">
+        <title>Пакет gtk++</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsJava">
+        <title>Java</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsKDE">
+        <title>KDE</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsPerl">
+        <title>Perl</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsPython">
+        <title>Python</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsQt">
+        <title>Qt</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsTcl/Tk">
+        <title>Tcl/Tk</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsWebML">
+        <title>WebML</title>
+        </sect>
+      <sect categorycode="DevelopmentEnvironmentsOther">
+        <title>Іншае</title>
+        </sect>
+    </sect>
+    <sect categorycode="DevelopmentKernels">
+      <title>Ядры</title>
+      <sect categorycode="DevelopmentKernelsFreeBSD">
+        <title>FreeBSD</title>
+        </sect>
+      <sect categorycode="DevelopmentKernelsLinux">
+        <title>Linux</title>
+        </sect>
+      <sect categorycode="DevelopmentKernelsNetBSD">
+        <title>NetBSD</title>
+        </sect>
+      <sect categorycode="DevelopmentKernelsOther">
+        <title>Іншае</title>
+        </sect>
+    </sect>
+    <sect categorycode="DevelopmentLibraries">
+      <title>Бібліятэкі</title>
+      </sect>
+    <sect categorycode="DevelopmentSystem Calls">
+      <title>Сыстэмныя выклікі</title>
+      </sect>
+    <sect categorycode="DevelopmentOther">
+      <title>Іншае</title>
+      </sect>
+  </sect>
+  <sect categorycode="General">
+    <title>Агульнае</title>
+    <sect categorycode="GeneralLicenses">
+      <title>Ліцэнзыі</title>
+      </sect>
+    <sect categorycode="GeneralLinux">
+      <title>Linux</title>
+      <sect categorycode="GeneralLinuxDistributions">
+        <title>Распаўсюд</title>
+        <sect categorycode="GeneralLinuxDistributionsCaldera">
+          <title>Caldera</title>
+          </sect>
+        <sect categorycode="GeneralLinuxDistributionsDebian">
+          <title>Debian</title>
+          </sect>
+        <sect categorycode="GeneralLinuxDistributionsMandrake">
+          <title>Mandrake</title>
+          </sect>
+        <sect categorycode="GeneralLinuxDistributionsRed Flag">
+          <title>Red Flag</title>
+          </sect>
+        <sect categorycode="GeneralLinuxDistributionsRed Hat">
+          <title>Red Hat</title>
+          </sect>
+        <sect categorycode="GeneralLinuxDistributionsSlackware">
+          <title>Slackware</title>
+          </sect>
+        <sect categorycode="GeneralLinuxDistributionsSuSE">
+          <title>SuSE</title>
+          </sect>
+        <sect categorycode="GeneralLinuxDistributionsOther">
+          <title>Іншае</title>
+          </sect>
+      </sect>
+      <sect categorycode="GeneralLinuxGeneral">
+        <title>Агульнае</title>
+        </sect>
+      <sect categorycode="GeneralLinuxOther">
+        <title>Іншае</title>
+        </sect>
+    </sect>
+    <sect categorycode="GeneralOther">
+      <title>Іншае</title>
+      </sect>
+  </sect>
+
+  <sect categorycode="GNOME">
+    <title>GNOME</title>
+    <sect categorycode="GNOMEAccessibility">
+      <title>Зручнасьці</title>
+      </sect>
+    <sect categorycode="GNOMECore Desktop">
+      <title>Ядро стальца</title>
+      </sect>
+    <sect categorycode="GNOMEDesktop">
+      <title>Сталец</title>
+      <sect categorycode="GNOMEDesktopUser Guides">
+        <title>Кіраўніцтвы карыстальніка</title>
+        </sect>
+    </sect>
+    <sect categorycode="GNOMEApplets">
+      <title>Аплеты</title>
+      <sect categorycode="GNOMEAppletsAccessories">
+        <title>Акцэсуары</title>
+        </sect>
+      <sect categorycode="GNOMEAppletsAmusement">
+        <title>Забавы</title>
+        </sect>
+      <sect categorycode="GNOMEAppletsClock">
+        <title>Гадзіньнік</title>
+        </sect>
+      <sect categorycode="GNOMEAppletsInternet">
+        <title>Інтэрнэт</title>
+        </sect>
+      <sect categorycode="GNOMEAppletsMonitors">
+        <title>Маніторы</title>
+        </sect>
+      <sect categorycode="GNOMEAppletsMultimedia">
+        <title>Мульцімедыя</title>
+        </sect>
+      <sect categorycode="GNOMEAppletsNetwork">
+        <title>Сетка</title>
+        </sect>
+      <sect categorycode="GNOMEAppletsUtility">
+        <title>Уціліта</title>
+        </sect>
+    </sect>
+    <sect categorycode="GNOMEApplications">
+      <title>Дастасаваньні</title>
+      <sect categorycode="GNOMEApplicationsAccessories">
+        <title>Акцэсуары</title>
+        </sect>
+      <sect categorycode="GNOMEApplicationsDesktop Preferences">
+        <title>Уласьцівасьці стальца</title>
+        </sect>
+      <sect categorycode="GNOMEApplicationsGames">
+        <title>Гульні</title>
+        </sect>
+      <sect categorycode="GNOMEApplicationsGraphics">
+        <title>Графіка</title>
+        </sect>
+      <sect categorycode="GNOMEApplicationsInternet">
+        <title>Інтэрнэт</title>
+        </sect>
+      <sect categorycode="GNOMEApplicationsOffice">
+        <title>Офіс</title>
+        </sect>
+      <sect categorycode="GNOMEApplicationsProgramming">
+        <title>Праграмаваньне</title>
+        </sect>
+      <sect categorycode="GNOMEApplicationsSound and Video">
+        <title>Гук і відэа</title>
+        </sect>
+      <sect categorycode="GNOMEApplicationsSystem Tools">
+        <title>Сыстэмныя інструмэнты</title>
+        </sect>
+    </sect>
+    <sect categorycode="GNOMEPreferences">
+      <title>Уласьцівасьці</title>
+      </sect>
+    <sect categorycode="GNOMESystem Administration">
+      <title>Сыстэмнае адміністраваньне</title>
+      </sect>
+    <sect categorycode="GNOMEUtilities">
+      <title>Уціліты</title>
+      </sect>
+    <sect categorycode="GNOMEDevelopment">
+      <title>Распрацоўка</title>
+      <sect categorycode="GNOMEDevelopmentApplications">
+        <title>Дастасаваньні</title>
+        </sect>
+      <sect categorycode="GNOMEDevelopmentIntroductory">
+        <title>Азнаямленьне</title>
+        </sect>
+      <sect categorycode="GNOMEDevelopmentTutorials">
+        <title>Навучаньне</title>
+        </sect>
+      <sect categorycode="GNOMEDevelopmentWhite Papers">
+        <title>Стандарты</title>
+        </sect>
+    </sect>
+    <sect categorycode="GNOMEGames">
+      <title>Гульні</title>
+      </sect>
+    <sect categorycode="GNOMEGraphics">
+      <title>Графіка</title>
+      </sect>
+    <sect categorycode="GNOMEInternet">
+      <title>Інтэрнэт</title>
+      </sect>
+    <sect categorycode="GNOMEMultimedia">
+      <title>Мульцімедыя</title>
+      </sect>
+    <sect categorycode="GNOMESettings">
+      <title>Наладкі</title>
+      </sect>
+    <sect categorycode="GNOMESystem">
+      <title>Сыстэма</title>
+      </sect>
+    <sect categorycode="GNOMEOther">
+      <title>Іншае</title>
+      </sect>
+  </sect>
+
+  <sect categorycode="KDE">
+    <title>KDE</title>
+    <sect categorycode="KDEUtilities">
+      <title>Уціліты</title>
+      </sect>
+    <sect categorycode="KDEApplications">
+      <title>Дастасаваньні</title>
+      </sect>
+    <sect categorycode="KDEGames">
+      <title>Гульні</title>
+      </sect>
+    <sect categorycode="KDEGraphics">
+      <title>Графіка</title>
+      </sect>
+    <sect categorycode="KDEInternet">
+      <title>Інтэрнэт</title>
+      </sect>
+    <sect categorycode="KDEMultimedia">
+      <title>Мульцімедыя</title>
+      </sect>
+    <sect categorycode="KDESettings">
+      <title>Наладкі</title>
+      </sect>
+    <sect categorycode="KDESystem">
+      <title>Сыстэма</title>
+      </sect>
+    <sect categorycode="KDEPrograms">
+      <title>Праграмы</title>
+      </sect>
+    <sect categorycode="KDEDevelopment">
+      <title>Распрацоўка</title>
+      </sect>
+    <sect categorycode="KDEOther">
+      <title>Іншае</title>
+      </sect>
+  </sect>
+
+  <sect categorycode="System">
+    <title>Сыстэма</title>
+    <sect categorycode="SystemAdministration">
+      <title>Адміністраваньне</title>
+      <sect categorycode="SystemAdministrationBackups">
+        <title>Рэзэрвовае капіяваньне</title>
+        <sect categorycode="SystemAdministrationBackupsLocal">
+          <title>Лякальнае</title>
+          </sect>
+        <sect categorycode="SystemAdministrationBackupsRemote">
+          <title>Аддаленыя</title>
+          </sect>
+      </sect>
+      <sect categorycode="SystemAdministrationFilesystems">
+        <title>Файлавыя сыстэмы</title>
+        </sect>
+      <sect categorycode="SystemAdministrationNetworking">
+        <title>Прагляд сеткі</title>
+        <sect categorycode="SystemAdministrationNetworkingAppleTalk">
+          <title>AppleTalk</title>
+          </sect>
+        <sect categorycode="SystemAdministrationNetworkingPPP">
+          <title>PPP</title>
+          </sect>
+        <sect categorycode="SystemAdministrationNetworkingSMB">
+          <title>SMB</title>
+          </sect>
+        <sect categorycode="SystemAdministrationNetworkingTCP/IP">
+          <title>TCP/IP</title>
+          </sect>
+        <sect categorycode="SystemAdministrationNetworkingDNS">
+          <title>DNS</title>
+          </sect>
+        <sect categorycode="SystemAdministrationNetworkingOther">
+          <title>Іншае</title>
+          </sect>
+      </sect>
+      <sect categorycode="SystemAdministrationUsers">
+        <title>Карыстальнікі</title>
+        </sect>
+      <sect categorycode="SystemAdministrationOther">
+        <title>Іншае</title>
+        </sect>
+    </sect>
+    <sect categorycode="SystemConfiguration">
+      <title>Канфігураваньне</title>
+      <sect categorycode="SystemConfigurationConfig Files">
+        <title>Файлы канфігураваньня</title>
+        </sect>
+      <sect categorycode="SystemConfigurationConfiguration Tools">
+        <title>Сродкі канфігураваньня</title>
+        </sect>
+      <sect categorycode="SystemConfigurationOther">
+        <title>Іншае</title>
+        </sect>
+    </sect>
+    <sect categorycode="SystemHardware">
+      <title>Абсталяваньне</title>
+      <sect categorycode="SystemHardwareProcessor">
+        <title>Працэсар</title>
+        </sect>
+      <sect categorycode="SystemHardwareStorage">
+        <title>Сховішча</title>
+        </sect>
+      <sect categorycode="SystemHardwareVideo">
+        <title>Відэа</title>
+        </sect>
+      <sect categorycode="SystemHardwareInput Devices">
+        <title>Прылады ўводу</title>
+        </sect>
+      <sect categorycode="SystemHardwareNetworking">
+        <title>Прагляд сеткі</title>
+        </sect>
+      <sect categorycode="SystemHardwarePCI/ISA/PCMCIA">
+        <title>PCI/ISA/PCMCIA</title>
+        </sect>
+      <sect categorycode="SystemHardwareOther">
+        <title>Іншае</title>
+        </sect>
+    </sect>
+    <sect categorycode="SystemPackage Management">
+      <title>Кіраваньне пакетамі</title>
+      </sect>
+    <sect categorycode="SystemSecurity">
+      <title>Бясьпека</title>
+      <sect categorycode="SystemSecurityFirewall">
+        <title>Брандмаўэр</title>
+        </sect>
+      <sect categorycode="SystemSecurityIntrusion Detection">
+        <title>Вызначэньне пранікненьня</title>
+        </sect>
+      <sect categorycode="SystemSecurityVirus">
+        <title>Вірус</title>
+        </sect>
+      <sect categorycode="SystemSecurityOther">
+        <title>Іншае</title>
+        </sect>
+    </sect>
+    <sect categorycode="SystemServices">
+      <title>Паслугі</title>
+      <sect categorycode="SystemServicesHTTP">
+        <title>HTTP</title>
+        </sect>
+      <sect categorycode="SystemServicesFTP">
+        <title>FTP</title>
+        </sect>
+      <sect categorycode="SystemServicesSMB">
+        <title>SMB</title>
+        </sect>
+      <sect categorycode="SystemServicesSSH">
+        <title>SSH</title>
+        </sect>
+      <sect categorycode="SystemServicesTelnet">
+        <title>Telnet</title>
+        </sect>
+      <sect categorycode="SystemServicesSyslog">
+        <title>Сыстэмны лог</title>
+        </sect>
+      <sect categorycode="SystemServicesBIND">
+        <title>BIND</title>
+        </sect>
+      <sect categorycode="SystemServicesPrinting">
+        <title>Друк</title>
+        </sect>
+      <sect categorycode="SystemServicesOther">
+        <title>Іншае</title>
+        </sect>
+    </sect>
+    <sect categorycode="SystemOther">
+      <title>Іншае</title>
+      </sect>
+  </sect>
+</ScrollKeeperContentsList>

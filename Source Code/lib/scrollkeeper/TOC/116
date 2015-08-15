@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<toc>
+<tocsect1 linkid="gtcd-introduction">Introducción
+</tocsect1>
+<tocsect1 linkid="gtcd-getting-started">Procedimientos iniciales
+<tocsect2 linkid="gtcd-to-start">Iniciar el lector de CD
+</tocsect2>
+<tocsect2 linkid="gtcd-when-start">Al iniciar el lector de CD
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="gtcd-usage">Uso
+<tocsect2 linkid="gtcd_play">Reproducir un CD
+</tocsect2>
+<tocsect2 linkid="gtcd_pause">Efectuar una pausa en un CD
+</tocsect2>
+<tocsect2 linkid="gtcd_movetracks">Desplazarse por las pistas
+</tocsect2>
+<tocsect2 linkid="gtcd_forward">Pasar con rapidez una pista hacia delante
+</tocsect2>
+<tocsect2 linkid="gtcd_rewind">Rebobinar una pista
+</tocsect2>
+<tocsect2 linkid="gtcd_stop">Parar un CD
+</tocsect2>
+<tocsect2 linkid="gtcd_adjust_vol">Ajustar el volumen
+</tocsect2>
+<tocsect2 linkid="gtcd_edit_info">Editar información sobre el CD
+</tocsect2>
+<tocsect2 linkid="gtcd_eject">Expulsar un CD
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="gtcd-prefs">Preferencias
+</tocsect1>
+</toc>

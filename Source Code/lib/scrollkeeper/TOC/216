@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<toc>
+<tocsect1 linkid="gdm-introduction">Introduzione 
+</tocsect1>
+<tocsect1 linkid="gdm-getting-started">Per iniziare
+<tocsect2 linkid="gdm-to-start">Avviare Configurazione della schermata di login
+</tocsect2>
+<tocsect2 linkid="gdm-when-you-start">Avvio di Configurazione della schermata di login
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="gdm-preferences">Preferenze
+<tocsect2 linkid="gdm-prefs-general">Generale
+</tocsect2>
+<tocsect2 linkid="gdm-prefs-standard">Greeter standard
+</tocsect2>
+<tocsect2 linkid="gdm-prefs-graphical">Greeter grafico
+</tocsect2>
+<tocsect2 linkid="gdm-prefs-security">Sicurezza
+</tocsect2>
+<tocsect2 linkid="gdm-prefs-xdmcp">XDMCP
+</tocsect2>
+</tocsect1>
+</toc>

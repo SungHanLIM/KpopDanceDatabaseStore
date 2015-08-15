@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<toc>
+<tocsect1 linkid="gnome-netstatus-intro">简介
+<tocsect2 linkid="gnome-netstatus-intro-add">将 网络监视器 添加到面板 
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="gnome-netstatus-usage">用法 
+</tocsect1>
+<tocsect1 linkid="gnome-netstatus-props">属性 
+<tocsect2 linkid="gnome-netstatus-props-gen">常规 
+</tocsect2>
+<tocsect2 linkid="gnome-netstatus-props-supp">支持 
+</tocsect2>
+</tocsect1>
+</toc>

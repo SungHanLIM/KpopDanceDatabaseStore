@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<toc>
+<tocsect1 linkid="intro">Introduction
+</tocsect1>
+<tocsect1 linkid="objective">Nibbles Objective
+</tocsect1>
+<tocsect1 linkid="usage">Using Nibbles
+<tocsect2 linkid="mainwin">Basic usage
+</tocsect2>
+<tocsect2 linkid="menubar">Menus
+</tocsect2>
+<tocsect2 linkid="diamonds">Diamonds
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="prefs">Customization
+</tocsect1>
+<tocsect1 linkid="authors">Authors
+</tocsect1>
+<tocsect1 linkid="license">License
+</tocsect1>
+</toc>

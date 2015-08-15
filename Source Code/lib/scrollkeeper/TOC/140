@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<toc>
+<tocsect1 linkid="gcalctool-intro">Introduzione
+</tocsect1>
+<tocsect1 linkid="gcalctool-get-start">Per iniziare
+</tocsect1>
+<tocsect1 linkid="gcalctool-usage">Utilizzo
+<tocsect2 linkid="gcalctool-calc-functions">Utilizzare le funzioni della calcolatrice
+</tocsect2>
+<tocsect2 linkid="gcalctool-basic-mode">Eseguire calcoli di base
+<tocsect3 linkid="gcalctool-simple-calc">Eseguire calcoli semplici
+</tocsect3>
+<tocsect3 linkid="gcalctool-erase-char">Eliminare i caratteri
+</tocsect3>
+<tocsect3 linkid="gcalctool-arith-calc">Eseguire calcoli aritmetici
+</tocsect3>
+<tocsect3 linkid="gcalctool-mem-reg">Usare i registri di memoria della calcolatrice
+</tocsect3>
+<tocsect3 linkid="gcalctool-ins-ascii">Visualizzare valori ASCII
+</tocsect3>
+</tocsect2>
+<tocsect2 linkid="gcalctool-financial-mode">Eseguire calcoli finanziari
+</tocsect2>
+<tocsect2 linkid="gcalctool-scientific-mode">Eseguire calcoli scientifici
+<tocsect3 linkid="gcalctool-set-acc">Impostare la precisione
+</tocsect3>
+<tocsect3 linkid="gcalctool-num-base">Impostare la base numerica
+</tocsect3>
+<tocsect3 linkid="gcalctool-display-type">Impostare il tipo di visualizzazione
+</tocsect3>
+<tocsect3 linkid="gcalctool-trig-type">Impostare il tipo trigonometrico
+</tocsect3>
+<tocsect3 linkid="gcalctool-trig-options">Impostare le opzioni trigonometriche
+</tocsect3>
+<tocsect3 linkid="gcalctool-trig-calc">Calcolare valori trigonometrici
+</tocsect3>
+<tocsect3 linkid="gcalctool-logs-calc">Calcolare logaritmi
+</tocsect3>
+<tocsect3 linkid="gcalctool-logic-calc">Eseguire operazioni logiche
+</tocsect3>
+<tocsect3 linkid="gcalctool-enter-exp">Inserire numeri esponenziali
+</tocsect3>
+<tocsect3 linkid="gcalctool-edit-const">Usare le costanti
+</tocsect3>
+<tocsect3 linkid="gcalctool-edit-func">Utilizzare le funzioni
+</tocsect3>
+<tocsect3 linkid="gcalctool-num-manip">Operare con i numeri binari
+</tocsect3>
+<tocsect3 linkid="gcalctool-misc-calc">Eseguire varie operazioni scientifiche
+</tocsect3>
+</tocsect2>
+<tocsect2 linkid="gcalctool-quit">Uscire
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="gcalctool-tech-info">Informazioni tecniche
+<tocsect2 linkid="gcalctool-manage-order">Ordine delle operazioni
+</tocsect2>
+<tocsect2 linkid="gcalctool-recognize-error">Condizioni di errore
+</tocsect2>
+<tocsect2 linkid="gcalctool-input-mode">Modificare il metodo di input
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="gcalctool-keyboard-shortcut">Riferimento rapido: scelte rapide
+</tocsect1>
+</toc>

@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<toc>
+<tocsect1 linkid="totem-introduction">Introducción
+</tocsect1>
+<tocsect1 linkid="totem-getting-started">Inicio de la aplicación
+<tocsect2 linkid="totem-start">To Start Totem Movie Player
+</tocsect2>
+<tocsect2 linkid="totem-when-start">When You Start Totem Movie Player
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="totem-usage">Uso
+<tocsect2 linkid="totem-open-file">Para abrir un archivo
+</tocsect2>
+<tocsect2 linkid="totem-usage-open-location">Para abrir una dirección
+</tocsect2>
+<tocsect2 linkid="totem-usage-play">Para reproducir un DVD, VCD o CD
+</tocsect2>
+<tocsect2 linkid="totem-usage-eject">Para expulsar un DVD, VCD o CD
+</tocsect2>
+<tocsect2 linkid="totem-usage-pause">Para pausar una película o canción
+</tocsect2>
+<tocsect2 linkid="totem-usage-view-properties">Para ver las propiedades de una película o canción
+</tocsect2>
+<tocsect2 linkid="totem-usage-seek">Para buscar a lo largo de películas o canciones
+</tocsect2>
+<tocsect2 linkid="totem-usage-change-zoom">Para cambiar el factor de ampliación
+</tocsect2>
+<tocsect2 linkid="totem-usage-adjust-volume">Para ajustar el volumen
+</tocsect2>
+<tocsect2 linkid="totem-usage-on-top">Para hacer que la ventana siempre esté encima
+</tocsect2>
+<tocsect2 linkid="totem-usage-show-control">Para mostrar u ocultar los controles
+</tocsect2>
+<tocsect2 linkid="totem-usage-playlist">Para gestionar una lista de reproducción
+<tocsect3 linkid="totem-usage-playlist-show-hide">Para mostrar u ocultar una lista de reproducción
+</tocsect3>
+<tocsect3 linkid="totem-usage-playlist-manage">Administración de una lista de reproducción
+</tocsect3>
+<tocsect3 linkid="totem-usage-playlist-repeat">Para seleccionar o deseleccionar el modo de repetición
+</tocsect3>
+<tocsect3 linkid="totem-usage-playlist-shuffle">Para seleccionar o deseleccionar el modo aleatorio
+</tocsect3>
+</tocsect2>
+<tocsect2 linkid="totem-usage-take-screenshot">Para tomar una instantánea
+</tocsect2>
+<tocsect2 linkid="totem-usage-quit">To Quit Totem Movie Player
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="totem-prefs">Preferencias
+<tocsect2 linkid="totem-prefs-general">General
+</tocsect2>
+<tocsect2 linkid="totem-prefs-display">Área de visualización
+</tocsect2>
+<tocsect2 linkid="totem-prefs-audio">Sonido
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="totem-about">About Totem Movie Player
+</tocsect1>
+</toc>

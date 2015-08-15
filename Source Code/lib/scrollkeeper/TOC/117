@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<toc>
+<tocsect1 linkid="gtcd-introduction">Einführung
+</tocsect1>
+<tocsect1 linkid="gtcd-getting-started">Erste Schritte
+<tocsect2 linkid="gtcd-to-start">So starten Sie den CD-Spieler
+</tocsect2>
+<tocsect2 linkid="gtcd-when-start">Beim Starten des CD-Spielers
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="gtcd-usage">Verwendung
+<tocsect2 linkid="gtcd_play">So geben Sie eine CD wieder
+</tocsect2>
+<tocsect2 linkid="gtcd_pause">So halten Sie eine CD an
+</tocsect2>
+<tocsect2 linkid="gtcd_movetracks">So bewegen Sie sich durch die CD-Tracks
+</tocsect2>
+<tocsect2 linkid="gtcd_forward">So spulen Sie einen Track schnell vorwärts
+</tocsect2>
+<tocsect2 linkid="gtcd_rewind">So spulen Sie einen Track zurück
+</tocsect2>
+<tocsect2 linkid="gtcd_stop">So stoppen Sie eine CD
+</tocsect2>
+<tocsect2 linkid="gtcd_adjust_vol">So stellen Sie die Lautstärke ein
+</tocsect2>
+<tocsect2 linkid="gtcd_edit_info">So bearbeiten Sie die CD-Informationen
+</tocsect2>
+<tocsect2 linkid="gtcd_eject">So werfen Sie eine CD aus
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="gtcd-prefs">Einstellungen
+</tocsect1>
+</toc>

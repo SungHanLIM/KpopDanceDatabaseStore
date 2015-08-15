@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<toc>
+<tocsect1 linkid="gtcd-introduction">소개
+</tocsect1>
+<tocsect1 linkid="gtcd-getting-started">시작하기
+<tocsect2 linkid="gtcd-to-start">CD 플레이어를 시작하려면
+</tocsect2>
+<tocsect2 linkid="gtcd-when-start">CD 플레이어 시작
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="gtcd-usage">사용
+<tocsect2 linkid="gtcd_play">CD를 재생하려면
+</tocsect2>
+<tocsect2 linkid="gtcd_pause">CD를 일시 중지하려면
+</tocsect2>
+<tocsect2 linkid="gtcd_movetracks">트랙 간에 이동하려면
+</tocsect2>
+<tocsect2 linkid="gtcd_forward">트랙을 앞으로 빨리 감으려면
+</tocsect2>
+<tocsect2 linkid="gtcd_rewind">트랙을 되감으려면
+</tocsect2>
+<tocsect2 linkid="gtcd_stop">CD를 중지하려면
+</tocsect2>
+<tocsect2 linkid="gtcd_adjust_vol">볼륨을 조절하려면
+</tocsect2>
+<tocsect2 linkid="gtcd_edit_info">CD 정보를 편집하려면
+</tocsect2>
+<tocsect2 linkid="gtcd_eject">CD를 꺼내려면
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="gtcd-prefs">환경 설정
+</tocsect1>
+</toc>

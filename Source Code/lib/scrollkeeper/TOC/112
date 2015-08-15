@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<toc>
+<tocsect1 linkid="gtcd-introduction">Вступ
+</tocsect1>
+<tocsect1 linkid="gtcd-getting-started">Початок роботи
+<tocsect2 linkid="gtcd-to-start">Запуск програвача компакт-дисків
+</tocsect2>
+<tocsect2 linkid="gtcd-when-start">Після запуску програвача компакт-дисків
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="gtcd-usage">Використання
+<tocsect2 linkid="gtcd_play">Відтворення компакт-диску
+</tocsect2>
+<tocsect2 linkid="gtcd_movetracks">Переміщення між доріжками
+</tocsect2>
+<tocsect2 linkid="gtcd_forward">Швидкий перехід вперед
+</tocsect2>
+<tocsect2 linkid="gtcd_rewind">Перехід назад
+</tocsect2>
+<tocsect2 linkid="gtcd_pause">Призупинення відтворення
+</tocsect2>
+<tocsect2 linkid="gtcd_stop">Зупинення відтворення
+</tocsect2>
+<tocsect2 linkid="gtcd_adjust_vol">Регулювання гучності
+</tocsect2>
+<tocsect2 linkid="gtcd_edit_info">Редагування інформації про компакт-диск
+</tocsect2>
+<tocsect2 linkid="gtcd_eject">Витягування компакт-диску
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="gtcd-prefs">Параметри
+</tocsect1>
+</toc>

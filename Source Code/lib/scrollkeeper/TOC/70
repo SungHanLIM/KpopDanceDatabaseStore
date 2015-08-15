@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<toc>
+<tocsect1 linkid="gucharmap-introduction">소개
+</tocsect1>
+<tocsect1 linkid="gucharmap-getting-started">시작하기
+<tocsect2 linkid="gucharmap-start">Unicode Character Map을(를) 시작하려면
+</tocsect2>
+<tocsect2 linkid="gucharmap-when-start">Unicode Character Map 시작
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="gucharmap-usage">사용
+<tocsect2 linkid="gucharmap-create-textstring">텍스트 문자열을 만들려면
+</tocsect2>
+<tocsect2 linkid="gucharmap-copy-textstring">텍스트 문자열을 복사하여 응용프로그램에 붙여 넣으려면
+</tocsect2>
+<tocsect2 linkid="gucharmap-change-charset">입력 모드를 변경하려면
+</tocsect2>
+<tocsect2 linkid="usage-find-character">문자를 검색하려면
+<tocsect3 linkid="usage-find-character-name">유니코드 이름으로 문자를 검색하려면
+</tocsect3>
+<tocsect3 linkid="usage-find-character-code">유니코드 번호로 문자를 검색하려면
+</tocsect3>
+<tocsect3 linkid="usage-find-character-clipboard">클립보드의 첫 번째 문자를 검색하려면
+</tocsect3>
+<tocsect3 linkid="usage-find-character-otherapp">다른 응용프로그램의 문자를 검색하려면
+</tocsect3>
+</tocsect2>
+<tocsect2 linkid="usage-browse-characters">모든 문자를 찾으려면
+</tocsect2>
+<tocsect2 linkid="usage-display-details">문자에 대한 자세한 정보를 표시하려면
+</tocsect2>
+<tocsect2 linkid="usage-format-character">문자 형식을 변경하려면
+</tocsect2>
+<tocsect2 linkid="usage-format-chartable">글자 표의 형식을 변경하려면
+</tocsect2>
+</tocsect1>
+</toc>

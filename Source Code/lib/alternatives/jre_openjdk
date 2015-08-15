@@ -1,0 +1,8 @@
+auto
+/usr/lib/jvm/jre-openjdk
+jre_openjdk_exports
+/usr/lib/jvm-exports/jre-openjdk
+
+/usr/lib/jvm/jre-1.6.0-openjdk
+16000
+/usr/lib/jvm-exports/jre-1.6.0-openjdk

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<indexdoc>
+  <indexitem>
+    <title>Mappa caratteri</title>
+    <link linkid="index"/>
+  </indexitem>
+  <indexitem>
+    <title>Mappa caratteri unicode</title>
+    <link linkid="index"/>
+  </indexitem>
+  <indexitem>
+    <title>gucharmap</title>
+    <link linkid="index"/>
+  </indexitem>
+</indexdoc>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<indexdoc>
+  <indexitem>
+    <title>OMF Files</title>
+    <indexitem>
+      <title>Writing</title>
+      <link linkid="index"/>
+    </indexitem>
+  </indexitem>
+  <indexitem>
+    <title>ScrollKeeper</title>
+    <indexitem>
+      <title>OMF Files</title>
+      <link linkid="index"/>
+    </indexitem>
+  </indexitem>
+</indexdoc>

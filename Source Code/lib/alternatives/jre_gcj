@@ -1,0 +1,8 @@
+auto
+/usr/lib/jvm/jre-gcj
+jre_gcj_exports
+/usr/lib/jvm-exports/jre-gcj
+
+/usr/lib/jvm/jre-1.4.2-gcj
+1420
+/usr/lib/jvm-exports/jre-1.4.2-gcj

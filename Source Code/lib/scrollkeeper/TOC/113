@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<toc>
+<tocsect1 linkid="gtcd-introduction">简介
+</tocsect1>
+<tocsect1 linkid="gtcd-getting-started">入门
+<tocsect2 linkid="gtcd-to-start">启动 CD 播放机
+</tocsect2>
+<tocsect2 linkid="gtcd-when-start">在启动 CD 播放机时
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="gtcd-usage">用法
+<tocsect2 linkid="gtcd_play">播放 CD
+</tocsect2>
+<tocsect2 linkid="gtcd_pause">暂停 CD
+</tocsect2>
+<tocsect2 linkid="gtcd_movetracks">在音轨之间移动
+</tocsect2>
+<tocsect2 linkid="gtcd_forward">快进音轨
+</tocsect2>
+<tocsect2 linkid="gtcd_rewind">回退音轨
+</tocsect2>
+<tocsect2 linkid="gtcd_stop">停止 CD
+</tocsect2>
+<tocsect2 linkid="gtcd_adjust_vol">调整音量
+</tocsect2>
+<tocsect2 linkid="gtcd_edit_info">编辑 CD 信息
+</tocsect2>
+<tocsect2 linkid="gtcd_eject">弹出 CD
+</tocsect2>
+</tocsect1>
+<tocsect1 linkid="gtcd-prefs">首选项
+</tocsect1>
+</toc>
