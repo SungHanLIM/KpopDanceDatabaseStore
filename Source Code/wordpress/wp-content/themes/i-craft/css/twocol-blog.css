@@ -1,0 +1,99 @@
+@charset "utf-8";
+/* CSS Document */
+
+.blog .site-content .blog-columns {
+	display: block;
+	width: 100%;
+	width: calc(100% + 32px);
+	position: relative;
+	margin-left: -16px;
+	margin-right: -16px;
+}
+
+body.blog .site-content .blog-columns .post {
+	display: inline-block;
+	width: 50%;
+ 	padding: 32px 16px;
+}
+
+
+body.blog .sidebar .site-content .blog-columns .post {
+	display: inline-block;
+	width: 50%;
+ 	padding: 32px;
+}
+
+
+body.blog .site-content .blog-columns div.meta-img,
+body.blog .site-content .blog-columns .post div.post-mainpart {
+	float: none;
+	width: 100%!important;
+}
+
+body.blog .site-content .blog-columns .entry-thumbnail {
+	padding: 0px!important;
+}
+
+body.blog .site-content .blog-columns .post.type-post div.meta-img.no-image-meta + div.post-mainpart {
+	width: 100%;
+	padding-left: 0%;
+}
+
+body.blog article div.post-mainpart > div.entry-content {
+	padding-right: 0%;
+}
+
+body.blog .paging-navigation {
+	display: block;
+	width: 100%;
+}
+
+.blog-columns .entry-thumbnail img {
+	width: 100%;
+	height: auto;
+}
+
+.site-content .blog-columns .post .meta-img {
+	width: 100%;
+	height: auto;
+	padding: 0px;
+}
+
+
+.blog-columns .entry-meta {
+	margin-bottom: 24px;
+}
+
+@media (max-width: 999px) {
+	body.blog .site-content .blog-columns .post,
+	body.blog .sidebar .site-content .blog-columns .post {
+	}		
+}
+
+@media (max-width: 767px) {
+	body.blog .site-content .blog-columns .post,
+	body.blog .sidebar .site-content .blog-columns .post {
+		display: block;
+		width: 100%;
+	}	
+	.site-content .blog-columns .post.type-post div.meta-img {
+		display: block;
+		float: none;
+		width: 100%;
+		margin-top: 8px;
+	}
+	.site-content .blog-columns .post.type-post div.post-mainpart {
+  		width: 100%;
+		margin: 0 0%; 
+	}
+	
+	.site-content .blog-columns .post.type-post div.meta-img div.entry-thumbnail {
+	  	padding-right: 0%;
+	  	padding-left: 0%;
+	}
+	
+	.site-content .blog-columns .post.type-post div.meta-img.no-image-meta+div.post-mainpart {
+		width: 100%;
+		padding-left: 0%;
+	}
+}

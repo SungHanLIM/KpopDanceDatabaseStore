@@ -1,0 +1,188 @@
+
+
+.form-table .tx-heading {
+	margin: 0px;
+	padding: 0px;
+}
+
+.form-table .tx-heading h2 {
+	margin: 0px;
+	padding: 0px;
+	padding-bottom: 4px;
+	border-bottom: 1px solid #CCC;
+	margin-bottom: 12px;
+}
+
+
+.wp_themeSkin span.mceIcon, 
+.wp_themeSkin img.mceIcon,
+.wp_themeSkin .mce_txshortcodes.mceButton,
+.wp_themeSkin .mce_txshortcodes span.mceIcon, 
+.wp_themeSkin .mce_txshortcodes img.mceIcon {
+	width: 96px;
+}
+
+button .mce-i-tx-mce-icon {
+	display: block;
+	background-image: URL(../tx-shortcode.png);
+}
+
+/**/
+#txshortcodes-table td.shortcode-list {
+	border: 1px solid #CCC;
+	padding-bottom: 8px;
+	padding-top: 8px;
+	margin-bottom: 1px;
+}
+
+#txshortcodes-table td.shortcode-list span {
+	cursor: pointer;
+	color: #676767;
+}
+
+#txshortcodes-table td.shortcode-list span:hover {
+	color: #373737;
+}
+
+.tx-sh-form small {
+	color: #777;
+}
+
+ul.tx-fa-icons > li {
+	display: block;
+	float: left;
+	margin-right: 1px;
+	margin-bottom: 1px;
+	padding: 4px;
+	border: 1px solid #e7e7e7;
+	width: 20px;
+	height: 20px;
+	line-height: 20px;
+	text-align: center;
+	color: #676767;
+	cursor: pointer;
+}
+
+ul.tx-fa-icons > li:hover {
+	color: #373737;
+}
+
+ul.tx-fa-icons > li.active {
+	border: 1px solid #069;
+}
+
+.tnext-bottom-lebel {
+	text-align: right;
+	font-size: 12px;
+	color: #999;
+	display: block;
+	position: absolute;
+	left: 14px;
+	bottom: 4px;
+}
+
+.form-table select,
+.form-table input[type="text"],
+.form-table input[type="number"],
+.form-table textarea {
+	width: 96%;
+}
+
+.form-table textarea,
+.form-table input[type="text"],
+.form-table input[type="number"] {
+	padding: 8px 4px;
+}
+
+.form-table select {
+	height: 32px;
+	line-height: 32px;
+}
+
+.form-table {
+}
+
+.awedrop {
+	max-height: 320px;
+	overflow-y: scroll;
+	max-width: 400px;
+}
+
+.tx-sh-form {
+	margin-bottom: 32px;
+	overflow: hidden;
+}
+
+#menu-posts-portfolio .wp-menu-image {}
+
+.tx-form-wrap {
+	min-width: 600px;
+}
+
+#tx-shortcode-form {
+	padding: 12px 16px;
+	min-width: 480px;
+}
+
+.txx-sh-form,
+#tx-column-form,
+#tx-devider-form,
+#tx-testimonial-form,
+#tx-button-form,
+#tx-calltoact-form,
+#tx-service-form,
+#tx-portfolio-form,
+#tx-blog-form,
+#tx-spacer-form,
+#tx-wooprods-form,
+#tx-heading-form,
+#tx-slider-form,
+#tx-image-form {
+	padding: 12px 16px;
+	min-width: 480px;	
+}
+
+.nx-sh-cancel {
+	padding-top: 16px;
+}
+
+.tx-button {
+	background: transparent;
+	border: 1px solid #cccccc;
+	background-color: #e7e7e7;
+	font-size: 12px;
+	line-height: 1;
+	padding: 8px 16px;
+	color: #373737;
+	font-weight: 500;
+	margin-top: 4px;
+	cursor: pointer;
+}
+
+.tx-button:hover {
+	border: 1px solid #373737;
+	background-color: #373737;
+	color: #FFFFFF;
+}
+
+.tx-outer-footer {}
+
+.tx-outer-footer a,
+.tx-outer-footer a:visited {
+	text-decoration: none;	
+	transition: all .2s;
+	-o-transition: all .2s;
+	-ie-transition: all .2s;
+	-moz-transition: all .2s;
+	-webkit-transition: all .2s;	
+}
+
+.tx-outer-footer a:hover {
+	text-decoration: underline;	
+}
+
+.tx-bottom-promo {
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+}
